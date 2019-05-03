@@ -3,7 +3,7 @@
 ## Thursday May 16, 2019 
 ### **Time:** 6pm PST
   
-### **Agenda:** *(Make pull requests for proposals) )*
+### **Agenda:** *(Make pull requests for proposals)*
  - **Logistics:** 
    - Organization name
    - 
