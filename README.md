@@ -3,7 +3,7 @@
 ## Thursday May 16, 2019 
 ### **Time:** 6pm PST
   
-### **Agenda:** *([post agenda proposals here](https://github.com/open-metaverse-gathering/schedule/issues/2) )*
+### **Agenda:** *(Make pull requests for proposals) )*
  - **Logistics:** 
    - Organization name
    - 
