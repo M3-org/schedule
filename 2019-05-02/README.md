@@ -9,13 +9,14 @@
    - Meeting times
    - Meeting frequency
  - **Lightning Talks:**
-   - Avaer
-   - Jin
-   - SM Sith Lord
+   - Avaer https://youtu.be/vxcaBHuAEBk?t=1637
+   - Jin https://youtu.be/vxcaBHuAEBk?t=2478
+   - SM Sith Lord https://youtu.be/vxcaBHuAEBk?t=3956
    
    ------------------------------------------ 
    
  - **Topic of discussion:**
+ https://youtu.be/vxcaBHuAEBk?t=5922
    
  In the context of past metaverse attempts: 
    
