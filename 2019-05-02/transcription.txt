@@ -1,0 +1,4457 @@
+This is the automatic transcription from YouTube for [the livestream VOD](https://youtu.be/vxcaBHuAEBk)
+
+--------------------------------
+
+
+00:17
+that's a dhobi atmosphere that was their
+00:19
+answer to here while they're like emra
+00:21
+oh that's good that's not enough though
+00:24
+they had this dopey atmosphere which was
+00:25
+very much like GML where people write
+00:31
+standard stuff but I don't I think they
+00:35
+might I had to plug in but everything to
+00:36
+plug in for that good YouTube used to
+00:38
+use plug inspected yeah it was the same
+00:40
+kind of man very very similar
+00:42
+I don't even know why it failed maybe I
+00:46
+don't know why maybe was just the wrong
+00:48
+time or something for it because it
+00:49
+seemed all right to me man
+00:51
+I mean it seems like why used it instead
+00:53
+of VRML don't you be like multi-species
+00:56
+but it was there dude I got the wiki
+01:02
+piece to that I'm wondering can I should
+01:03
+I respond the wiki page or is just an
+01:05
+image
+01:09
+[Music]
+01:16
+all right put it somewhere that's cool
+01:24
+yeah thumbs baa
+01:31
+sorry I don't have headphones nearby
+01:35
+okay the reason why is because there's a
+01:37
+bit of my own you can use the mute
+01:44
+button
+01:45
+where's next to the magic wand at the
+01:49
+top yeah I think he found it yeah just
+01:54
+make sure to do that though because
+01:55
+otherwise it's gonna be really
+02:32
+Julianne's of dollars from Google yeah
+02:36
+they get roebucks G bucks
+02:46
+[Music]
+02:54
+these invisible collisions Firefox
+03:01
+prevented that actually it works fine on
+03:10
+Chrome this is still not updated so you
+03:20
+just pushed it to the next to repo right
+03:24
+yep all right one sec I actually didn't
+03:30
+push it I've put up a pull request
+03:32
+oh yeah I see
+03:58
+[Music]
+04:06
+here let's try is this it
+04:17
+[Music]
+04:20
+av er yeah so look like this
+05:06
+nice so you got that link
+06:28
+the walkush of this place is so busted
+06:34
+like you never know where you can walk I
+06:36
+think the best way to navigate is the
+06:39
+slash fly mode okay so we're it's a time
+06:52
+to start you know like five minutes go
+07:05
+over everything I guess yeah there's a
+07:07
+few people who are here that we're here
+07:10
+lost meetup so do you yeah do you guys
+07:15
+have mics yep a gamma mic hey what's up
+07:20
+guys it's Teddy you know what's going
+07:25
+good here man good to hear
+07:27
+thanks for the invite Jin looking
+07:30
+forward that I actually watched the last
+07:31
+stream that you guys did really excited
+07:34
+for what you guys are doing flat beer
+07:36
+good to meet you pleasure to meet you as
+07:40
+well
+07:47
+somebody s IRL problems I hear things
+07:51
+breaking and Maidan made it yeah I'm
+08:05
+really echoey I'm sorry it's fine we
+08:09
+actually had that I last night as well I
+08:15
+love cuff buttons next time yeah it's
+08:19
+cool and even if you just want to type
+08:21
+or if that's easier than that works soon
+08:28
+okay this is becoming a mess already
+08:32
+yeah as long as it's all those long as
+08:35
+people aren't posting stuff near this
+08:37
+main section then it's it's all good no
+08:39
+I don't think so like cheese flecks
+08:42
+those huge because like now when we're
+08:45
+booting it's already like 30 items it's
+08:47
+just gonna get worse and worse as people
+08:49
+take more and more photos and yeah let's
+08:52
+go ahead
+09:11
+all right
+09:38
+okay um I'm ready yep let's go ahead and
+09:43
+start them sorry foxy here
+10:00
+okay I think the the we should go ahead
+10:05
+and take care of the things that came up
+10:07
+last meeting which are the best meeting
+10:10
+times and the ORD name let's go over why
+10:13
+we're having this again just to remind
+10:15
+maybe some people who are new here as
+10:19
+well yep so the purpose of this meetup
+10:25
+is for all the people who are working on
+10:29
+X our projects built on open foundations
+10:33
+and standards like the web itself to
+10:36
+have a place to share knowledge
+10:42
+information and build towards kind of a
+10:45
+more collaborative space where we can
+10:49
+like stand here actually we're kind of
+10:52
+deciding what we want to do here
+10:54
+compared to other efforts that have you
+10:59
+know Metaverse kind of groups in the
+11:01
+past so what the main purpose is to kind
+11:04
+of mm-hmm
+11:05
+how would you word it Chris so we want
+11:09
+to make sure that we have compatibility
+11:12
+across these different projects there's
+11:14
+a lot of great work that's being done
+11:17
+and it's it could be most beneficial
+11:20
+when we're able to be compatible and
+11:24
+share things between projects and not
+11:26
+have these separate silos that are doing
+11:28
+great things but aren't able to be used
+11:33
+in between these different projects yeah
+11:37
+so this group is all about
+11:39
+interoperability between all the
+11:42
+platforms and frameworks and I would say
+11:47
+that goes beyond not just the software
+11:50
+that we're using but hardware as well I
+11:52
+think a lot of us here believe that XR
+11:55
+is a cross organization cross software
+11:58
+cross headset cross platform type of
+12:01
+thing
+12:02
+and my personal take is there's so much
+12:09
+raw talent out there that is working in
+12:12
+silo's in doing really awesome stuff but
+12:16
+um we're not really talking to each
+12:18
+other quite enough in order to get the
+12:21
+most benefit out of the thing we
+12:23
+actually all kind of want to do which is
+12:25
+to build a matter verse whatever that
+12:28
+means to a lot of people yep so we're
+12:35
+looking at this from a full stack pretty
+12:38
+much and how to make all the pieces work
+12:40
+together um and that's what really I
+12:42
+think sets us apart from other efforts
+12:47
+in a past because nowadays we do have a
+12:49
+fully working stack but before like when
+12:52
+they did this in early 2000s and 90s it
+12:54
+was not all quite there or just
+12:58
+inaccessible we could actually think we
+13:02
+could start on games
+13:03
+I think the dreams have been happening
+13:05
+for quite a while but it's only just
+13:08
+recently where both the software and the
+13:11
+hardware is kind of coming online to the
+13:13
+point where it can actually be all
+13:14
+interoperable not only in terms of the
+13:19
+amount of content that's out there but
+13:22
+performance and the willingness of
+13:24
+people to actually collaborate and the
+13:28
+platform's becoming open enough and
+13:30
+distributed enough that we can all start
+13:34
+to glue things together sorry Chris I
+13:37
+cut you off no I'm just saying that
+13:38
+that's actually a topic that we have on
+13:41
+here and we could use that as the you
+13:43
+know warming up the group trying to find
+13:46
+out there are these past attempts out of
+13:49
+Metaverse and you can just go to
+13:52
+Wikipedia look up metaphors and then
+13:54
+you'll see that there's these groups of
+13:56
+people that organized and you know
+13:59
+either built a virtual world or worked
+14:01
+on standards and we're trying to figure
+14:04
+out why is our attempt going to be
+14:07
+useful likewise right now the right time
+14:09
+and like a viewer and Jen said there's
+14:13
+now a full stack and it's built on
+14:19
+it's built in such a way that it can be
+14:24
+it can be built upon the the current
+14:27
+technology of the web do you want to go
+14:29
+into more detail there in terms of full
+14:32
+stack some people might not be fully
+14:35
+familiar with what that means but just
+14:37
+full stack means the entire breadth of
+14:41
+Technology from the low level things
+14:44
+like the operating systems and the
+14:46
+hardware to the higher level things like
+14:49
+engines and content frameworks and
+14:52
+applications in the end it's really just
+14:57
+now that we've got all of that kind of
+15:00
+coming into play like for example maybe
+15:02
+you guys have heard of Atmos there's
+15:04
+these guys that are building like a
+15:05
+completely open headset that's based on
+15:08
+just basically 3d printed parts on just
+15:12
+standard parts that you can get from
+15:13
+Qualcomm and other companies that do
+15:16
+inside out tracking that do displays and
+15:18
+you could basically piece together one
+15:20
+of your piece together a headset that
+15:24
+works and does all the things without
+15:26
+really relying on some monolithic
+15:29
+corporation like Facebook to say okay
+15:32
+here's the headset and here's how you
+15:34
+can use it and on top of that on some of
+15:36
+us that exocad we've built an engine
+15:38
+that runs web content for headsets like
+15:43
+Atmos
+15:44
+and then you have the guys at a frame
+15:46
+and super medium who are basically
+15:49
+building frameworks on top of things
+15:50
+like that and then you have a whole
+15:53
+bunch of amazing content that's coming
+15:55
+out built on top of all these things and
+15:57
+all these things are open source and
+15:59
+anybody's for you to kind of pick them
+16:02
+up and run with them and there's tons of
+16:04
+experimentation going on right now
+16:06
+and there's really no hasn't been I feel
+16:09
+a good venue for all of us to get
+16:11
+together and to talk about the common
+16:13
+issues that were finding in
+16:14
+compatibility just ideas that we've had
+16:18
+and just find ways to share because
+16:23
+right now we there is things like the
+16:25
+WebEx our spec group for example but
+16:27
+that is very exclusive and basically
+16:29
+unless you're Google you don't have much
+16:31
+to say
+16:32
+so what happens there and then of course
+16:34
+you have partnerships with Qualcomm
+16:36
+which are all under NDA so it's really
+16:39
+hard to for us to kind of like talk to
+16:43
+each other when it's just through all
+16:44
+these corporate and closed channels and
+16:47
+we're kind of trying to undo a bit of
+16:49
+that with this group yeah I think
+16:56
+another big point to this and we can you
+16:59
+know we can actually have anyone who
+17:01
+wants to pitch in pitch in here there's
+17:04
+something that if you look at the past
+17:07
+attempts or conversations about the
+17:10
+Metaverse in general is there's a
+17:12
+pitfall of the concept being too
+17:15
+philosophical and not being grounded in
+17:19
+practical implementations of these
+17:21
+concepts of compatibility
+17:25
+interoperability and I think that's
+17:28
+something that this group should be
+17:29
+founded on which is how can we be
+17:31
+grounded in practical applications of
+17:33
+these concepts right um I think we can
+17:38
+all agree that this is face full of
+17:40
+dreamers there's a lot of people that
+17:42
+want the Metaverse exist to exist um and
+17:45
+probably a lot of us have wanted it to
+17:48
+exist since we were kids um since we
+17:50
+read things like Snow Crash or
+17:52
+what-have-you or maybe even more recent
+17:54
+additions to the family because we read
+17:56
+ready player one or saw the movie and
+17:58
+thought hey this is the kind of world
+18:00
+that I want to live in but yeah I think
+18:06
+with the most important thing if we're
+18:08
+gonna make the most out of this group is
+18:10
+to not let go of those dreams but kind
+18:13
+of ground them in reality and the skills
+18:15
+that we bring to the table and what can
+18:17
+we actually accomplish rather than
+18:19
+dreaming about the headsets that are
+18:23
+coming or the software that's coming and
+18:25
+just sitting around and waiting I think
+18:27
+we should have a bit of a bias towards
+18:30
+action and the things that we can do
+18:31
+because I think we've already proven
+18:33
+that we can do quite a lot together we
+18:36
+put our mind to it yeah there's enormous
+18:40
+talent in this space right now
+18:43
+and there's massive opportunity with
+18:46
+platforms that we have to be
+18:48
+interoperable and build something that's
+18:51
+greater than a sum of its parts and
+18:55
+hopefully that ends up being some kind
+18:58
+of meta versatile yeah
+19:00
+there's steps to it you know I think
+19:04
+with this group we can accelerate the
+19:06
+arrival there's something that Jen I
+19:12
+think Jen was the originator of this and
+19:14
+it's something that we can open up to
+19:16
+the group and see if people are
+19:18
+interested that so in terms of how can
+19:23
+we find ways that foster this community
+19:27
+of practical steps towards a Metaverse
+19:32
+one of the ideas is having some kind of
+19:35
+virtual hackathon where there's groups
+19:37
+that come together and try to build
+19:40
+something that's in this field of
+19:43
+compatibility or you know bringing these
+19:48
+different projects together in the
+19:50
+meadows yeah PACA Thon's game jams these
+19:58
+are kind of items on a plate that you
+20:00
+know can focus this group and future
+20:03
+meetups that we can you know you not
+20:07
+just share information but out of those
+20:11
+conversations and exchange of knowledge
+20:14
+we can build things and prototype things
+20:17
+that I think will glue together parts of
+20:22
+a Metaverse in a way that is gonna set
+20:26
+us apart from past efforts and also just
+20:29
+kind of paving the way like you'll see
+20:32
+from some of lightning talks that we
+20:34
+have today some people here are working
+20:37
+on really interesting but overlooked
+20:40
+parts to it I believe and so a lot of
+20:44
+this is kind of more grassroots
+20:46
+bottom-up approach like bringing
+20:48
+together the real Indies that are just
+20:51
+kind of you know running on passion
+20:55
+but also kind of principles of open and
+20:59
+decentralized Metaverse yeah I think the
+21:05
+we're kind of actually making it through
+21:07
+the topics here that in at any time if
+21:11
+anyone has any ideas feel free to pop in
+21:14
+there is a you know trying to stay
+21:18
+grounded for this group there's the
+21:21
+concept of having skin in the game and
+21:25
+what makes people encouraged to build
+21:29
+instead of philosophizing about the
+21:32
+Metaverse or using the you know this is
+21:36
+entertainment something like that I was
+21:39
+it's a fun if it's fun people are gonna
+21:41
+do it so maybe the entertainment is
+21:43
+something that could help keep people
+21:46
+motivated it's fun to build it's
+21:50
+actually a good point no that is a good
+21:53
+point on and certainly like as a maker
+21:55
+of something that's very obtuse in some
+21:58
+ways a very tech heavy kind of thing
+22:01
+which is just a browser engine it
+22:04
+certainly helped a lot to just put out
+22:06
+examples and just let people start using
+22:09
+the actual software and just having a
+22:11
+front-end that people can play with has
+22:14
+been really important because like that
+22:15
+actually allows the real technology to
+22:19
+kind of like connect with the brain and
+22:20
+generate fun so to speak so maybe like a
+22:25
+mini game that people could spawn into
+22:27
+these any space that they go to that
+22:30
+would instantly show them some kind of
+22:32
+fun
+22:33
+in the environment yeah dude you should
+22:40
+show some of the stuff that you do if
+22:43
+there's like away are you on Firefox Dan
+22:51
+mmm Firefox has the screen sharing but
+22:55
+you got twitch as well yeah this is why
+22:59
+we're here talking about compatibility
+23:01
+yeah because this this kind of minigame
+23:04
+would have to go into whatever the
+23:05
+platform is
+23:07
+whatever engines running I certainly
+23:10
+have thoughts on that in my talk today
+23:14
+sure just one example of incompatibility
+23:18
+I went on oculus browser and I went to a
+23:23
+games section and in the games there's
+23:25
+three games and I clicked one of them
+23:28
+and and then it brought me to a Facebook
+23:30
+sign-in screen oh dear
+23:33
+and I just thought you know this is a
+23:35
+great example just like the absolute
+23:38
+state of the web right now in terms of
+23:40
+VR and immersive yes do uh you guys
+23:46
+actually want to jump into the lightning
+23:48
+talks is there anything that any
+23:51
+comments on what we talked because this
+23:53
+is kind of you know I was talking a lot
+23:58
+but we want to make sure anyone
+24:00
+expresses their ideas I want to express
+24:05
+one thing real quick that guy looks like
+24:07
+bender that's I thought Jim had a cool
+24:10
+avatar but my god that dude takes the
+24:11
+cake now that's not bender don't you see
+24:14
+the goatee yeah oh it's flex oh my god
+24:19
+it's a mistake you can only make once
+24:25
+yes if there's a if no one has anything
+24:28
+to say what will open a the conversation
+24:31
+up again after the lightning talks but
+24:33
+for the lightning talks we have Avior
+24:36
+doing your presentation then Jen then
+24:38
+Seth and those will be about five
+24:42
+minutes each and really interesting
+24:45
+topics yeah exactly yeah just don't trip
+24:52
+over the robot
+24:56
+yeah so I just want to make I just want
+24:58
+to make a quick comment as a first timer
+25:00
+sure I really love what you guys have
+25:03
+going on here and there really shows the
+25:07
+possibilities of what we can do I mean
+25:08
+just everyone jumping in the same room
+25:09
+from all across the world with some
+25:12
+similar thoughts where you know where we
+25:14
+used to be bound by our geographical
+25:17
+locations and I was having a
+25:19
+conversation with someone like that the
+25:21
+other day you know you your your your
+25:26
+Wolfpack on the story or or your your
+25:28
+people around you your own you're always
+25:29
+limited by you know how far you can
+25:31
+drive but the ability for all of us to
+25:33
+be in our own locations right now and
+25:35
+and collaborate and I'd have to say you
+25:39
+guys have a real good foundation started
+25:42
+and with it with the interoperability in
+25:45
+ways to promote jumping from the
+25:48
+different spaces I just got into VR
+25:50
+about a year ago or so maybe less and
+25:55
+really excited to what you guys have
+25:57
+going on and I kind of see some of the
+25:59
+hurdles that you guys are talking about
+26:00
+and just really excited to be a part of
+26:04
+it and something that coming came into
+26:06
+mind when they were talking about games
+26:10
+almost like a goose hunt where you have
+26:13
+to jump from world's world on these
+26:17
+different platforms and in order to do
+26:20
+that of course we'll need that
+26:21
+interoperability but almost like a big
+26:23
+digital goose chase or something like
+26:25
+that I think would be fun and would be
+26:28
+able to get a lot of attention to it
+26:30
+that's awesome dude across the platform
+26:33
+cross game event
+26:34
+I haven't know if I've ever seen one of
+26:36
+those yeah exactly
+26:37
+that's kind of the wall we're trying to
+26:42
+get past right now but as you guys are
+26:44
+talking about you know things to start
+26:46
+establishing some of this foundation
+26:47
+that you guys are talking about with
+26:49
+interoperability between the different
+26:50
+platforms that that as a goal may be an
+26:56
+option I think that would make for an
+27:01
+excellent tech demo
+27:07
+great so if anyone else or if not then a
+27:14
+veer will start sure so let's see if I
+27:25
+can cut this down to five minutes
+27:27
+talking about the Metaverse after all so
+27:30
+basically the Metaverse everybody wants
+27:33
+the Metis it's kind of like this unicorn
+27:34
+everybody wants to catch and it's
+27:37
+something that's it's a concept that's
+27:40
+kind of littered with it's a graveyard
+27:42
+full of failures so you might agree some
+27:46
+of you might not agree with some of
+27:47
+these failures and I'm listening here
+27:48
+but like high fidelity
+27:49
+alt space VR chat steam fortnight or
+27:55
+even Twitter I consider all these kind
+27:57
+of platforms that wanted to be a bit of
+28:01
+like a mattress idea to kind of collect
+28:03
+everybody and collect all the world's
+28:05
+content and they kind of fell apart for
+28:08
+different reasons um and I think one of
+28:11
+the main reasons is that they all tried
+28:13
+to become a silo that owned all of the
+28:15
+data and I think that's kind of like
+28:17
+antimatter bursts to me it but to me I
+28:21
+would also say that the meta burst is
+28:23
+also a thing that already exists it's
+28:24
+called the web and we all access our
+28:27
+discord we all ask access our Instagram
+28:29
+or Twitter and sooner or later were even
+28:33
+gonna be accessing our games through the
+28:34
+web with things like Google stadia um so
+28:37
+I would say like in some sense the data
+28:39
+and all the access points or the
+28:41
+metaphors and for all of us to
+28:42
+collaborate already exists so then why
+28:44
+does the Metaverse not actually exist
+28:47
+and I would say that it's basically
+28:49
+these two different polls on that we
+28:52
+have going for us one of them is that
+28:54
+everybody's trying to be an innovator in
+28:56
+this space we're all trying to make
+28:58
+awesome things where there were a
+28:59
+corporation or an ad we're gonna make
+29:01
+something that has an impact and we feel
+29:03
+we can connect to but on the other hand
+29:06
+there's a whole bunch of other people
+29:08
+that are trying to make standards and
+29:10
+make platforms to build on top of things
+29:13
+like unity things like game engines
+29:15
+things like the browser specs and
+29:16
+they're not necessarily makers they want
+29:19
+to build platforms for
+29:20
+other people to use and these two aren't
+29:23
+really connecting like you have a whole
+29:26
+bunch of innovators making content and
+29:28
+then you have the engine makers who are
+29:30
+just making engines and then eventually
+29:33
+you all have to kind of choose your
+29:34
+feudal lord who do you connect to and
+29:36
+then we all end up in silos and we end
+29:38
+up fighting these senseless wars of
+29:40
+compatibility and we can't load things
+29:42
+because we're not using the correct
+29:43
+browser so my solution to this is that
+29:47
+we should actually have a Metaverse with
+29:49
+emphasis on the meta meaning that we
+29:52
+need to build architectures where you
+29:54
+can take content from anywhere and
+29:57
+Transplant it anywhere else and the way
+30:00
+that the web's has the web platform has
+30:02
+solved this is we basically ship the
+30:04
+decoders for our data in our actual data
+30:08
+when you ship a website you also ship
+30:11
+the frameworks that you're using along
+30:13
+with that website you can ship 3js you
+30:15
+can ship your models you can ship your a
+30:17
+frame you can ship your logic you
+30:19
+encapsulate that all until website and
+30:21
+you run in WebGL and webex are and to me
+30:23
+that is like the concept of a piece of
+30:26
+meta verse that you can transplant
+30:29
+across platforms it's kind of what we're
+30:31
+working on with XO kit which is just
+30:34
+basically a 3d browser where you drop in
+30:36
+a URL and the URL becomes a place a 3d
+30:39
+URL in a 3d place so yeah I would kind
+30:45
+of like emphasize that we should be
+30:46
+following this middle way where were
+30:50
+transplanted we're making content that
+30:53
+we want to use but we also make sure
+30:55
+that that content is built on some sort
+30:57
+of standard that you can all agree on
+30:59
+and we can transplant into other
+31:01
+people's content without necessarily
+31:02
+either of us having to talk to each
+31:06
+other very much other than agreeing on
+31:08
+what the standard means and that allows
+31:11
+for something called permissionless
+31:12
+innovation which means I don't need to
+31:15
+go ask you can I make something that's
+31:18
+compatible with your thing I just make
+31:20
+it on this standard and I say hey here
+31:23
+you can go load this in whatever
+31:27
+framework that you want to use and to me
+31:29
+the best candidate that we have for that
+31:30
+is the web because the web is the
+31:33
+Metaverse
+31:34
+it's just not quite there yet I'm pretty
+31:39
+sure some famous people once said that
+31:41
+the future is already here it's just not
+31:43
+evenly distributed and I think that's
+31:46
+where we are and where we should kind of
+31:48
+be headed
+31:49
+what's my talk whoo I don't know how
+31:55
+that comes through microphones so I
+32:00
+guess if sensing we could do question
+32:03
+and answering jewelry space they have
+32:05
+the little clapping emote okay I see the
+32:08
+stuff popping up in chat all right
+32:09
+that's like does anyone have any
+32:11
+questions for baby respawn a thing
+32:30
+hello hello
+32:50
+my talk is there we go
+32:57
+okay so my talk is about how do we
+33:00
+enable avatars and objects to move
+33:02
+between virtual worlds I do not have all
+33:06
+the answers but I am documenting the
+33:12
+many ways that attempts have been made
+33:14
+and sandboxes that are created to
+33:16
+prototype this question about so in this
+33:22
+screenshot right here this let me just
+33:26
+maximize it let's see how it looks in
+33:30
+here okay so the aspect ratio is a
+33:35
+little bit messed up
+33:38
+[Music]
+33:46
+[Music]
+34:03
+yeah I'll just do the whole screen oh I
+34:14
+messed up did anyone have any questions
+34:19
+for a beer after sock yeah we can do Q&A;
+34:29
+if there's any questions
+34:37
+okay Chris has just we see your chat
+34:43
+okay yeah where we can save them till
+34:53
+after that's fine too
+35:02
+so the question is I'm not sure if this
+35:05
+is really a question yet but it seems
+35:06
+like unity is the biggest force in this
+35:07
+space at this point I would say so in
+35:11
+some sense unity built a business model
+35:14
+around kind of cross-linking all of
+35:17
+these different platforms the main
+35:18
+problem with that that I see is that
+35:20
+it's controlled by a single entity at
+35:24
+this point a single for-profit entity
+35:26
+which is highly incentivized to do
+35:28
+whatever it can to make money rather
+35:32
+than actually serve what people want and
+35:36
+I'm not sure if there's anybody even
+35:38
+like the games industry or from
+35:40
+tangential industries like XR there's a
+35:42
+lot of politics that come into that that
+35:45
+just prevent Indies from actually doing
+35:47
+what they want
+35:48
+um to some extent unity allows you to do
+35:51
+that through plugging ecosystems but I
+35:54
+still think there is a lot of problems
+35:56
+with just having a single corporation
+35:58
+kind of control what you can and can't
+36:00
+do hey Chris yeah totally so yeah I'm I
+36:06
+think so far exo-k it seems like you
+36:09
+know I don't know just this thing kind
+36:11
+of descending from the have some
+36:14
+response to like not only how slow the
+36:16
+browser's are moving but also like I
+36:18
+don't know just potential performance
+36:20
+increases so kind of one-one depressing
+36:23
+thing for me as someone who's you know
+36:25
+kind of basically refuses to invest in
+36:27
+unity despite like being tempted every
+36:29
+single keynote or whatever and unreal
+36:31
+being like slightly more tempting
+36:33
+because it's like you know the source is
+36:35
+visible you know obviously though the
+36:37
+license is still commercial license blah
+36:39
+blah blah but I don't know like I'm
+36:41
+curious actually your personal sense of
+36:43
+the performance gap like you know how
+36:46
+far do you really think just like WebGL
+36:50
+to can be pushed and like custom ela
+36:53
+underneath you know I'm not really
+36:54
+trying to think about the web GPU kind
+36:56
+of stuff that's gonna come eventually
+36:58
+and just you know like the last thing
+37:00
+I'll say before I shut up is the
+37:02
+smartphone was the web just lagged so
+37:04
+hard right like like you couldn't make
+37:07
+snapchat you probably really still can't
+37:09
+make snapchat on a smartphone right like
+37:11
+you can't just the even the fact that
+37:13
+you can't have a false
+37:13
+you know experience with a web app you
+37:17
+know or just how Apple has every
+37:19
+incentive in the world to like you know
+37:21
+both kind of protect their users but
+37:23
+also not open the sort of native
+37:25
+performance and so I mean there's a part
+37:27
+of me that I'm all-in on the web but I
+37:29
+do have this kind of lingering like oh
+37:31
+god like does web GL 2 ever even like
+37:34
+you know can that ever meaningfully
+37:37
+compete with unity or like is there a
+37:39
+gonna you know and I could start talking
+37:41
+about Waze them and blah blah blah blah
+37:42
+but so anywho yeah I'm curious where
+37:45
+your sense it's sort of like the
+37:47
+potential performance gap or like if you
+37:49
+see that is an inhibition or yeah how
+37:51
+are you sure about all that so the
+37:54
+question is basically how do we solve
+37:56
+the performance problem on the web I
+37:58
+think a lot of the problem is that when
+38:01
+people say web they mean a very specific
+38:04
+thing they mean chrome and Chrome is in
+38:07
+many ways not necessarily incentivized
+38:09
+to really take any of these standards
+38:11
+seriously or at least to take them
+38:13
+seriously in a different direction which
+38:15
+is mainly to be quote unquote secure
+38:18
+which means nobody else can get access
+38:20
+to your data except Google Google is
+38:23
+very protective about that because
+38:24
+that's how their entire business model
+38:26
+works for selling ads if they don't
+38:28
+control the data then they can't make
+38:30
+money um so they have not focused at all
+38:32
+on performance like this is kind of a
+38:34
+side issue and if they can't get any
+38:36
+good PR out of it I don't think they
+38:38
+take it seriously which is why there's
+38:39
+so many thick coats of paint between the
+38:43
+actual code that you write and the GPU
+38:44
+hardware that you're using in something
+38:47
+like XO kit I kind of like realized that
+38:50
+this was happening because I was trying
+38:52
+to make a minecraft clone in JavaScript
+38:54
+and it was basically impossible because
+38:56
+I was running into performance issues
+38:58
+with the Dom with WebSockets with all
+39:00
+these things that have nothing to do
+39:01
+with what I was trying to accomplish but
+39:03
+they're in chrome and this is how chrome
+39:05
+works and I couldn't change anything
+39:06
+there so the way that I did things in
+39:08
+EXO kit is I just threw away all that
+39:10
+crap in basically the JavaScript calls
+39:12
+OpenGL directly and that means you get
+39:15
+essentially native performance on every
+39:17
+single platform and I don't think that
+39:19
+this is an inherent limitation of web
+39:21
+this is an limitation of the existing
+39:26
+implementations especially on
+39:27
+phones where you have not only Google
+39:29
+being incentives to take the web in a
+39:32
+certain direction but also Apple saying
+39:34
+no to Google and just kind of Acquia as
+39:36
+saying to what Google is doing so you
+39:37
+have this crazy power play that's
+39:39
+happening and I think still the web as
+39:42
+the technology has absolutely no
+39:43
+limitation here it's just the
+39:45
+implementations and we're trying to fix
+39:46
+that with exo-k by being directly native
+39:49
+and close to the hardware and as to
+39:54
+things like web GPU for example even
+39:57
+Chrome I think has plans to build their
+40:01
+WebGL implementation on top of Vulcan
+40:03
+and much more higher performance things
+40:04
+and we're planning on doing the same
+40:06
+thing with X ok so I think things are
+40:09
+only going to get better from here as
+40:11
+well hopefully that covered the main
+40:16
+points yeah yeah I mean I could keep
+40:18
+going but I don't want to take up a ton
+40:19
+of space and there's more don't you keep
+40:21
+talking about it throughout the night
+40:22
+but you know I'll pitch more later I
+40:26
+feel like other people maybe have
+40:28
+questions or other presentations and
+40:29
+stuff sure is there any other questions
+40:32
+no we can move on to gin yep and we'll
+40:40
+have a general discussion after the he
+40:42
+talks as well thanks Chris yep
+41:03
+[Music]
+41:09
+all right is this visible yes sir so my
+41:22
+talk is about moving avatars and objects
+41:25
+between virtual worlds and I am just
+41:30
+researching this documenting the various
+41:35
+prototypes done so in this prototype for
+41:38
+example It's Made in Janus and it's how
+41:42
+do we actually Traverse how do I like go
+41:45
+from here and hubs into a another world
+41:49
+that's made maybe in Babylon or a frame
+41:52
+or just like how do we actually walk
+41:53
+between different sites on build
+41:57
+immersive web where you know nowadays on
+42:00
+2d browsers we just open up a tab where
+42:02
+we click a link but in a 3d web we have
+42:07
+we can imagine new possibilities for
+42:09
+linking worlds and content together so I
+42:13
+think it happens on a sliding scale and
+42:15
+this was conceived of a VR blockchain
+42:20
+Alliance meetup when Ben Nolan from
+42:23
+crypto voxels and I were discussing like
+42:27
+how do we actually kind of rank these
+42:29
+implementations and so we got a sliding
+42:32
+scale level 1 is a simple hypothesis up
+42:38
+in you tab links we use them all the
+42:40
+time and in a 3d sight sense do you all
+42:46
+see this ok cool on this is what it
+42:49
+looks like in a typical Janus or an
+42:52
+a-frame representation where this
+42:57
+represents a link to another site and if
+43:00
+I click it it takes me into a new
+43:03
+website so interactive buttons links
+43:08
+they can be retexe shared with a
+43:11
+thumbnail
+43:14
+got another example here for an a-frame
+43:18
+this link will take you into HTML so
+43:23
+that's level one level two oh here's a
+43:27
+crypto voxels implementation so if I
+43:31
+wanted to go from crypto voxels into a
+43:34
+frame then it supports links for HTTP
+43:43
+Steam hi-fi and VR chat protocol
+43:48
+handlers and so if I wanted to open up a
+43:52
+frame I just clicked that sketchfab
+43:55
+Cimmerian unity and there's also
+44:01
+protocol handlers for VR Chad and
+44:03
+high-fidelity and this will actually is
+44:06
+launched it shouldn't have done that so
+44:12
+and the our chat they have basic portals
+44:17
+so when you spawn a portal into a site
+44:22
+you can just walk through it so instead
+44:24
+of clicking something it's just a it's
+44:27
+traversal through moving through
+44:29
+something and we have this
+44:34
+implementation in Janus as well now you
+44:38
+just close your chat okay so in Janus
+44:42
+we've got a component of which you can
+44:45
+retexture or anything in and when you
+44:47
+pass through it it takes you into
+44:50
+another site completely new URL and once
+44:53
+the site is actually loaded in your
+44:55
+cache its instance you can instantly
+44:58
+transport from one to another
+45:00
+vr site and this example came from 2017
+45:08
+when we have someone going through into
+45:12
+a a pram site from Janus and we can
+45:15
+actually see them through this web
+45:17
+surface on here so we see them go
+45:20
+through and appear on the other side
+45:22
+does that since arcade yes
+45:26
+because the windows and so this works
+45:30
+with any external URL and here's a
+45:36
+first-person view of that so if I want
+45:39
+to go from Janice to a frame I just go
+45:42
+through here it's like a doom style
+45:44
+transport I see my friend in there and
+45:46
+then I can traverse back into Janice and
+45:49
+complete the loop so this turns the
+45:54
+whole kind of immersive web into you
+45:58
+know a recursive experience I can show
+46:03
+you now level three is what Janice VR
+46:06
+currently has implemented and it's my
+46:18
+whole screen sharing now see it's
+46:23
+actually flipped
+46:48
+okay and then a level-3 implementation
+46:53
+once looks like this so if I want to go
+47:05
+to google.com I can open a portal and I
+47:12
+go from this website into another
+47:16
+website and this is seamless so I can
+47:20
+see another person who's here walk back
+47:24
+and so the level 3 implementations so
+47:28
+far Janice ER is the only one that has
+47:31
+this but the vision for Janice is to
+47:37
+seamlessly connect any type of
+47:39
+experience not just Janice sites but
+47:43
+like anything could come it'd be cool to
+47:46
+walk into a steam game like this for
+47:49
+example or a Minecraft world or whatever
+47:52
+have you just like turn the whole
+47:54
+Metaverse like have this kind of like as
+47:56
+a portal gun that you can just go into
+47:59
+anything but um yeah and next types of
+48:04
+implementations of this would just be
+48:06
+like making it more seamless how do we
+48:10
+actually you know and how do we bring
+48:13
+our avatars or our items with us so
+48:15
+setting up these kind of portal
+48:17
+sandboxes then sets up a good kind of
+48:21
+sandbox for prototyping how can we bring
+48:23
+avatars and objects if we even want to
+48:26
+have resistance of that between these
+48:28
+worlds I think it's a interesting field
+48:32
+of research and one of the things we've
+48:35
+got in Janus is you can drag and drop
+48:38
+links or into browser window as well and
+48:44
+so like how you spawn a portal and VR
+48:47
+Chet we want to be able to spawn a
+48:49
+portal in the browser that
+48:52
+takes you to any other site essentially
+48:55
+and it turns the whole internet into
+48:58
+like a vr MMO so that's my presentation
+49:03
+any questions I actually had a question
+49:09
+if I started off you were talking about
+49:11
+launching stuff with the protocols or
+49:16
+was I just showing stuff you're talking
+49:20
+about before earlier you were talking
+49:23
+about launching stuff like the custom
+49:25
+protocols from crypto voxels and stuff
+49:27
+like that like the steam protocol does
+49:30
+it work for any protocols because like
+49:31
+in a web browser any protocol that's
+49:33
+installed in the computer works so like
+49:35
+the origin protocol and in stores all
+49:38
+that stuff should work that way
+49:41
+manually allowed for steam - dr Chet you
+49:46
+are ice and that n HTTP of course so we
+49:53
+could add support and I know Janis web
+49:56
+has support for ipfs and Det but not
+49:59
+many browsers have that implemented
+50:02
+without needing kind of like a
+50:03
+third-party extension or going through a
+50:08
+gateway well I think that the like the
+50:13
+steam protocols like that - right you
+50:15
+need to have it and installed on the
+50:16
+system for the browser to even tell you
+50:19
+that it can be handled so it's really
+50:22
+exciting how you're able to bridge
+50:23
+things together with those protocols I
+50:25
+mean that's those protocols seem
+50:28
+powerful yeah yeah I mean you know goals
+50:39
+I guess we would have in the long term
+50:41
+is essentially like an overlay that you
+50:44
+know you could attach it work a lot like
+50:46
+Pluto VR I guess where you have like a
+50:50
+program on your computer or something or
+50:53
+maybe attached to your browser and what
+50:55
+it would do is essentially relay like
+50:57
+the three-dimensional data or like the
+50:59
+server data or your position in space or
+51:02
+whatever kind of like how mumbles
+51:04
+position audio work
+51:06
+where you know you could shoot an
+51:08
+overlay like a portal onto a surface of
+51:12
+an object and walk through that into
+51:15
+another entire game universe or
+51:17
+something like that like that's
+51:19
+something that is in theory probable and
+51:22
+you know definitely doable yeah I think
+51:26
+it even for standalone programs you
+51:28
+could open it in the another window or
+51:30
+something in the background why wouldn't
+51:32
+you be able just yeah with like Vulkan
+51:35
+API and stuff like you can pretty easily
+51:37
+get like you know the normal direction
+51:41
+of a certain face in the world right
+51:43
+like like of a poly basically just
+51:47
+attached like a like an overlaid thing
+51:50
+that sort of just bridges the gap
+51:52
+between like the program the 2d program
+51:55
+a 3d VR program and the actual like an
+52:00
+entirely new kind of way and be like
+52:02
+httpd but across three-dimensional space
+52:06
+so it's all seamless anyway I think this
+52:11
+was also brought up has another question
+52:13
+Jun what would you say to the notion
+52:17
+that there's there could be another
+52:19
+layer beyond this on third tier which is
+52:23
+not necessarily portals but everything
+52:25
+being a URL even objects even avatars
+52:29
+even places as well just being URLs that
+52:34
+you can load and composite into your
+52:36
+world basically like reality layers or
+52:40
+reality tags you know portals
+52:52
+essentially just like a stencil light
+52:54
+shader essentially that blocks out you
+52:57
+know you guys know what a stencil is you
+53:01
+get that right so it's a stencil thing
+53:04
+and it doesn't actually have to be a
+53:07
+portal or something like that it could
+53:09
+be anything it could be an object piece
+53:11
+of text an image whatever like always
+53:14
+you just remove the stencil and then
+53:16
+it's you know it's in the world so that
+53:17
+it's not fertilized I guess
+53:19
+you can pause it with a depth buffer
+53:22
+exactly yeah we've basically been doing
+53:25
+a lot of experimentation with that not
+53:27
+only necessarily doing things across
+53:29
+some websites but also with things like
+53:32
+steamvr as long as you can get access to
+53:34
+the frame and the depth buffer and you
+53:37
+can get this at a reasonable frame rate
+53:39
+I think it's entirely possible to
+53:42
+actually composite things that were
+53:44
+never intended to work together ordinate
+53:46
+or not even necessarily things that are
+53:48
+running on the same machine but you have
+53:50
+enough bandwidth you could theoretically
+53:51
+just do a 3d stream of it as well yeah I
+53:55
+mean with some of the api's from Vulcan
+53:57
+and stuff like that I mean no it's not
+54:00
+even really that hard of a frame hit to
+54:03
+sort of become some of this stuff
+54:04
+especially up here you know if you're
+54:06
+optimizing for it but yeah you know link
+54:09
+seems be represented in different ways
+54:11
+like what Sith Lord has with his front
+54:15
+end one of the layers of the links that
+54:18
+I was showing like with level 1 that
+54:20
+could be extended down to where instead
+54:23
+of a link represented just kind of as a
+54:25
+text object um it can be represented as
+54:28
+a 3d object and you can traverse by
+54:31
+interacting with some kind of object in
+54:33
+the world leave a charge of the screen
+54:35
+like the beachings in mario 64
+54:37
+yeah the way yeah the way I see this
+54:39
+working in the long term is essentially
+54:41
+like a get in a post sort of function
+54:43
+that you see on like a browser you know
+54:46
+and but instead of working just in the
+54:48
+browser on that rendering pipeline it
+54:50
+would work across like you know your
+54:52
+entire GPU architecture so that you can
+54:55
+like get in post any content from
+54:58
+anywhere has its own sort of object
+55:02
+format that just overlaid on the screen
+55:05
+in the same way that like your avatars
+55:06
+are all just overlaid on this scene
+55:08
+right now you know the frame buffer
+55:10
+saying that you're ahead of whatever's
+55:12
+behind you and Saturday we could just
+55:14
+you know basically do that from a
+55:19
+rendering like a normal browser style
+55:21
+rendering perspective my thoughts
+55:22
+exactly
+55:23
+um this is why kind of leagues yeah go
+55:27
+ahead sir Chris oh yeah yeah so this is
+55:31
+a thing I can't tell if this is a genius
+55:32
+idea or
+55:33
+saying idea but I don't know if you all
+55:35
+have noticed how the Mozilla folks have
+55:37
+used gltf extensions as a way to
+55:40
+annotate objects with components but
+55:43
+there's in the hub's chat so I started
+55:47
+trying to talk to the team there a bit
+55:49
+about how something like scripting could
+55:51
+work in an environment like this one of
+55:53
+my personal interests is thinking about
+55:55
+how to teach code like wow I'm in VR in
+55:59
+the environment I'm in right means of
+56:01
+scripting but of course that opens all
+56:03
+sorts of like crazy security problems
+56:05
+potentially depending on you know who
+56:07
+you invite to said chat or you know
+56:09
+there are other kinds of security models
+56:10
+like if you know the people you're
+56:12
+inviting but anyway yeah it'll also then
+56:15
+got me thinking about you know in their
+56:17
+case they're just kind of like say
+56:18
+naming components that are attached to
+56:20
+GL TFS but like with something like
+56:22
+wasum or even just you know JavaScript
+56:25
+it's like a weight is gltf HTML and then
+56:27
+like you could basically like have an
+56:30
+extension that would be the kind of
+56:31
+JavaScript or could you add behavior or
+56:33
+you know kind of mini programs or like
+56:36
+you know if you're talking about
+56:37
+different portal Styles like maybe even
+56:39
+like different shaders that get attached
+56:41
+to a given link but and one more thing
+56:44
+to kind of toss in here that I'm curious
+56:46
+if you all have thought about like so in
+56:48
+a web browser for example obviously like
+56:50
+you know are any mainstream one the top
+56:53
+bar is like a sacred region right like
+56:55
+you can trust that that hasn't been you
+56:58
+know like painted by some adversary
+57:00
+right but in this case of like Metaverse
+57:02
+links and jump portals like how do you
+57:05
+really know where you're going and maybe
+57:07
+implicit is just like oh it's just GL
+57:09
+tf's and avatars like there's no scripts
+57:11
+and stuff but I think scripts is like a
+57:13
+really juicy thing that I haven't heard
+57:15
+a lot of people thinking about like how
+57:17
+one could organize that safely or you
+57:19
+know um yeah one of the components that
+57:24
+Janus has is you got a navigation part
+57:29
+of the UI and you can always bring them
+57:32
+as he's sewing
+57:34
+see I can always bring up that dress bar
+57:38
+right good question but yeah I've got I
+57:42
+can I can traverse any site here with
+57:45
+this UI address bar and I can always
+57:50
+bring up an address bar here from
+57:52
+anymore ha ha so some of these
+57:55
+discussions and like WebEx are spec
+57:58
+space the way that Google has
+58:01
+interpreted this is that security is
+58:04
+basically impossible with navigation
+58:06
+so they're basically banning it on that
+58:09
+basis so the base is basically being
+58:15
+that anybody could spoof this URL bar
+58:17
+like once you take control of the users
+58:19
+vision um it's kind of like a
+58:22
+free-for-all for spoofing you eyes and
+58:24
+you can't really trust anything I
+58:26
+actually don't know what the solution to
+58:28
+that is but some of the ones that have
+58:29
+been proposed are where there's some
+58:31
+sort of trusted UI such as the UI knows
+58:34
+things that only the UI could know such
+58:36
+as maybe there's an icon or it's your
+58:38
+face and it's securely presented such
+58:41
+that the site would never know and some
+58:44
+other ideas in AR that we had was there
+58:47
+could be like a piece of dedicated
+58:49
+hardware maybe you look on your wrist
+58:51
+maybe on your watch where if you look at
+58:52
+it I see that it's not spoof a ball and
+58:55
+then you can tell oh I'm actually at
+58:57
+this URL no matter what my eyes are
+58:59
+telling me I'm actually a hockey world
+59:00
+but I think fundamentally it's just that
+59:03
+Trust has to start somewhere and we have
+59:04
+to decide where that is and who we trust
+59:07
+and what the root and the tree of trust
+59:10
+is
+59:15
+is scripting something that you all have
+59:17
+I mean in that same kind of wheelhouse
+59:19
+it's like that ^ like more evil and
+59:22
+insanity right but like so when you talk
+59:24
+about the Metaverse and you're talking
+59:26
+about links it sounds so far mostly like
+59:28
+avatar avatars and sort and like 3d
+59:30
+models but if you thought about like a
+59:33
+domain for for scripting or behavior or
+59:35
+like how one would approach that I mean
+59:38
+it's the same kind of security problem
+59:39
+right but the way we've the way we
+59:42
+approach that at X Oak it is everything
+59:44
+is completely isolated we don't run
+59:47
+scripts in the same context they're
+59:49
+entirely separate rendering context I
+59:51
+cannot interact the only way you mean or
+59:55
+what yeah the only way that things can
+59:58
+leak is by user input and user
+60:02
+engagement but that is a very real
+60:04
+problem with each other and it's
+60:09
+entirely possible for a user to have
+60:11
+reality layers that none of the other
+60:14
+layers know about that still does not
+60:17
+solve the security problem though
+60:18
+because right you can infer behavior of
+60:21
+the user as to like what they're doing
+60:23
+let's see how to virtual keyboard and
+60:25
+some of these entering a password
+60:26
+somewhere by virtue of knowing what the
+60:29
+user is doing with their hands you could
+60:31
+infer what their password was so there
+60:33
+is by no means like is this all problem
+60:37
+so this is some stuff like that exact
+60:39
+example you brought up is something that
+60:41
+we have like really thought about with
+60:43
+Janus so one of the things we did is
+60:45
+essentially just add at the client level
+60:48
+if you have your box over an input box
+60:53
+right you literally just stop rendering
+60:56
+it stop sending any data of hand
+60:58
+positions or anything like that to to
+61:02
+the multiplayer server that way you know
+61:03
+and this is very similar to how it
+61:06
+actually works on a normal and browser
+61:08
+right like on certain input boxes
+61:10
+there's no way that that any that the
+61:13
+any other scripts can see what that info
+61:16
+input box what you're actually typing
+61:18
+into it and that's all defined by
+61:22
+standards I mean I think that's the
+61:23
+biggest issues essentially we just need
+61:25
+to define
+61:27
+as an example gltf as like a rendering
+61:29
+standard certain multiplayer protocols
+61:33
+as a standard so that you know so
+61:35
+there's a unified API that we can all
+61:38
+essentially use and that the browser's
+61:41
+can know that this is how the data is
+61:44
+going to come in so that it can
+61:45
+implement like rational security
+61:48
+protocols for a lot of this stuff and
+61:49
+that without standards I mean there's no
+61:52
+way that they can do this for every
+61:55
+single potential use case right now for
+61:57
+the multiplayer side coached where you
+62:04
+know no one's using VR stuff for banking
+62:07
+for serious things yet so there are like
+62:10
+we've we've taken approach we want to
+62:12
+see what's possible before we really
+62:15
+lock everything down so we do have
+62:17
+support for scripts they all kind of run
+62:19
+in the same context you know potentially
+62:22
+if someone wanted to abuse that they
+62:24
+could except for the fact that there's
+62:27
+you know no one really doing anything
+62:28
+that requires that little security kind
+62:31
+of using Janus and so one thing we
+62:34
+looked at it is kind of I think a mode
+62:36
+where you could run where it would be a
+62:37
+little block down so you know maybe a
+62:40
+certain client would be that kind of
+62:43
+more free-for-all and you kind of you
+62:45
+know every once in a while might run
+62:47
+into something but if you're running
+62:49
+something where it is you know you want
+62:51
+to keep it locked down that would be an
+62:53
+option that you gotta have in the client
+62:56
+right I think where it gets I think
+63:00
+where it gets especially interesting as
+63:02
+well is where we have a notion of
+63:05
+defining a piece of content in the space
+63:08
+or in some sort of volume and if we can
+63:11
+securely block it so that it's only
+63:13
+rendered within that volume and inputs
+63:15
+are only tracked within that volume and
+63:17
+I think that could be another possible
+63:20
+solution to the input problem if you
+63:26
+want to kind of look at a interesting
+63:29
+another example at the OS level ok cubes
+63:34
+OS cubes queue you
+63:37
+yes they have an interesting
+63:41
+architecture where everything is sandbox
+63:44
+separately so you can open up sketchy
+63:46
+attachments and it's not gonna affect
+63:48
+the rest of your system and it's super
+63:55
+high security OS I think that's kind of
+63:58
+where the ideal future for me lies like
+64:02
+everything's kind of sandbox and you can
+64:04
+do whatever you want within that sandbox
+64:06
+and it's the job of some sort of OS
+64:09
+layer or a user agent or something else
+64:11
+to make sure that these boundaries
+64:12
+aren't leaked
+64:13
+I think the browser has actually done an
+64:16
+excellent job here and I think it's also
+64:18
+just much too restrictive at this point
+64:20
+the cross-origin type things
+64:23
+in acts are right now our screen scripts
+64:31
+all run in the same context the kind of
+64:33
+main context for the renderer but if you
+64:36
+run those were in a worker thread right
+64:38
+you can kind of keep those sandbox but
+64:41
+then you have to provide like a kind of
+64:43
+bridge API we're kind of sinking the
+64:45
+script State with the the world's to
+64:48
+render state you know right yep very
+64:52
+similar to the architecture that we
+64:54
+landed up with X okay sorry I actually I
+65:06
+know the reality tabs are you know I
+65:10
+literally using the iframe sandbox or is
+65:13
+it a web worker or is it blossom or like
+65:16
+where are you getting the security
+65:17
+context right is that a question for X
+65:20
+okay yeah yeah yeah yeah yeah yeah yeah
+65:23
+it's basically it's basically just
+65:26
+iframes it's literally you have an
+65:28
+iframe API and then the iframe loads an
+65:30
+entirely separate context and the way
+65:34
+that these are composited is they're
+65:35
+composited by the user agent on the X
+65:38
+our session you have a layers array and
+65:40
+you just stack a bunch of iframes into
+65:42
+that layers array and it's the job of
+65:44
+the engine to composite all that but
+65:46
+these iframes do not know about each
+65:48
+other unless they choose to know about
+65:50
+each other by posting
+65:51
+between yep all right cool sit you ready
+65:56
+I am ready as long as you don't hear our
+66:00
+phone ringing in the background fifth
+66:04
+Lord he is here to preach the holy
+66:08
+gospel of shortcuts and my god I have
+66:11
+learned a lot from him about shortcuts
+66:13
+and at a deeper level of the meta verse
+66:16
+which is not just attached to web
+66:19
+browsers but I want to you take it away
+66:21
+so shortcut okay
+66:23
+first can we remove this black screen
+66:25
+back here my little one that sees this
+66:26
+you are the only one okay so I'm here to
+66:37
+talk about shortcuts I've had arms we
+66:41
+had hands I'd asked like raise your hand
+66:42
+if you use the shortcut to get here
+66:44
+today checks is all right you did you
+66:46
+either clicked on in a link in discord
+66:47
+or something or it was a bookmark in
+66:49
+your address bar I actually did that
+66:51
+right I got here or you launched hey
+66:53
+look at that we got hands I you can have
+66:56
+a desktop shortcut all kinds of stuff
+66:58
+right the Metaverse I heard somebody say
+67:00
+earlier the meta verse is kind of like
+67:01
+the the web the web was like kind of
+67:03
+like universe it's just not visualize
+67:05
+the right kind of way it's 2d when I
+67:07
+think of the meta versus I think of
+67:09
+existing web and computers in all the
+67:13
+technology step it into the third
+67:16
+dimension so all the 2d stuff I think is
+67:20
+gonna have there's gonna come with us
+67:22
+into the 3d stuff and that's where
+67:23
+shortcuts come into it so we already
+67:26
+know even if you're here in VR you came
+67:27
+here launching a shortcut that's how we
+67:30
+get around currently in the metaphors
+67:33
+everything's built around shortcuts we
+67:35
+use them all the time on our phones in
+67:37
+our browsers on our desktops inside a
+67:39
+steam all that kind of good stuff so
+67:43
+what is the shortcut that's what I'm
+67:45
+going to talk about today shortcuts are
+67:47
+the most important part of the shortcut
+67:49
+is the the file target it's the address
+67:51
+it's where you're going right if it's a
+67:53
+link it's just like a HTTP address it's
+67:56
+all that you need to get there but
+67:59
+that's cool that makes it functional but
+68:02
+what makes it look nice so if
+68:05
+a GPS coordinate right if you have a GPS
+68:07
+coordinate you can get there but what's
+68:09
+there you don't know what it is so to
+68:11
+make a link a shortcut a destination you
+68:14
+know like an address look nice we put a
+68:16
+meta tags on it metadata so on that GPS
+68:19
+coordinates if you put a title tag on
+68:21
+there and say like Los Angeles
+68:22
+California then you're not looking at
+68:24
+some abstract numbers you're looking at
+68:27
+Los Angeles California on a map or you
+68:30
+know that it's gonna be on Memphis
+68:31
+that's LA right then if you put some
+68:33
+more tags on there such as an icon or a
+68:36
+screenshot or something like that you
+68:38
+got a good representation there so when
+68:40
+you look at your desktop I'm hoping that
+68:41
+after today you know every time you look
+68:43
+at a shortcut you think it you look at
+68:45
+it differently you see differently
+68:46
+because you look at your desktop that's
+68:48
+what you're seeing you're seeing
+68:49
+shortcuts to specific things and then
+68:54
+they have these extra meta tags to make
+68:56
+them have a rich presence in the world
+68:59
+so um here's some examples of shortcuts
+69:05
+we use I'm gonna actually move the sword
+69:11
+now actually I don't want this one yet I
+69:14
+don't want this one yet I'm actually
+69:15
+delete that one I'm gonna start with one
+69:17
+I actually came prepared today I'm gonna
+69:20
+grab this image and spawn it in here
+69:32
+make a giant all right
+69:41
+now bigger giant skyscraper that yeah
+69:59
+okay so assume just pretend that you
+70:02
+love the city okay so here's city
+70:05
+skylines you usually see it as like a
+70:08
+desktop shortcut depending on how you
+70:09
+regularly watch your favorite game
+70:11
+skylines maybe you watch it from steam
+70:13
+and you see it like it looks over here
+70:15
+in your Steam library browser or maybe
+70:19
+you see it you launch it from the store
+70:21
+page right so what I'm saying is
+70:22
+shortcuts not only do they take you to
+70:24
+the place they kind of are the rich
+70:26
+presence for the destination it's not
+70:29
+just a GPS court it's just Los Angeles
+70:31
+California
+70:32
+the place where dreams are made right so
+70:34
+the how we represent shortcuts in the 3d
+70:38
+Metaverse has to be awesome because it's
+70:42
+it's alright on our desktops right okay
+70:44
+we're shortcuts better than that and
+70:46
+discord they're way better if you put a
+70:48
+link into discord you get a good rich
+70:50
+presents for it you get the title
+70:51
+attached to it the description of the of
+70:54
+it you get a screenshot of it sometimes
+70:55
+the video plays right there
+70:57
+so representing shortcuts Oh inside the
+71:01
+meta verse is gonna be huge because
+71:02
+shortcuts have been there part of the
+71:04
+better versus the very beginnings dawn
+71:06
+of the computer age and people are
+71:08
+always gonna have their favorite stuff
+71:09
+and they're always gonna want to get
+71:11
+there so that's they're always gonna
+71:14
+have shortcuts they're not gonna go away
+71:15
+so I talked about the simple ones down
+71:18
+here now what's up with the 3d ones well
+71:20
+that's stepping it into the the VR room
+71:23
+the 3d room right so we have the
+71:26
+metadata the metadata that we were
+71:28
+working with on these shortcuts is the
+71:30
+same metadata we see down here these
+71:31
+other representations especially right
+71:34
+here on the store page just kind of just
+71:35
+displays it all wait we could take that
+71:37
+same metadata that describes City
+71:42
+skylines and represent it however we
+71:43
+want in our front ends and here's some
+71:45
+examples of it it can be just a icon
+71:48
+sitting in space that's the most boring
+71:50
+way or you could make you
+71:53
+since it's a game sake you know a
+71:54
+physical object you sit in or stand in
+71:56
+front of over here it looks obviously is
+71:58
+like it's a computer stand and this is
+72:00
+just the same shortcut represented in
+72:02
+different ways and that's huge so let's
+72:09
+look this is some 3d representations in
+72:11
+our soldiers house team represents it
+72:12
+let's talk about some other examples
+72:13
+briefly about how people and how
+72:16
+companies successful companies currently
+72:18
+represent things like games and movies
+72:22
+TV shows or even actors and stuff like
+72:25
+that on their their platforms so let's
+72:30
+talk about Netflix sure we've all use
+72:32
+Netflix would you browsing Netflix it
+72:35
+has these kinds of representations for
+72:38
+all of those it has the the mark Hamid's
+72:41
+right there I'm sorting through the list
+72:43
+and it has the title it even has a
+72:45
+preview video our DVRs do this steamvr
+72:50
+does this on this same kind of level
+72:53
+that you're seeing in these pictures
+72:54
+steamvr home oculus home you spawn your
+72:58
+shortcuts as 3d objects now would you
+73:03
+would you look at these screenshots gin
+73:09
+if you could please Scott spawn one of
+73:11
+the screenshots that has a bunch of my
+73:13
+stuff in it because I'm gonna talk about
+73:14
+how I love all of it oh yeah let me just
+73:17
+get one of those so when you see a
+73:21
+screenshot it might look like a bunch of
+73:23
+random stuff but the person whose stuff
+73:26
+it is they recognize it all so I'll put
+73:29
+it this way if fun if I showed you my
+73:31
+desktop full of icons it would just look
+73:34
+like madness to just a bunch of crap but
+73:36
+if you saw your desktop you would
+73:38
+recognize it all your bike hey those are
+73:39
+my my the games that I love up on the
+73:41
+top left and those are those awesome
+73:43
+website bookmarks over there on the
+73:44
+bottom right it has this personal
+73:46
+connection to you so yes they're
+73:48
+shortcuts I got to make a huge a tiny
+73:51
+they're shortcuts but to the people that
+73:55
+created them these shortcuts are
+73:59
+basically their representations of what
+74:02
+the metaphors is this is their sliver of
+74:04
+the Metaverse this is all that matters
+74:06
+you used to see what matters to you and
+74:08
+your bookmarks and your favorites by
+74:09
+looking at your desktop and seeing how
+74:11
+you organize your favorite icons or your
+74:13
+favorites menu and steam or origin or
+74:15
+open it up your favorite bookmarks bar
+74:17
+that how all the good stuff in it that's
+74:19
+how we used to visualize our favorite
+74:21
+stuff because the Metaverse is built
+74:23
+around shortcuts to stuff so if we just
+74:25
+visualize those exact same shortcuts in
+74:28
+another way it has that same personal
+74:32
+value to us the people that create it
+74:35
+but it just takes it into the next
+74:37
+dimension here so the moral of the story
+74:41
+is would you look at shortcuts
+74:43
+you gotta envision how they would look
+74:45
+in different platforms if you if you
+74:49
+took the shortcut that you that you
+74:50
+actually launched to get to something if
+74:52
+you took it and you put it into the 3d
+74:54
+world
+74:54
+what would your shortcut look like now
+74:57
+turning it into a portal like we said
+74:59
+earlier jumping into the screen or
+75:01
+something to actually transition into
+75:03
+the other game that's awesome let's get
+75:05
+there
+75:06
+but before we get there currently we're
+75:09
+already at shortcuts so I say let's make
+75:12
+the shortcuts look good and then we'll
+75:15
+start working our way up from the level
+75:17
+one on the last chart we'll start while
+75:18
+working our way up to the vendor
+75:19
+transitions oh to wrap it up I'm also
+75:22
+going to just explain what you're seeing
+75:24
+back here because I did not explain that
+75:25
+first of all I probably should have led
+75:28
+with this how's everybody doing
+75:29
+I'm Syd Laura I'm the programmer of what
+75:31
+you're seeing right here this is anarchy
+75:32
+arcane it's a 3d desktop it's it's just
+75:35
+about specializing shortcuts customizing
+75:38
+them and launching them that's what it
+75:42
+is so yeah I hope you all look at
+75:45
+shortcuts y'all you just every shortcut
+75:47
+that you see your vision how you would
+75:49
+put it in your 3d VR room and with that
+75:53
+I'm gonna open it up to questions thank
+76:01
+you for those little clap icons are you
+76:06
+familiar with like Open Graph and rdfa
+76:09
+and kind of the web effort to kind of
+76:13
+provide these type of kind of
+76:15
+descriptions for content
+76:18
+okay so you are talking about
+76:21
+descriptions for the shortcuts so like
+76:22
+an a database of icons for example like
+76:26
+it's it's kind of more like like you
+76:28
+mentioned on discord if you drop a URL
+76:30
+and you know sometimes it can pull up
+76:32
+the video preview or sometimes like the
+76:34
+image preview things like that basically
+76:38
+that it's kind of like inverting the
+76:39
+concept of the spork cut where as
+76:43
+content like if I publish a website I
+76:45
+can put those tags in my page that kind
+76:48
+of call out that this page represent
+76:51
+this URL represents a video and here's
+76:55
+like here's a URL to the thumbnail of it
+76:58
+here's a description of it here's you
+77:01
+know the title things like that you can
+77:04
+put in your corporation really good
+77:25
+api's that may not be open api's but
+77:28
+informatively open you can access them
+77:31
+information back to me so that's always
+77:33
+good too but the thing is the web
+77:35
+doesn't always have those so would you
+77:37
+go or into a website believe it or not
+77:39
+Netflix doesn't adhere the meta tag
+77:41
+standards so when you're going to these
+77:42
+websites you would expect them to you
+77:44
+would be nice if they all follow the
+77:46
+standards but the reality is that they
+77:49
+don't be to follow once right okay Jim
+77:56
+if you could actually demonstrates what
+78:02
+we're talking about here that was my
+78:04
+question was not like are you aware that
+78:06
+this exists is more like yeah but like
+78:14
+that's the easy case but yes absolutely
+78:16
+if they have the information right there
+78:18
+on the meta tags that's wonderful now I
+78:20
+will all say one thing about the minitek
+78:21
+standards before I describe these two
+78:23
+images here um they're great but they're
+78:25
+not up to par if you look at things like
+78:28
+Netflix Hulu and these media rich
+78:31
+websites they have more than one image
+78:34
+per atom per entry in the database and
+78:39
+they and they also have a preview video
+78:41
+associated with it so you can see a
+78:43
+trailer before you go access the full
+78:45
+version of the media so while the
+78:47
+standards are great it seems looking at
+78:50
+like Hulu and Netflix and stuff that
+78:52
+they're falling behind I do agree to
+78:54
+because when I try to represent
+78:55
+shortcuts in a 3d space if you only give
+78:58
+me one image what am I gonna do
+79:00
+I could put it on a tablet that's it so
+79:02
+you and even in a 2d environment like
+79:05
+like obviously on Netflix and Hulu and
+79:06
+stuff and you need to have more than
+79:08
+just the one image to really give it a
+79:09
+media rich presence there and that's
+79:13
+what these extra fields are throwing in
+79:15
+there to do but the metastatic standards
+79:17
+are a great foundation and as I'm about
+79:19
+to explain right now that's the
+79:20
+foundation of these so if you look at
+79:22
+this one on the top there it's the
+79:32
+website Vimeo and from the website Vimeo
+79:35
+there's a plug-in this is what how
+79:38
+Anarchy Arcade works this program over
+79:40
+here now the shortcuts are awesome
+79:41
+everybody should be doing shortcuts now
+79:42
+I'm talking about mostly about inner
+79:43
+cure and how it works it uses the meta
+79:46
+tags to scrape off of that website and
+79:48
+it fills out the forms in this the
+79:51
+shortcut properties here so like you
+79:53
+just like to do look at your properties
+79:54
+of a desktop shortcut you got your
+79:55
+properties there and then with the
+79:57
+properties that's all that you need to
+79:59
+give it these representations like all
+80:01
+the different own cities cities skylines
+80:02
+representations and because it works
+80:05
+mostly off of meta tag stands you go
+80:08
+over here to other sites like the steam
+80:09
+store over here do the same thing you're
+80:12
+just filling out this meta you just
+80:14
+filling out your shortcut properties you
+80:17
+can do it manually or you can do with
+80:18
+your meta tags you can Duke the official
+80:20
+api's but in the end sometimes it takes
+80:24
+a little elbow grease or or scrapers or
+80:27
+something like that to really get it in
+80:29
+there
+80:34
+it would be great to see the kind of
+80:36
+stuff that Netflix and all those places
+80:38
+use get adopted into the the website
+80:41
+meta standards meta tag standards it
+80:43
+would make my job a hell of a lot easier
+80:44
+because I could just pull everything
+80:45
+from the page make everybody's job
+80:48
+easier and it seems to be the way things
+80:50
+are going I don't know maybe the meta
+80:52
+tags were made back to the past before
+80:54
+they wanted to have two images of the
+80:55
+video well there is I mean for the open
+80:59
+Open Graph is the one that most people
+81:01
+use basically Facebook's not really
+81:03
+standard there is like a mailing list
+81:07
+where people will discuss that stuff but
+81:09
+uh yeah I think a lot of them were
+81:10
+basically defined back in like I think
+81:13
+when that launch was like 2009 and like
+81:15
+that and they kind of defined a whole
+81:18
+bunch of them and kind of then stopped
+81:21
+yeah yeah you see the the concept of
+81:25
+riders marching forward what are the
+81:27
+standards it let's catch up how would
+81:32
+how do you think is the best way that we
+81:35
+can incentivize companies with a lot of
+81:39
+this rigid data to implement something
+81:42
+that's very conducive to the meta tag
+81:45
+standard what can we do to incentivize
+81:48
+them so to get them to adopt the same
+81:53
+kind of fields that to make our job
+81:56
+easier so that we don't have to rely on
+81:58
+something like scrapers for anything
+82:00
+well I think they already do it they do
+82:05
+it privately so obviously I mean you can
+82:07
+look at those sites and see that
+82:09
+internally they have this meta
+82:10
+information bound to each item but we
+82:12
+were talking about publicly putting it
+82:14
+out there for the good of openness oh
+82:17
+well they make more money when it's not
+82:30
+I mean the way that Facebook like
+82:33
+Facebook and Google have done this by
+82:35
+basically holding sites for ransom if
+82:37
+you don't implement those G tags if you
+82:38
+don't implement kind of uh you know tags
+82:41
+for can make your site crawler friendly
+82:44
+if you don't write your site in amp you
+82:46
+know you're not gonna get good placement
+82:47
+on the search engines you're not gonna
+82:49
+get the nice little pretties exactly
+82:52
+yeah
+82:53
+they have power over companies they've
+82:58
+convinced a lot of people to implement
+82:59
+those work on it kind of all of us are
+83:02
+coming from place where and we want
+83:04
+people to implement those to be open to
+83:06
+be friendly so that people can get at
+83:08
+the content but as you said that's not
+83:10
+always what they want but also that's
+83:13
+that's just for the scraping that users
+83:16
+often manually fine-tune their shortcuts
+83:20
+because remember everything you see the
+83:23
+skip over here I love I've seen all
+83:24
+those movies I've played all those games
+83:26
+I've customized them to be just the way
+83:29
+that I want so the the stuff that you
+83:31
+give in the default shortcut the default
+83:35
+icon if you will just think of like if
+83:36
+all your icons were default icons that's
+83:38
+just a starting point you can
+83:39
+automatically replace it with better
+83:41
+icons but in many cases users are gonna
+83:44
+watch that that custom I mean very often
+83:47
+they're gonna want that customization to
+83:48
+do what
+83:50
+what are you when you link in your in
+83:52
+your VR sorry what is energy in Anarchy
+83:54
+Arcade if you have a shortcut it's
+83:56
+linking to web media or I mean so are
+83:59
+you like scraping are you like let's say
+84:01
+you know right now in hubs for example
+84:03
+if I post a youtube link it gives me the
+84:05
+YouTube video but it's also assumes that
+84:07
+I don't want all of the rest of the
+84:08
+content in the page right like so if
+84:11
+you're talking about Netflix
+84:13
+I mean first off is there an API for
+84:15
+Netflix such that you could just like
+84:17
+get there like I don't think you can
+84:20
+decouple like watching a video on
+84:21
+Netflix from their page or their app at
+84:23
+this point right cutting tip okay so
+84:27
+let's talk about Netflix would you watch
+84:30
+a movie on Netflix in your web browser
+84:31
+you got that address in your web browser
+84:33
+you could actually bookmark that you
+84:35
+could drag that onto your bookmark bar
+84:36
+and
+84:37
+got yourself shortcuts to the web can
+84:41
+you embed the video at you but that's to
+84:42
+a page like or so so sorry and you're in
+84:45
+anarchy arcade I assume then you're
+84:47
+loading a full web browser and you're
+84:48
+looking at a whole Netflix web page so
+84:51
+when you're talking about what's being
+84:53
+displayed on the screens we're talking
+84:55
+about in game previews because anarchy
+84:57
+is much like your home or oculus home or
+85:00
+your regular desktop shortcuts these are
+85:01
+things that launch stuff up okay so if
+85:05
+we're talking about a shortcut to a
+85:07
+Netflix movie well first of all you'd be
+85:09
+able to launch it and it would open in
+85:10
+whatever your systems default browser is
+85:12
+but let's talk about what students get
+85:14
+shown on the in-game preview on the
+85:16
+in-game screen because we're not gonna
+85:18
+launch standalone Netflix app we're
+85:20
+gonna watch Netflix on the wall would
+85:22
+you watch Netflix it's full screen so
+85:24
+when you're saying to decouple it from
+85:26
+the full screen viewer the first guess
+85:30
+is it's loading the full screen video
+85:32
+stream on the web tab but the that's a
+85:36
+good thing but on the YouTube one okay I
+85:40
+think I got the YouTube question would
+85:42
+you spawn to youtube you're in anarchy
+85:44
+arcade you're not just spawning websites
+85:47
+because you're spawning the shortcut to
+85:50
+YouTube it's not showing youtube.com or
+85:53
+whatever website it is instead yeah
+85:56
+showing the representation of it it
+85:58
+could be representation as a tablet
+85:59
+where's an arcade cabinet but it is
+86:01
+definitely using the API in that case
+86:03
+and like I was saying earlier if you can
+86:05
+use the official API you use the
+86:07
+official API that's real good if it's in
+86:09
+the meta tags that's great too
+86:11
+the scrapers are only for bridging the
+86:14
+gaps so that people don't have to
+86:16
+manually customer ID I think part of my
+86:20
+what I'm pointing to is like this thing
+86:22
+ever did it sorry if a VR how do I say
+86:26
+your name actually a view a view yeah
+86:30
+you wrote like ages ago or like last
+86:32
+year you wrote you know why is it seven
+86:36
+years later or whatever and I still just
+86:37
+can't get a web page in in WebGL or
+86:41
+whatever right like I think some of what
+86:42
+I'm talking about is speaking to that
+86:44
+problem like you know if you're talking
+86:46
+about say 2d web content right like
+86:49
+which some of the stuff you're talking
+86:50
+about like
+86:51
+me a shortcut depending on what I guess
+86:53
+so you so if anarchy arcade is an open
+86:56
+platform then you yourself in that like
+86:59
+native app that someone installs and
+87:01
+like you know like on their their system
+87:03
+then can open a you could load a you
+87:06
+know chromium inside of that or right
+87:09
+like you can you can load a full browser
+87:11
+if you want it right but I my brain is
+87:13
+constantly thinking about this context
+87:14
+I'm in right now which is I'm in like
+87:16
+Firefox right I'm in Firefox nightly and
+87:18
+they're still no like dumb to texture or
+87:21
+whatever you want to call it right like
+87:22
+so shortcuts so then you're talking
+87:25
+about incentives for shortcuts it's like
+87:26
+well the incentives there's no
+87:29
+infrastructure to even look at to the
+87:31
+web content in a 3d web page and then
+87:33
+eventually the shortcuts would be
+87:35
+whoever said like Open Graph 3d it would
+87:37
+be like probably whatever Google Kali
+87:39
+has right now right like metadata toward
+87:41
+3d objects like sketchpads that right am
+87:43
+i okay you're talking about not being
+87:46
+able to display webpages in the 3d world
+87:50
+in a standard browser right at the
+87:53
+moment right they're still where you
+88:01
+give people pixel axis so quickly I'll
+88:03
+talk about that security hole right
+88:05
+there which is huge
+88:06
+for WebGL I've tried to make a Enter key
+88:08
+okay and WebGL I got really far but this
+88:10
+is the wall that I hit sure you can't
+88:13
+you can't render a web tab regularly
+88:16
+like a full web tab you can't render it
+88:17
+on there what when you get pixel access
+88:19
+because hackers are gonna steal the
+88:21
+pixels and stream it somewhere it's
+88:24
+still somebody stuff right so that I
+88:26
+don't think I know a little bit about
+88:29
+this in the spec groups first of all
+88:31
+this is partly being addressed but I
+88:34
+think the issue isn't necessarily pixel
+88:37
+stealing the problem that they have is
+88:40
+that the browser one has cookies two has
+88:44
+cross domain issues and three has
+88:46
+capture issues where if the user has a
+88:49
+cursor looking at a 2d page and this 2d
+88:52
+page could be something like your bank
+88:54
+account of course and by clicking on the
+88:58
+page you could deduce what the person's
+89:00
+bank account number what their credit
+89:01
+card is what their password is god
+89:03
+forbid
+89:04
+that is the problem that is pretty much
+89:07
+preventing the browsers from
+89:08
+implementing danke sorry it's not you
+89:17
+can't let somebody read certain stuff
+89:19
+and paint it to something that you could
+89:21
+read pixel data operate because oh they
+89:25
+so they are actually solving some of
+89:27
+this in the spec on the last that I
+89:29
+heard is that as long as you follow
+89:32
+cross-origin rules then you will be able
+89:34
+to composite yes that's already not yet
+89:41
+but as far as I know nobody's
+89:43
+implemented that but um that will work
+89:45
+but secondly you will not be able to
+89:47
+access the actual pixels directly this
+89:50
+will just be composite by the user-agent
+89:52
+specified with the transform audio
+89:59
+context analyzer just the other day and
+90:01
+I assume it's for the same reason
+90:02
+because you can open up and like a data
+90:04
+file password file or something and
+90:06
+analyze it like it's pixels or like it's
+90:08
+audio so yeah so to address that when
+90:13
+you currently if you open if you let a
+90:16
+full web tab render at any game surface
+90:18
+you got a security hole because if you
+90:21
+have scripting support if do you allow
+90:23
+per pixel access to the surface somehow
+90:26
+they're gonna do that so how here's an
+90:29
+eclair Kade's way to not even touch that
+90:31
+with a ten-foot pole so you guys are
+90:33
+talking about doing some serious stuff
+90:35
+you're talking about like logic that
+90:37
+crosses bounds and a cure kate isn't
+90:39
+like that and a cure arcade is like a
+90:41
+desktop it launches shortcuts just like
+90:43
+steamvr home oculus VR home whatever
+90:47
+spell lock this home so would you want
+90:48
+something it's there's no connection
+90:52
+right
+90:52
+so what anarchy arcane isn't a scripting
+90:56
+platform the people that create these
+90:59
+arcades they are only defining
+91:01
+properties they're not defining logic
+91:03
+and there's actually no scripting
+91:04
+platform at all and it other than what
+91:06
+just runs on the in-game screen that's
+91:07
+isolated from everything else so that's
+91:10
+how I hear acade circumvents that
+91:12
+problem but that isn't definitely a real
+91:14
+problem but yeah arcade you can post
+91:16
+everly just spawn for websites on the
+91:17
+wall
+91:17
+you can write on the way that we're
+91:21
+tackling this issue in execute is um we
+91:24
+are allowing all this stuff but I think
+91:27
+fundamentally what this needs
+91:29
+what this leads to is the users just
+91:31
+need to kind of understand the security
+91:33
+impacts of what they're doing the web
+91:36
+has 25 years essentially of training
+91:38
+users what the green icon means this URL
+91:42
+bar that's always secure I think we need
+91:44
+similar solutions for VR that don't
+91:46
+currently exist but I think the best way
+91:48
+to actually arrive at that point is to
+91:50
+experiment and to start early teaching
+91:53
+people correct browsing habits in the
+91:56
+next hour space I did something that
+91:59
+actually main anarchy arcade is like a
+92:01
+scriptlet that would appear in a web
+92:04
+browser cross-domain
+92:05
+I had to deal with so much costume aid
+92:07
+stuff I had to set up HTTP on my server
+92:10
+but after I did it it worked perfectly I
+92:12
+was able to write it to the right my
+92:14
+pixels in the canvas it's loaded as a
+92:17
+texture display it so it's awesome it's
+92:20
+definitely getting there and I hope that
+92:22
+one day we could do it because that was
+92:24
+the biggest wall for me man when I tried
+92:25
+to make Anarchy arcade web version I
+92:27
+just hit that wall and it seemed like
+92:29
+that was gonna be a major issue it's
+92:31
+nice to see that other people also yeah
+92:35
+I think this would be an interesting
+92:37
+topic to have or talks about or that
+92:43
+this I won't rant about course right now
+92:52
+that's cool can you guys hear me yep yep
+92:56
+all right cool um so yeah that was
+92:59
+awesome man that the Anarchy arcade is
+93:02
+so cool so you have to use you have to
+93:06
+basically for each so each thing that
+93:09
+they let let's say a end user right
+93:13
+wants to get some content right so you
+93:15
+have to specifically you can't rely on
+93:18
+the on the meta tag so you have to kind
+93:21
+of like set up each kind of main website
+93:24
+like let's say Netflix or YouTube you
+93:26
+kind of have to scrape it and figure out
+93:28
+what the what the data that you're gonna
+93:30
+want
+93:31
+Matt and then custom-build kind of each
+93:34
+made your website right right each one
+93:41
+hardly know ya know yukl each website
+93:44
+has to be custom Li implemented so you
+93:46
+gotta it's not like a standard like you
+93:48
+say like Open Graph or whatever so
+93:50
+there's not enough data there right
+93:54
+because how could we possibly write Java
+93:57
+scripts waivers for every site existence
+94:00
+that's right and tasks and that's one of
+94:03
+the reasons why I came here is because I
+94:04
+wanted to touch base on that stuff and
+94:06
+there really is no solution because like
+94:09
+let's say like you you guys are talking
+94:10
+about Netflix specifically YouTube is
+94:13
+that they won't open up their API
+94:15
+because they want to also show you like
+94:17
+let's say you have a Netflix membership
+94:19
+right you could sign in through your
+94:21
+through your browser not even go to the
+94:23
+Netflix website right like it's like a
+94:25
+Facebook account or whatever the idea
+94:28
+though is they all want I guess the big
+94:31
+corpse you know I mean once you want go
+94:34
+to view the content that you want to
+94:35
+view they don't want to just show you
+94:37
+the content itself they want to show you
+94:39
+their reference representation of the
+94:42
+content so they want to show you
+94:44
+basically you know ad on the right or
+94:47
+you know what's featured what's next
+94:50
+similar interests but if they you're in
+94:52
+your VR world you don't want to see
+94:54
+similar interest and you just want the
+94:56
+content and that's why those extra rich
+94:58
+those extra rich stuff is not their
+95:02
+problems like Netflix using through the
+95:06
+website they'll only serve you up to
+95:09
+I think 720p they're like the you know
+95:15
+wide buying DRM content plugins things
+95:19
+like that so basically it's the DRM
+95:22
+because of DRM they aren't gonna serve
+95:24
+you off the full four right right back
+95:28
+in the day it was Silverlight and they
+95:30
+switched to yeah
+95:31
+why'd violent others get me an extension
+95:35
+I don't know if they switched over that
+95:36
+yet or not yeah big drama about like
+95:39
+fire browsers getting that
+95:43
+yeah I'm thinking I wouldn't want to
+95:50
+watch if I'm trying to get like the
+95:52
+maximum quality experience in Netflix I
+95:54
+launched the shortcut so while some
+95:56
+things they could discord rich presence
+95:58
+previews again right some things the
+96:00
+rich presence is so the rich presence of
+96:02
+the shortcut is so good that you watch
+96:03
+it right there in the browser but
+96:05
+sometimes we click on the links to
+96:06
+access the full resolution image full
+96:09
+resolution video stuff like that so we I
+96:12
+don't think that the stuff we run on
+96:14
+embedded screens especially 2d screens
+96:17
+like this or is ever gonna replace
+96:20
+standalone apps we need to always think
+96:23
+of them as rich presences within the
+96:25
+world so on that note a couple more
+96:28
+things Netflix the side of Anarchy
+96:30
+arcade all the internal screens are 720p
+96:32
+because in practice all the screens seem
+96:34
+to be a little bit away from you not
+96:37
+taking up all the screen space anyways
+96:38
+so the internal screws are 720p by
+96:40
+default and if you want higher than that
+96:42
+you launch the shortcut and it opens and
+96:43
+whatever you're natively handling the
+96:45
+shortcut is if you have your VR browser
+96:48
+set up to consume it when shortcuts like
+96:50
+the at launched it would go into there
+96:52
+because everybody's different everybody
+96:53
+has their their own favorite apps okay
+96:56
+and and going back to the related videos
+96:58
+that you mentioned sometimes you would
+97:01
+want to see the related videos because
+97:03
+an eclair kata actually has an option
+97:05
+for this things like YouTube give you
+97:08
+the power and the API because like I
+97:11
+said use the API as if it's there to
+97:13
+specify all these kind of things whether
+97:20
+you want the related videos to be shown
+97:22
+or not so an anarchy okay there's
+97:24
+actually a mini where the user specifies
+97:25
+if they want what they want to happen
+97:27
+with the related videos and one of the
+97:29
+options besides just showing the regular
+97:30
+rated videos is for being the videos
+97:33
+that do a playlist so it's just you
+97:35
+click on one YouTube video for example
+97:37
+this works really good for you too
+97:38
+because it has an API and then that's
+97:40
+like a starting point for hours of other
+97:42
+videos related to that also when you're
+97:45
+loading the full website you're doing
+97:47
+what the company wants would you go to
+97:50
+the website you load the full website
+97:51
+you're making them happy Anna care Keith
+97:54
+doesn't have an ad blocker it's just
+97:56
+web browser right so would you go when
+97:58
+you make a bookmark to Netflix and then
+98:01
+you go to Netflix did you spend four
+98:03
+hours watch Netflix they're not mad
+98:05
+they're happy unless you adblock them
+98:07
+then they're pissed but yeah it's it's
+98:10
+it's not leeching at all it's just
+98:13
+consuming in the 3d environment there's
+98:22
+a lot to think about there thanks to the
+98:24
+Lord actually in terms of just logistics
+98:28
+when we have lightning talks can we
+98:30
+endeavor to keep them more close to the
+98:34
+lightning talk yes so the Lord's talk
+98:40
+was I think very sorry yeah I think it's
+98:43
+the questions that so I think we should
+98:47
+go ahead and recap the topics that are
+98:50
+still unresolved from last week which
+98:52
+are the org the official organization
+98:55
+name the meeting times that are best for
+98:58
+everyone and then how frequent we should
+99:01
+have these meetings so if you guys in
+99:05
+terms of organization name I don't think
+99:07
+that the original OMG open matter versus
+99:11
+gathering was controversial I think all
+99:13
+the other ones had some objections but
+99:15
+that one did not so that would be my
+99:18
+vote I think the github wasn't it
+99:21
+Metaverse makers meetup I suggested that
+99:27
+one and it's got more votes but at the
+99:30
+same time people are gonna be like what
+99:34
+it was it makers Metaverse meet you know
+99:37
+Metaverse make the or did they're gonna
+99:41
+mangle words meetup is also like this
+99:46
+huge corporation that everybody uses to
+99:48
+set up meetups and we don't want that in
+99:51
+confused with what we're doing here
+100:01
+would it be better if it was mm so oMG
+100:17
+works for me but we could call it m3
+100:25
+instead of yeah we can stick with mmm
+100:33
+but we can call it M 3 and C 4 flatly I
+100:36
+just like the idea www upside down
+100:39
+that's pretty sweet that was the first
+100:44
+thing I noticed when I saw those
+100:45
+suggestions do it I like it what they
+100:51
+say
+100:52
+my vote is did you say M 3 is like the
+100:55
+shorthand for it you know my diverse
+100:59
+Metaverse makers meeting or meet up I'm
+101:04
+fine with M 3 I'm rather than actually
+101:06
+having a stand for anything I think just
+101:09
+M 3 is a good name that's kind of cool
+101:11
+yeah we don't even like if you turn the
+101:14
+M even on the side it's like a tree
+101:28
+meeting times M 3 as the ORD name
+101:31
+organization name yep yeah could we get
+101:35
+that name on github you wonder if it's
+101:38
+even available I mean we can because the
+101:44
+official organ can be something else but
+101:46
+then the display name can be m3
+101:55
+there is someone who has the username m3
+101:58
+but they have like you know one
+102:00
+repository they haven't posted anything
+102:02
+in a while I don't know what github does
+102:04
+for reclaiming a counselor things like
+102:07
+better if I actually ask I actually
+102:09
+asked them before and they do have a
+102:12
+policy of like just somebody's not using
+102:14
+their account and they're not are you
+102:15
+gonna paying customer and you can kick
+102:17
+them out or we would have to just figure
+102:19
+out they really want to expose people
+102:23
+right yeah there actually is a guy that
+102:27
+has in theory but it's not being used we
+102:31
+could contact github but I also don't
+102:33
+think it matters too much we could call
+102:35
+it like n3 org or 23 something an
+102:38
+through group okay so okay um
+102:42
+logistically there's also meeting times
+102:45
+yep and I know there was some people in
+102:48
+Europe um wanted to do it more morning
+102:51
+in the States in North America I don't
+102:54
+have a strong opinion either way yeah
+102:58
+the reason for that is just so we can
+103:00
+include as many people as possible I
+103:03
+mean where we choose there's gonna be
+103:06
+you know if people in Asia want to
+103:08
+interview you know there's gonna be
+103:10
+somebody yeah I think actually 6 p.m.
+103:17
+PST which is what we've been doing is
+103:21
+accessible enough to two people other
+103:24
+than of course Europe is gonna be the
+103:27
+morning well here and there we can do so
+103:32
+like for Europe they would essentially
+103:36
+anyone who's on Pacific would have to be
+103:38
+here at 9:00 a.m. so maybe that would be
+103:42
+a once a month thing okay that's the
+103:46
+second topic which is how frequent
+103:49
+should these be and why you know what
+103:52
+tempo would make sense I think every two
+103:57
+weeks is been okay okay okay so
+104:02
+bi-weekly is as well be kept
+104:06
+yeah and I guess we'll update people
+104:11
+ahead of time on next time because this
+104:14
+was a little bit a shorter notice yep
+104:18
+but we're gonna define more roles like
+104:22
+timer slash moderator describe those are
+104:26
+the two most important roles I think and
+104:28
+Chris does a good job with the video
+104:30
+recording bed a scribe can use later on
+104:32
+after afterwards but you know just so we
+104:36
+kind of have some notes keep this thing
+104:38
+progressing does anyone actually want to
+104:41
+volunteer as a scribe for going back on
+104:44
+the livestream and uh you know are like
+104:47
+summarizing what we've talked about
+104:52
+coming out I can do it I guess I'm good
+104:56
+at that kind of stuff so okay good
+105:00
+appreciate yep yeah um also I think it'd
+105:06
+be awesome to have diversity and like
+105:09
+the people that are giving talks so I
+105:11
+mean if anybody here or who's watching
+105:14
+the vaad on YouTube has some that they
+105:17
+think would be of interest to the group
+105:20
+by all means we'd love to have you
+105:23
+propose a quick five minute talk and
+105:24
+then do a Q&A; especially if it's stuff
+105:26
+that you're working on I'm sure there's
+105:30
+a very receptive audience that would
+105:32
+love to see and hear your thoughts on
+105:34
+meta versity ideas yeah I
+105:37
+let's open something on our open
+105:40
+something on github where anyone who
+105:42
+wants to talk and propose a talk and or
+105:46
+refer anyone that they think would be a
+105:49
+good person to give a lightning talk
+105:54
+also as a couple im3 also another github
+106:01
+thing is will open up a founding values
+106:04
+I don't know like Constitution may not
+106:08
+be the right word for it but what
+106:10
+everyone thinks should be the founding
+106:12
+values of the group and what's important
+106:14
+to focus on
+106:15
+I agree and we can upvote and you know
+106:21
+see where people people's interests are
+106:27
+what do you what do you think we should
+106:29
+plan for the next one because we did
+106:31
+lightning talks this round what should
+106:33
+the next one be we could have a
+106:35
+discussion I think Lightning talks are
+106:39
+like as long as they're contained enough
+106:42
+and like we keep to the five minutes and
+106:45
+we do break out sessions afterwards for
+106:47
+a long Q&A; I think we could have
+106:48
+lightning talks every single time like
+106:51
+just probably enough talk
+106:52
+enough topics that people want to talk
+106:54
+about that we could just set up 15
+106:57
+minutes of every meeting to do that but
+106:59
+also the panel discussion thing is
+107:00
+interesting to me I don't know what we'd
+107:02
+be talking about there but pretty pretty
+107:15
+fast
+107:15
+[Music]
+107:23
+five minutes talk in 15 minutes
+107:27
+QA my recommendation at a space with the
+107:30
+microphone where people could walk up to
+107:32
+when they ask their questions we got the
+107:36
+snack table already you've got to take
+107:37
+it up a notch with the meta sure anyone
+107:42
+who has a github who is just post on the
+107:45
+organization and everyone will be added
+107:48
+as members so people can make new
+107:51
+repositories open you know PR issues and
+107:55
+all that
+108:08
+and well and people are bringing up all
+108:12
+these examples of m3 but you know I like
+108:14
+the meaningless of it definitely nothing
+108:19
+unique so what kind of gives us a cloud
+108:23
+of mystery and who should we try to
+108:28
+contact get up about the m3 name
+108:31
+specifically or come up with a round
+108:34
+about m3 name for the work kind of hurt
+108:37
+task there get up as pretty responsive
+108:40
+and I know that they do have a policy
+108:42
+regarding this okay is it but if you're
+108:46
+kind of like established organisation or
+108:49
+is it just like no I think on the way
+108:52
+that they do it is if your account has
+108:54
+like not been used for like one or two
+108:56
+years and you don't have any commits
+108:57
+then like they consider you a squatter
+109:00
+or something
+109:06
+Chris asked why not use em three org
+109:10
+versus kickin that guy from m3 m3 seems
+109:28
+promising
+109:29
+based on the this guy hasn't committed
+109:31
+since 2014 also isn't the most
+109:48
+interesting m3 that I know about is
+109:50
+isn't that the workshop that the
+109:52
+Mythbusters used to work out of oh okay
+110:02
+so I think we should you know from here
+110:06
+to two weeks from now breakout
+110:08
+conversations to github and you know
+110:12
+work these these things out there and
+110:17
+there's a proposals RPGs and taken if
+110:21
+that's cool I don't know if it is it's
+110:28
+not an credo so nevermind
+110:49
+all right we're gonna move the naming
+110:51
+proposal back down to the github issue
+110:54
+and for next week we'll have a few more
+110:58
+lightning talks and I think we can start
+111:01
+organizing panels the next time after
+111:04
+cuz oculus quests are gonna be shipping
+111:06
+in I think we're gonna have a lot of
+111:09
+quality time trying those out before the
+111:13
+you know the one right after the next
+111:14
+one like a lightning talk or whatever
+111:21
+but just like a news recap of what
+111:23
+happened during the last two weeks it's
+111:25
+kind of interesting to you know to the
+111:29
+Metaverse as a whole just the artists we
+111:36
+can do it who wants to volunteer as the
+111:38
+news
+111:40
+newscaster um I say just opening it up
+111:43
+every week and just have people submit
+111:44
+like different you know they want
+111:48
+I would love to volunteer as I'm
+111:51
+somebody who's actually going through
+111:52
+the news or at least running down it as
+111:55
+a newscaster I am terrible at actually
+111:57
+keeping track of news though so as long
+112:00
+as there's a list then I'd be glad to
+112:02
+host that okay are these like when we do
+112:06
+these meetups and people drag bunt
+112:08
+images are these saved or this if I'm
+112:11
+wrong they're up there yeah they can
+112:15
+save a deer that'd be okay yeah so if
+112:23
+you pin them then we can come back and
+112:26
+see it but I'm not gonna in every single
+112:29
+image here by
+112:35
+it comes to the point there is also
+112:36
+baking it into the map so we can save
+112:40
+you know specific things
+112:52
+yeah or just take screenshots while
+112:54
+we're here and can remain REM there some
+112:57
+of those thanks for everyone for coming
+113:01
+and we'll do this again two weeks from
+113:04
+now
+113:06
+yep
+113:07
+see you guys on get up cool yeah cool
+113:11
+thanks GG m3 
