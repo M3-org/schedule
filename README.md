@@ -6,10 +6,9 @@
 ### **Agenda:** *(Make pull requests for proposals)*
  - **Logistics:** 
    - Organization name
-   - 
-   - 
+   - Organization roles
  - **Lightning Talks:**
-   - 
+   - chrisplatorres on past metaverse attempts
    - 
    - 
    
@@ -17,4 +16,5 @@
    
 ### **Topic of discussion:**
    
-- New proposals
+- M3 founding values and mandate (https://github.com/M3-org/proposals/issues/5)
+- World / Metaverse hopping event (https://github.com/M3-org/proposals/issues/4)
