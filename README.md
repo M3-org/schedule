@@ -8,8 +8,8 @@
    - Organization name
    - Organization roles
  - **Lightning Talks:**
-   - chrisplatorres on past metaverse attempts
-   - 
+   - chrisplatorres on Past Metaverse Attempts
+   - avaer on Permisionless Innovation for VR
    - 
    
 ------------------------------------------ 
