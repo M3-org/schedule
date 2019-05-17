@@ -10,7 +10,7 @@
  - **Lightning Talks:**
    - chrisplatorres on Past Metaverse Attempts
    - avaer on Permisionless Innovation for VR
-   - 
+   - chrisnovello 
    
 ------------------------------------------ 
    
