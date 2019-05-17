@@ -3,8 +3,9 @@
 ## Thursday May 16, 2019
 ### **Time:** 6pm PST
 
-### **Agenda:** *(Make pull requests for proposals)*
- - **Logistics:**
+### [View full livestream VOD here](https://www.youtube.com/watch?v=3Rud0GgRdZg)
+
+### **Agenda:**
    - Organization name
    - Organization roles
  - **Lightning Talks:**
@@ -12,7 +13,7 @@
    - avaer on Permisionless Innovation for VR
    - chrisnovello
 
------------------------------------------- 
+------------------------------------------
 
 ### **Topic of discussion:**
 
