@@ -1,9 +1,9 @@
 # Schedule
 
-## Thursday May 30, 2019 
+## Thursday May 30, 2019
 ### **Time:** 6pm PST
 
-### **Agenda:** *(Make pull requests for proposals)*
+### **Agenda:** 
  - **Logistics:**
    - Organization roles
    -
