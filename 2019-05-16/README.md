@@ -9,9 +9,9 @@
    - Organization name
    - Organization roles
  - **Lightning Talks:**
-   - chrisplatorres on Past Metaverse Attempts
-   - avaer on Permisionless Innovation for VR
-   - chrisnovello
+   - [chrisplatorres on Past Metaverse Attempts](https://youtu.be/Xplozr0Bmrw)
+   - [avaer on Permisionless Innovation for VR](https://youtu.be/sUNfkwAuN88)
+   - [chrisnovello on Teaching by Metaversing](https://youtu.be/uIoKQs_wUrE)
 
 ------------------------------------------
 
