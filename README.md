@@ -1,14 +1,14 @@
 # Schedule
 
-## Thursday May 30, 2019
+## Sunday June 2, 2019
 ### **Time:** 6pm PST
 
 ### **Agenda:** 
  - **Logistics:**
    - Organization roles
-   -
+   - Meeting time
  - **Lightning Talks:**
-   -
+   - Mauve on local-first Cyberspace
    -
    -  
 
