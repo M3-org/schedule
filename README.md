@@ -6,9 +6,9 @@
 ### **Agenda:** 
  - **Logistics:**
    - Organization roles
-   -
+   - Meeting time
  - **Lightning Talks:**
-   -
+   - Mauve on local-first Cyberspace
    -
    -  
 
