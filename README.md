@@ -7,6 +7,7 @@
  - **Logistics:**
    - Meeting date shifted to Sundays/weekend
    - Meeting time, EU-friendly times requested (8am-1pm PST)
+  
  - **Lightning Talks:**
    -
    -
