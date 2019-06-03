@@ -9,7 +9,7 @@
    - Meeting time
  - **Lightning Talks:**
    - Mauve on local-first Cyberspace
-   -
+   - Avaer on stores, sideloading, and content distribution innovations
    -  
 
 ------------------------------------------
