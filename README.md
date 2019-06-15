@@ -9,9 +9,9 @@
    - Meeting time, EU-friendly times requested (8am-1pm PST)
   
  - **Lightning Talks:**
-   -
-   -
-   -  
+   - mqp on Mozilla Hubs
+   - Shaneharris on Side Quest
+   - Mauve on editing XR in XR
 
 ------------------------------------------
 
