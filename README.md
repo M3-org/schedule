@@ -10,11 +10,12 @@
  - **Logistics:**
    - Meeting date shifted to Sundays/weekend
    - Meeting time going to 6pm PST again, EU meetings will need EU leadership to be ran
+   - Schedule Shaneharris on Side Quest talk for a time before 4pm PST, tomorrow?
   
  - **Lightning Talks:**
    - mqp on Mozilla Hubs
-   - Shaneharris on Side Quest
    - Mauve on editing XR in XR
+   - 
 
  - **Topic of discussion:**
    - DAT takeaway task from previous meet
