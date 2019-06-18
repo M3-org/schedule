@@ -20,3 +20,9 @@
  - **Topic of discussion:**
    - DAT takeaway task from previous meet
    - Membership dues / incentivizing development
+
+-------------------------------------------
+
+
+  [Livestream VOD](https://youtu.be/5ECkc7w7Abc)
+  [Photo Album](https://imgur.com/a/iebuBr5)
