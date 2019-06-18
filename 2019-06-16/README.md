@@ -3,6 +3,10 @@
 #### Sunday June 16, 2019
 #### **Time:** 6pm PST
 
+
+[Livestream VOD](https://youtu.be/5ECkc7w7Abc)
+[Photo Album](https://imgur.com/a/iebuBr5)
+
 -------------------------------------------
 
 
@@ -20,9 +24,3 @@
  - **Topic of discussion:**
    - DAT takeaway task from previous meet
    - Membership dues / incentivizing development
-
--------------------------------------------
-
-
-  [Livestream VOD](https://youtu.be/5ECkc7w7Abc)
-  [Photo Album](https://imgur.com/a/iebuBr5)
