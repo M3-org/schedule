@@ -17,9 +17,9 @@
    - Schedule Shaneharris on Side Quest talk for a time before 4pm PST, tomorrow?
 
  - **Lightning Talks:**
-   - mqp on Mozilla Hubs
-   - Mauve on editing XR in XR
-   - bnolan on Cryptovoxels
+   - [mqp on Mozilla Hubs](https://youtu.be/LMkdA6OCdGs)
+   - [Mauve on editing XR in XR](https://youtu.be/qwOOgvEiN_M)
+   - [bnolan on Cryptovoxels](https://youtu.be/3fdDqHpurbg)
 
  - **Topic of discussion:**
    - DAT takeaway task from previous meet
