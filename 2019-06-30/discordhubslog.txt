@@ -1,0 +1,233 @@
+[10:17 PM] BOTHubs Bot (beta): kwadroke joined.
+[10:17 PM] BOTnn: they wanna hack nasa again
+[10:17 PM] BOTnn: verizon trolls
+[10:19 PM] BOTchrisnovello: yall should hire the Coalchella / Fire Festival team to build your event
+[10:19 PM] BOTchrisnovello: Im dead serious
+[10:19 PM] BOTnn: thats true
+[10:19 PM] BOTnn: if you actually do it
+[10:19 PM] BOTchrisnovello: Team Coalchella is very smart
+[10:20 PM] BOTNoah_A_S: I live there
+[10:20 PM] BOTalfredo: lmao
+[10:20 PM] BOTnn: why has the word party fallen through the cracks every time ive written it
+[10:20 PM] BOTNoah_A_S: lol
+[10:20 PM] BOTnn: i want to go to a party not a industrial expo
+[10:21 PM] BOTnn: who is benefiting exactly?
+[10:21 PM] BOTchrisnovello: https://www.minecraft.net/en-us/article/coalchella-minecraft-music-festival
+Minecraft.net
+Coalchella: A Minecraft Music Festival
+
+[10:21 PM] BOTHubs Bot (beta): kwadroke left.
+[10:22 PM] BOTNoah_A_S: Coachella I mean
+[10:22 PM] BOTNoah_A_S: lol
+[10:22 PM] BOTchrisnovello: Im talking about Coal chella
+[10:22 PM] BOTNoah_A_S: kk
+[10:22 PM] BOTchrisnovello: Fire festival not Fyre Festival
+[10:22 PM] BOTchrisplatorres: echo?
+[10:22 PM] BOTjin: echo
+[10:22 PM] BOTnn: lol
+[10:22 PM] BOTNoah_A_S: who's doing it?
+[10:22 PM] BOTalfredo: https://uploads-prod.reticulum.io/files/8eb4894f-f700-4348-9883-02b3378677d6.png?token=4a7cdabae4e3fd915e9c07c4c5ca68c0
+
+[10:23 PM] BOTchrisnovello: https://edm.com/news/minecraft-fire-festival
+EDM.com - The Latest Electronic Dance Music News, Reviews & Artists
+Over 50 Artists are Playing a Virtual Music Festival Inside Minecr...
+Join in on the fun for free!
+
+[10:23 PM] BOTjin: Wow
+[10:23 PM] BOTjin: huge names
+[10:23 PM] BOTnn: but also just collecting eyeballs
+[10:23 PM] BOTnn: hes saying bring stuff together and people will visit the exhibitors
+[10:24 PM] BOTnn: why are we starting with the expo idea rather than a goal
+[10:25 PM] BOTnn: just make a website with a list of links?
+[10:25 PM] BOTjin: goals: sponsorships, awareness, scalable infrastructure, gltf booths we can re-use can be useful for other things
+[10:25 PM] BOTnn: thanks jin
+[10:25 PM] BOTjin: I could make a model template we build in
+[10:25 PM] BOTjin: each person gets a 2x3 meter space to build in
+[10:26 PM] BOTjin: in whatever program: blender, spoke, etc
+[10:26 PM] BOTjin: glb export
+[10:26 PM] BOTnn: this medium is limitless immersive computation. it just doesnt make sense to replicate convention center expos
+[10:27 PM] BOTnn: who are these people who LOVE expos?!
+[10:27 PM] BOTnn: expos are the cheesiest corporate social gathering i can imagine
+[10:27 PM] BOTchrisnovello: expophile
+[10:27 PM] BOTchrisnovello: EXPO KIT
+[10:27 PM] BOTnn: XD
+[10:27 PM] BOTnn: but its a reusable dead fish
+[10:28 PM] BOTnn: no one cares about 3d models
+[10:28 PM] BOTnn: no one is waiting for a medium to explore 3d models
+[10:28 PM] BOTnn: its called thingiverse
+[10:28 PM] BOTchrisnovello: fire fest burners
+[10:28 PM] BOTnn: have a party.. going the 6th time
+[10:28 PM] BOTSM Sith Lord: woo hoo
+[10:28 PM] BOTchrisnovello: Sidequest Party Up
+[10:28 PM] BOTkwadroke: let people see what's being worked on
+[10:29 PM] BOTNoah_A_S: ;)
+[10:29 PM] BOTnn: whats being worked on is not 3d models its dynamic computation
+[10:29 PM] BOTNoah_A_S: virtual expo
+[10:29 PM] BOTnn: hubs is the demo, not a 3d model of a hubs chat at a given moment
+[10:30 PM] BOTnn: i think we need to put this expo idea aside for a minute to be able to think clearly about a good format
+[10:30 PM] BOTkwadroke: 2m x 2m
+[10:31 PM] BOTkwadroke: or so
+[10:31 PM] BOTnn: you do realize its ridiculous to limit people to a physical space in a meidum that contains infinite horizons
+[10:31 PM] BOTchrisnovello: constraint is fine
+[10:31 PM] BOTnn: not 2m squared
+[10:31 PM] BOTnn: that doesnt make sense
+[10:31 PM] BOTjin: expos are neutral infrastructure
+[10:32 PM] BOTnn: im just saying this is not an event i would attend
+[10:32 PM] BOTkwadroke: we do have resource limitations, especially Tris
+[10:32 PM] BOTchrisnovello: (no such thing as neutral infrastructure)
+[10:32 PM] BOTnn: why are we not trying to expand the space of answers to the questoins posed by the goals, rather than just sticking to this one controversial expo idea
+[10:32 PM] BOTkwadroke: others may have ideas on making money
+[10:32 PM] BOTnn: what ELSE could we do
+[10:32 PM] BOTkwadroke: from outside the group
+[10:33 PM] BOTNoah_A_S: what will you show us avaer?
+[10:33 PM] BOTchrisnovello: I personally dont want to build xr expos exactly but I do think you could do that, maybe even today in hubs
+[10:33 PM] BOTchrisnovello: I think you become a promoter / organizer
+[10:33 PM] BOTnn: science fair
+[10:33 PM] BOTkwadroke: "no one can be told was the matrix is"
+[10:34 PM] BOTNoah_A_S: you have to experience it for yourself
+[10:34 PM] BOTnn: us
+[10:35 PM] BOTnn: we are the audience
+[10:35 PM] BOTjin: an open spatial computing platform
+[10:36 PM] BOTkwadroke: other VR developers
+[10:36 PM] BOTnn: so were saying what if we organized a conference
+[10:36 PM] BOTnn: not really related to generating money more about community building / cohesion
+[10:37 PM] BOTnn: no that is the problem lol
+[10:37 PM] BOTnn: the problem is a lack of compelling experiences, isnt it
+[10:38 PM] BOTchrisplatorres: Look at the sign what does it say?
+[10:38 PM] BOTnn: true
+[10:38 PM] BOTnn: lol
+[10:38 PM] BOTnn: a girl entered the chat
+[10:39 PM] BOTnn: https://uploads-prod.reticulum.io/files/725bc0a0-315f-4946-9711-6c4479bdb367.png?token=a53e08be8af1cfcdf7c07bdec02d3c5b
+
+[10:39 PM] BOTnn: https://uploads-prod.reticulum.io/files/0639af05-ffbe-4b98-861f-17c2e11291f1.png?token=42caae0adbb30dc88ee147c8d42abcf1
+
+[10:40 PM] BOTHubs Bot (beta): FireFoxG left.
+[10:40 PM] BOTnn: https://uploads-prod.reticulum.io/files/529c24e7-6a4e-4c4f-be6a-e1c6bf6fc1ce.png?token=96c384e8606fbec84d233d292dd6456e
+
+[10:41 PM] BOTkwadroke: you hit F5 to refresh, if needed
+[10:41 PM] BOTnn: F10 for cheats
+[10:42 PM] BOTalfredo: i think that what's hard to see is that webxr is more cohesive with the idea of culture than native applications
+[10:42 PM] BOTnn: yep
+[10:42 PM] BOTkwadroke: sometimes it's not about the money
+[10:42 PM] BOTalfredo: i have some stuff i'd like to showcase another day
+[10:43 PM] BOTchrisplatorres: Sounds good @alfredo
+[10:43 PM] BOTnn: yep
+[10:43 PM] BOTSM Sith Lord: aayyye
+[10:43 PM] BOTnn: too good to ignore
+[10:43 PM] BOTalfredo: but if you ask yourself what makes the web <<the web>>
+[10:43 PM] BOTalfredo: you might find your answers
+[10:43 PM] BOTnn: nope
+[10:43 PM] BOTnn: airpods
+[10:43 PM] BOTnn: apple watch
+[10:43 PM] BOTnn: apple tv
+[10:43 PM] BOTalfredo: specially if instead of thinking about making VR fit IN the web
+[10:43 PM] BOTalfredo: extend the web to mean more things
+[10:44 PM] BOTNoah_A_S: not having any apps on a phone is like not having a phone these days
+[10:44 PM] BOTnn: notifications, background processes, camera stuff, etc
+[10:44 PM] BOTalfredo: the problem is the view of browsers as viewers
+[10:44 PM] BOTkwadroke: cause they want an icon on people's home screen
+[10:45 PM] BOTnn: if they dont have a winning xr platform they may push web until they do
+[10:46 PM] BOTNoah_A_S: it's culminating to something.
+[10:46 PM] BOTnn: more things like hubs
+[10:46 PM] BOTNoah_A_S: yeah
+[10:47 PM] BOTnn: we are the people with the needs..
+[10:50 PM] BOTnn: this conversation has made no progress in 45 mins
+[10:50 PM] BOTSM Sith Lord: yupperz :D
+[10:50 PM] BOTnn: can we.. stop
+[10:51 PM] BOTSM Sith Lord: im barely hanging on here :D
+[10:51 PM] BOTnn: same
+[10:51 PM] BOTchrisplatorres: The meet has now been on for 2 hours 50 minutes+
+[10:51 PM] BOTNoah_A_S: I should probably go make dinner, It's getting to be 9:00 PM. I'll see you guys later.
+[10:51 PM] BOTchrisplatorres: We can wrap up
+[10:51 PM] BOTNoah_A_S: xD
+[10:51 PM] BOTjin: we've been talking about monetization all morning too
+[10:51 PM] BOTNoah_A_S: I haven't had dinner sorry.
+[10:51 PM] BOTNoah_A_S: I'll see you guys.
+[10:51 PM] BOTnn: ciao noah
+[10:51 PM] BOTNoah_A_S: bye-bye
+[10:52 PM] BOTchrisplatorres: Hi alfredo
+[10:52 PM] BOTnn: yep hear u
+[10:52 PM] BOTHubs Bot (beta): Noah_A_S left.
+[10:53 PM] BOTnn: i think you are right to just do it and ignore the haters
+[10:53 PM] BOTnn: like me
+[10:53 PM] BOTchrisnovello: hii
+[10:54 PM] BOTchrisnovello: "people want a faster horse"
+[10:55 PM] BOTchrisnovello: good call
+[10:55 PM] BOTkwadroke: might not even know it exists
+[10:55 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/05ac857f-7cfc-4534-a158-6cde3ed2932e.png?token=0a7404010de2fa67aee3f47b755c2f36
+
+[10:55 PM] BOTchrisnovello: <3
+[10:55 PM] BOTjin: wonder how much use Quest users actually got after buying it
+[10:55 PM] BOTchrisnovello: <3 <3
+[10:57 PM] BOTnn: im surprised they can draw cubes
+[10:57 PM] BOTkwadroke: "free your mind"
+[11:01 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/78387874-5340-497d-b8a0-56a25edd3e6a.png?token=8a6e5c3ea79e4365157ff49a4073357b
+
+[11:01 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/63a4de0e-6fde-4c86-8c65-4feff60cf539.png?token=9a39360a962f221d00b78ac9d0e802d4
+
+[11:02 PM] BOTchrisnovello: omg u mean people arent actually going to buy furniture in webxr in 2019?!
+[11:03 PM] BOTchrisnovello: (was a joke bc I think vr/ar furniture apps as a big promise are so clueless)
+[11:05 PM] BOTHubs Bot (beta): alfredo left.
+[11:05 PM] BOTkwadroke: you need the idea first
+[11:05 PM] BOTnn: this is a very unproductive convo imo
+[11:05 PM] BOTnn: im not contributing anything so imma head out
+[11:05 PM] BOTnn: this is just going in circles around "we should be making money"
+[11:06 PM] BOTnn: but you need to make something people like to make money not just say "i want money"
+[11:06 PM] BOTchrisnovello: the art isnt good enough to deserve money
+[11:06 PM] BOTnn: good experiences!
+[11:07 PM] BOTnn: the experiences are broke
+[11:07 PM] BOTkwadroke: or think they can do it themselves
+[11:07 PM] BOTjin: ppl pay for others to build on parcels cuz it increases the value of their land :p
+[11:08 PM] BOTjin: content is king
+[11:08 PM] BOTnn: lost u again
+[11:09 PM] BOTchrisnovello: argg died
+[11:09 PM] BOTnn: dude..
+[11:09 PM] BOTkwadroke: time & services
+[11:09 PM] BOTnn: alright im out. night yall
+[11:10 PM] BOTHubs Bot (beta): nn left.
+[11:10 PM] chrisplatorres: See you @nn :wave:
+[11:10 PM] BOTkwadroke: well, sketchfab does
+[11:10 PM] BOTchrisnovello: you could do it here for free today
+[11:11 PM] BOTkwadroke: doesn't hubs support sketchfab?
+[11:11 PM] BOTDom: yep
+[11:12 PM] BOTkwadroke: avatar creators, especially in VRChat
+[11:22 PM] BOTkwadroke: 3d elevator pitch
+[11:22 PM] BOTjin: ye
+[11:23 PM] BOTHubs Bot (beta): alfredo joined.
+[11:24 PM] BOTchrisplatorres: he he
+[11:25 PM] BOTjin: https://medium.com/@alfredos/beyond-green-screens-sharing-a-design-vision-for-showing-people-inside-ar-vr-creations-92b9eb4dc33e
+Medium
+Beyond green screens : Sharing a design vision for showing people...
+Problem statement: How to mix real people and interactive digital environments like AR and VR without a dedicated mixed reality setup?
+
+[11:26 PM] BOTchrisplatorres: https://youtu.be/6I9bgFtttvI
+YouTube
+Let's Thor
+WWDC 2019 _ Full _ Introducing arkit 3
+
+[11:26 PM] BOTchrisnovello: segmentation
+[11:28 PM] BOTchrisplatorres: https://www.theverge.com/2019/2/25/18239860/microsoft-kinect-azure-dk-hands-on-mwc-2019
+The Verge
+A closer look at Microsoft’s new Kinect sensor
+No, the Kinect isn’t dead
+
+[11:29 PM] BOTchrisnovello: have u seen comparison v Realsense D435 ?
+[11:29 PM] BOTchrisplatorres: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjimdOW8ZLjAhXXQs0KHe1eBHkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.engadget.com%2F2019%2F02%2F24%2Fmicrosoft-resurrects-kinect-azure-kinect%2F&psig=AOvVaw01-Ihg0WGvkZdyAdyXeUSv&ust=1562041764369086
+[11:29 PM] BOTchrisplatorres: https://o.aolcdn.com/images/dims?quality=85&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-02%252Fb862afa0-385d-11e9-bf7e-28abb759940d%26client%3Da1acac3e1b3290917d92%26signature%3D752581b4789496e40271c53dfc6de6ff698bfe28&client=amp-blogside-v2&signature=1ed58d3360074326930b8cd3b6bd1d69fa413a4d
+
+[11:30 PM] BOTchrisnovello: came out
+[11:30 PM] BOTchrisnovello: people have them
+[11:30 PM] BOTchrisplatorres: $399 Feb 2019
+[11:30 PM] BOTchrisnovello: yes
+[11:32 PM] BOTchrisnovello: more than skeleton no?
+[11:32 PM] BOTchrisplatorres: https://twitter.com/i/status/1143907423406739456
+
+Matthieu Rouif (@matthieurouif)
+Meet the cartoon version of myself filmed by @EliotAndres done with @background_app beta . What you can do with #arkit3 ! https://t.co/60Na4RCVmv
+
+
+Twitter
+[11:32 PM] BOTchrisnovello: segmentation m,ask realtime
+[11:34 PM] BOTHubs Bot (beta): alfredo, jin, Dom, SM Sith Lord, chrisnovello, chrisplatorres, kwadroke and Avaer left.
+[11:36 PM] Dom: Oh christ I did not realize we were in there for almost 4 hours lol
+[11:36 PM] jin: lol time flies, thats about how long standard irl meetups go though with snacks in between
