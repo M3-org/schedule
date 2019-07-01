@@ -7,11 +7,9 @@
 
 
 ### **Agenda:**
- - **Logistics:**
-   - 
 
  - **Lightning Talks:**
-   -
+   - 
    -
    -
 
