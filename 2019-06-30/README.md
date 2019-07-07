@@ -3,8 +3,8 @@
 #### Sunday June 30, 2019
 #### **Time:** 6pm PST
 
-[Livestream VOD](https://youtu.be/4cRwS1Z0rA8)
-[Photo Album](https://imgur.com/a/d1pChra)
+- [Livestream VOD](https://youtu.be/4cRwS1Z0rA8)
+- [Photo Album](https://imgur.com/a/d1pChra)
 
 -------------------------------------------
 
@@ -18,3 +18,7 @@
    - Incentivizing development
    - Monetization of XR
    - DCL and other attempts
+
+---
+
+
