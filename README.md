@@ -7,13 +7,11 @@
 
 
 ### **Agenda:**
- - **Logistics:**
-   -
 
  - **Lightning Talks:**
-   -
-   -
-   -
+   - alfredo on a proposal for linking spatial websites
+   - avaer on monetization
+   - 
 
  - **Topic of discussion:**
    - 
