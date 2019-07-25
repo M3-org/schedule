@@ -3,6 +3,8 @@
 #### Sunday July 14, 2019
 #### **Time:** 6pm PST
 
+- [Livestream VOD](https://youtu.be/1Acxci-biqU)
+
 -------------------------------------------
 
 
