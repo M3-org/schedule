@@ -1,0 +1,86 @@
+[5:02 PM] chrisplatorres: !hubs remove
+[5:02 PM] BOTHubs Bot (beta): #hub no longer bridged to https://hubs.mozilla.com/S8dR5ho/m3-june30/.
+[5:16 PM] chrisplatorres: !hubs create https://hubs.mozilla.com/scenes/xo78XZT m3-july14
+Viewing Party novideo | Hubs by Mozilla
+Join others in Viewing Party novideo, right in your browser.
+
+[5:16 PM] BOTHubs Bot (beta): #hub bridged to https://hubs.mozilla.com/oquZsMd/m3-july14.
+m3-july14 | Hubs by Mozilla
+Join others in VR at m3-july14, right in your browser.
+
+[5:17 PM] BOTHubs Bot (beta): chrisplatorres joined.
+[5:18 PM] BOTHubs Bot (beta): chrisplatorres joined.
+[5:18 PM] BOTHubs Bot (beta): chrisplatorres left.
+[5:26 PM] BOTHubs Bot (beta): jin joined.
+[5:27 PM] BOTHubs Bot (beta): jin left.
+[5:58 PM] chrisplatorres: !hubs remove
+[5:58 PM] BOTHubs Bot (beta): #hub no longer bridged to https://hubs.mozilla.com/oquZsMd/m3-july14/.
+[5:58 PM] chrisplatorres: !hubs create https://hubs.mozilla.com/scenes/bwSLEp4 m3-july14
+Desert Voxels | Hubs by Mozilla
+Join others in Desert Voxels, right in your browser.
+
+[5:58 PM] BOTHubs Bot (beta): #hub bridged to https://hubs.mozilla.com/2rVAEmR/m3-july14.
+m3-july14 | Hubs by Mozilla
+Join others in VR at m3-july14, right in your browser.
+
+[7:02 PM] BOTHubs Bot (beta): Noah_A_S joined.
+[7:04 PM] BOTHubs Bot (beta): Noah_A_S left.
+[7:50 PM] BOTHubs Bot (beta): jin joined.
+[7:53 PM] chrisplatorres: !hubs remove
+[7:53 PM] BOTHubs Bot (beta): #hub no longer bridged to https://hubs.mozilla.com/2rVAEmR/m3-july14/.
+[7:53 PM] chrisplatorres: !hubs create https://hubs.mozilla.com/scenes/bwSLEp4 m3-july14
+Desert Voxels | Hubs by Mozilla
+Join others in Desert Voxels, right in your browser.
+
+[7:53 PM] BOTHubs Bot (beta): #hub bridged to https://hubs.mozilla.com/93fDHSo/m3-july14.
+m3-july14 | Hubs by Mozilla
+Join others in VR at m3-july14, right in your browser.
+
+[7:57 PM] BOTHubs Bot (beta): kwadroke, jin and chrisplatorres joined.
+[7:58 PM] BOTHubs Bot (beta): jin left.
+[7:58 PM] BOTHubs Bot (beta): jin, kwadroke and Noah_A_S joined.
+[7:59 PM] BOTHubs Bot (beta): kwadroke left.
+[8:00 PM] BOTHubs Bot (beta): chrisnovello and chrisnovello joined.
+[8:01 PM] BOTchrisplatorres: yes
+[8:02 PM] BOTchrisnovello: hii. I cant seem to join with firefox on windows to enter vr anymore : /
+[8:03 PM] BOTchrisnovello: same problem as last week
+[8:03 PM] BOTHubs Bot (beta): chrisnovello left.
+[8:03 PM] BOTHubs Bot (beta): Avaer and alfredo joined.
+[8:04 PM] BOTjin: https://poly.google.com/view/7EmeFe3O7GQ
+Poly
+Speaker
+by Jose Rosero
+
+[8:04 PM] chrisplatorres:
+
+[8:04 PM] BOTchrisplatorres: https://cdn.discordapp.com/attachments/567813145326780416/600130604700532766/avaernotesCapture.PNG
+
+[8:05 PM] BOTchrisplatorres: https://i.imgur.com/tF829H6.png
+
+[8:05 PM] BOTchrisplatorres: https://i.imgur.com/tF829H6.png
+
+[8:06 PM] BOTHubs Bot (beta): chrisnovello, Chris E. and jin joined.
+[8:07 PM] BOTChris E.: ayy
+[8:07 PM] alfredo: what's in the room? takes forever to load
+[8:07 PM] BOTHubs Bot (beta): Avaer and jin left.
+[8:07 PM] BOTNoah_A_S: It's assets bro
+[8:08 PM] BOTchrisplatorres: I love the map
+[8:08 PM] BOTHubs Bot (beta): Avaer joined.
+[8:09 PM] chrisplatorres: 8:08 PM] alfredo: i'm still waiting on it
+[8:08 PM] alfredo: what's in the room that's so heavy?
+[8:08 PM] Avaer: yeah it's taking forever for me
+[8:08 PM] Avaer: like someone imported a massive model
+[8:09 PM] Avaer: can we keep it simple?
+[8:09 PM] Avaer: the desert was fine
+[8:09 PM] Avaer: I can't get in either
+[8:09 PM] BOTjin: ooh
+[8:09 PM] BOTjin: >_<
+[8:09 PM] Avaer: it's too bloated
+[8:09 PM] Avaer: can we delete any imported models?
+[8:09 PM] BOTjin: OK
+[8:09 PM] Avaer: desert was fine
+[8:09 PM] BOTjin: ok
+[8:09 PM] Avaer: otherwise I can't get in on my 1080
+[8:10 PM] chrisplatorres: I wonder why it works for some but not others
+[8:10 PM] BOTHubs Bot (beta): alfredo left.
+[8:10 PM] BOTHubs Bot (beta): bai and alfredo joined.
