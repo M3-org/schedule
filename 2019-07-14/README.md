@@ -11,9 +11,6 @@
 ### **Agenda:**
 
  - **Lightning Talks:**
-   - alfredo on a proposal for linking spatial websites
-   - avaer on monetization
-   - 
-
- - **Topic of discussion:**
-   - 
+   - [Jin on Grid City Collab](https://www.youtube.com/watch?v=WznZRugyNwI)
+   - [Alfredo on Linking Spatial Websites](https://www.youtube.com/watch?v=ALHDpJ2a57E)
+   - [Avaer on Monetization Landscape of the VR/AR Metaverse](https://www.youtube.com/watch?v=WVN0a8EfCNI)
