@@ -8,10 +8,4 @@
 
 ### **Agenda:**
 
- - **Lightning Talks:**
-   -
-   -
-   -
-
- - **Topic of discussion:**
-   -
+ - **Experts Advice Panel**
