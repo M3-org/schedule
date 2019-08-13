@@ -1,0 +1,412 @@
+6:28 PM] BOTjin: no floor
+[6:35 PM] BOTHubs Bot (beta): jin left the Hubs room.
+[6:36 PM] BOTHubs Bot (beta): chrisplatorres joined the Hubs room.
+[6:36 PM] BOTHubs Bot (beta): chrisplatorres changed the scene in https://hubs.mozilla.com/46E2DBj to m3-aug11.
+m3-august11 | Hubs by Mozilla
+Join others in VR at m3-august11, right in your browser.
+
+[7:26 PM] chrisplatorres: https://i.imgur.com/wY53tKj.png
+
+[7:27 PM] BOTchrisplatorres: https://i.imgur.com/wY53tKj.png
+
+[7:34 PM] BOTHubs Bot (beta): Noah_A_S joined the Hubs room.
+[7:36 PM] BOTHubs Bot (beta): SM Sith Lord joined the Hubs room.
+[7:43 PM] BOTHubs Bot (beta): Noah_A_S left the Hubs room.
+[7:44 PM] BOTHubs Bot (beta): Noah_A_S joined the Hubs room.
+[7:45 PM] BOTHubs Bot (beta): kwadroke and kwadroke joined the Hubs room.
+[7:47 PM] BOTHubs Bot (beta): kwadroke left the Hubs room.
+[7:47 PM] BOTHubs Bot (beta): Avaer and kwadroke joined the Hubs room.
+[7:48 PM] BOTHubs Bot (beta): Avaer left the Hubs room.
+[7:49 PM] BOTHubs Bot (beta): Avaer joined the Hubs room.
+[7:50 PM] BOTHubs Bot (beta): jin joined the Hubs room.
+[7:50 PM] BOTNoah_A_S: I don't hear you kwadroke?
+[7:50 PM] BOTjin: I forgot a sky
+[7:51 PM] BOTNoah_A_S: or..?
+[7:51 PM] BOTNoah_A_S: I'm going to fix it
+[7:51 PM] BOTHubs Bot (beta): kwadroke joined the Hubs room.
+[7:51 PM] SM Sith Lord: Jin created the earth but not the heavens.
+[7:52 PM] BOTHubs Bot (beta): Avaer joined the Hubs room.
+[7:53 PM] BOTHubs Bot (beta): kwadroke left the Hubs room.
+[7:54 PM] Avaer: cannot enter lobby
+[7:54 PM] BOTjin: eh?
+[7:54 PM] SM Sith Lord: try Firefox?
+[7:54 PM] Avaer: was something just added
+[7:54 PM] BOTHubs Bot (beta): chrisplatorres changed the scene in https://hubs.mozilla.com/46E2DBj to m3-aug11.
+m3-august11 | Hubs by Mozilla
+Join others in VR at m3-august11, right in your browser.
+
+[7:54 PM] 0XƎ⅃ᖷ: me either
+[7:54 PM] Avaer: no firefox sucks
+[7:54 PM] BOTjin: im on firefox
+[7:54 PM] SM Sith Lord: im on firefox
+[7:54 PM] Avaer: it doesn't support VR
+[7:54 PM] SM Sith Lord: ...
+[7:54 PM] Avaer: we already had this problem last time
+[7:55 PM] 0XƎ⅃ᖷ:
+
+[7:55 PM] 0XƎ⅃ᖷ: ¯\_(ツ)_/¯
+[7:55 PM] BOTHubs Bot (beta): Avaer joined the Hubs room.
+[7:56 PM] BOTHubs Bot (beta): Avaer left the Hubs room.
+[7:56 PM] Avaer: yeah it's totally busted
+[7:56 PM] BOTjin: what browser?
+[7:56 PM] Avaer: chrome
+[7:56 PM] SM Sith Lord: yeah its broken on Chrome
+[7:56 PM] 0XƎ⅃ᖷ: FF
+[7:56 PM] BOTjin: what headset?
+[7:56 PM] Avaer: index
+[7:56 PM] SM Sith Lord: i had to install Firefox a couple weeks ago to get in.
+[7:56 PM] Avaer: firefox doesn't support recent VR
+[7:56 PM] Avaer: like index
+[7:56 PM] Avaer: so that's not really an option
+[7:56 PM] 0XƎ⅃ᖷ: is there a stream?
+[7:56 PM] SM Sith Lord: should we use VRChat instead?
+[7:56 PM] BOTjin: you're really limited on options
+[7:57 PM] Avaer: we shouldn't use vr chat
+[7:57 PM] BOTjin: index might be 2 new for webvr
+[7:57 PM] SM Sith Lord: Any other suitable app at all?
+[7:57 PM] Avaer: I supported index in about 2 hours
+[7:57 PM] Avaer: it's just firefox sucks
+[7:57 PM] BOTjin: we're in hubs not vrchat :P
+[7:57 PM] chrisplatorres: There will be a stream @0XƎ⅃ᖷ one sec
+[7:57 PM] BOTjin: index works on vrchat
+[7:57 PM] 0XƎ⅃ᖷ: k ty
+[7:57 PM] chrisplatorres: @0XƎ⅃ᖷ https://youtu.be/EcQTkUBbcSg
+YouTube
+M3 -- July 28 2019
+M3 is meeting: Starting at: **6pm PST / 8pm CST / 9pm EST** View the schedule: https://github.com/M3-org/schedule Visit the GitHub org: https://github.com/M3...
+
+[7:58 PM] BOTHubs Bot (beta): Avaer left the Hubs room.
+[7:58 PM] BOTHubs Bot (beta): Avaer joined the Hubs room.
+[7:58 PM] BOTHubs Bot (beta): Avaer left the Hubs room.
+[7:58 PM] Avaer: broken in firefox
+[7:58 PM] Koolala: I wish we could meet in Anyland but it has a 10 player maximum
+[7:58 PM] SM Sith Lord: Altspace maybe
+[7:58 PM] BOTjin: we could try bigscreen or janusvr
+[7:59 PM] Avaer: only things that are open source
+[7:59 PM] BOTHubs Bot (beta): Spidymonkey joined the Hubs room.
+[7:59 PM] BOTjin: janusvr then
+[7:59 PM] BOTjin: or high fidelity
+[7:59 PM] Avaer: I don't know if chris is set up for that
+[7:59 PM] Avaer: I'll play by firefox's ball once more
+[7:59 PM] Avaer: and use a shitty headset
+[7:59 PM] Noah_A_S: What's a shitty headset?
+[8:00 PM] BOTHubs Bot (beta): Avaer left the Hubs room.
+[8:00 PM] Noah_A_S: oh hey pravvy!
+[8:01 PM] chrisplatorres: https://i.imgur.com/wY53tKj.png
+
+[8:01 PM] chrisplatorres: https://i.imgur.com/wY53tKj.png
+
+[8:01 PM] BOTHubs Bot (beta): Koolala joined the Hubs room.
+[8:02 PM] BOTchrisplatorres: https://i.imgur.com/wY53tKj.png
+
+[8:02 PM] BOTSM Sith Lord: http://www.twitch.tv/AnarchyArcade
+Twitch
+AnarchyArcade - Twitch
+
+[8:02 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/71d5c95e-0d7d-4748-93b5-6de7c9e2f0cb.png?token=49bb6352b771fd1d30a4ee9df83285a6
+
+[8:03 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/6c481f51-43d3-4b40-954c-a2e4c4649665.png?token=f085bf19e3c3158a124567ba5d33aaaa
+
+[8:03 PM] BOTHubs Bot (beta): Avaer and nickmarks joined the Hubs room.
+[8:03 PM] BOTSpidymonkey: Is there a TV on in the background or something?
+[8:04 PM] BOTjin: watching a tournament
+[8:08 PM] BOTKoolala: hi good
+[8:09 PM] BOTchrisplatorres: 1 sec refreshing for mic
+[8:14 PM] BOTjin: https://i.imgur.com/CtlwDR2.jpg
+
+[8:16 PM] BOTchrisplatorres: https://twitter.com/danacowley/status/1156261676972310528
+
+Dana Cowley (@danacowley)
+We’re at #siggraph room 403A/B and to confirm, this is being recorded
+
+
+Twitter
+[8:16 PM] BOTchrisplatorres: Technology fan, music enthusiast, beach magnet, pretend food critic, senior marketing manager at Epic Games.
+[8:16 PM] BOTKoolala: she was the official tweeter of the talk?
+[8:16 PM] BOTHubs Bot (beta): Pyry left the Hubs room.
+[8:19 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/3bda008e-63b5-42f2-8ca7-dc875f8b05fb.mp4?token=254e3e85eee66df01082ac060682859f
+[8:20 PM] BOTjin: we're made of GLTF
+[8:21 PM] BOTjin: thats how the heads are moving when people talk in here too
+[8:21 PM] BOTNoah_A_S: what happened to the card?
+[8:23 PM] BOTSpidymonkey: GLTF clients should support draco compression as a standard right now very few platforms support it
+[8:24 PM] BOTjin: gltf-optimizer makes it easy to do operations like that spidy
+[8:24 PM] BOTjin: command line program and library
+[8:25 PM] pravvy: Is the virtual event happening today?
+[8:25 PM] BOTjin: https://hubs.mozilla.com/46E2DBj/m3-august11/
+m3-august11 | Hubs by Mozilla
+Join others in VR at m3-august11, right in your browser.
+
+[8:26 PM] chrisplatorres: Yes @pravvy join here https://hubs.mozilla.com/46E2DBj/m3-august11
+m3-august11 | Hubs by Mozilla
+Join others in VR at m3-august11, right in your browser.
+
+[8:26 PM] pravvy: Ok, I’ll head over
+[8:26 PM] Noah_A_S: :smiley:
+[8:31 PM] BOTHubs Bot (beta): pravvy and Pyry joined the Hubs room.
+[8:31 PM] BOTSpidymonkey: That opens up privacy issues if you can fingerprint the memory contents
+[8:35 PM] BOTpravvy: this place looks like the thunderdome in Rick & Morty
+[8:36 PM] BOTSpidymonkey: error
+[8:36 PM] BOTKoolala: a readme, but writing them is hard
+[8:36 PM] BOTKoolala: I want pre recorded examples
+[8:37 PM] BOTSpidymonkey: anyone else hearing the space sounds?
+[8:37 PM] BOTSpidymonkey: https://uploads-prod.reticulum.io/files/cd9b47ba-91a9-4417-9bc4-e9eb90bc1180.mp4?token=60dc507c16508c4fe4576ccac1434839
+[8:37 PM] BOTpravvy: yes i hear the sounds
+[8:37 PM] BOTSpidymonkey: im not taking videos going to relaunch
+[8:37 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/22ba980d-9108-4091-b905-756189b9dc7e.png?token=dc768ce2f0a278a15002b7f5cc7175e7
+
+[8:38 PM] BOTKoolala: right now a lot is explained in person, like sharing rocks and showing how to spark a fire
+[8:39 PM] BOTSpidymonkey: TypeScript?
+[8:39 PM] BOTSpidymonkey: Needs a common data access layer
+[8:39 PM] BOTjin: html/json
+[8:42 PM] BOTKoolala: :(
+[8:42 PM] BOTchrisplatorres: JavaScript was created by Brendan Eich in 1995 during his time at Netscape Communications
+[8:43 PM] BOTKoolala: websockets!
+[8:46 PM] BOTNoah_A_S: mining bitcoins through scanning QR Codes on walls might be a good idea.
+[8:46 PM] BOTpravvy: I am the co-founder of EOS Miami
+[8:46 PM] BOTKoolala: federations would play well with meta layer resource pooling
+[8:46 PM] BOTNoah_A_S: hey pravvy
+[8:47 PM] BOTpravvy: We started building blockchain solutions for Magic Leap's magicverse
+[8:47 PM] BOTNoah_A_S: oh
+[8:48 PM] BOTpravvy: High Fidelity is using EOS
+[8:49 PM] BOTNoah_A_S: were you able you to join pravvy?
+[8:49 PM] BOTjin: im part of it
+[8:52 PM] BOTSpidymonkey: 5G will enable rendering in the cloud
+[8:53 PM] BOTPyry: "the cloud" is just someone else's computer as a wise person once said
+[8:53 PM] BOTSpidymonkey: Golem Project might make that also decentralized
+[8:55 PM] BOTHubs Bot (beta): nrgapple joined the Hubs room.
+[8:56 PM] BOTHubs Bot (beta): Pyry left the Hubs room.
+[8:56 PM] BOTKoolala: the feds
+[8:57 PM] BOTHubs Bot (beta): nrgapple left the Hubs room.
+[8:58 PM] BOTKoolala: NFT?
+[9:00 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/5cfa7036-0be2-4d10-9f72-7e2832b89d18.png?token=555037672822e11d39729037863b4a9c
+
+[9:01 PM] BOTpravvy: workshop on VRBA and blockchain games we did at Global Game Jam https://www.meetup.com/EOSMiami/events/258380911/
+Meetup
+Blockchain Games Workshop at Global Game Jam: EOS Elemental Battle...
+Sat, Jan 26, 2019, 3:00 PM: EOS Miami hosts the Official Blockchain Gaming Workshop for 2019 Global Game Jam, telecast live to University Campuses worldwide.https://globalgamejam.org/2019/jam-sites/fi
+
+[9:01 PM] BOTNoah_A_S: thanks prav!
+[9:02 PM] BOTpravvy: it's the liquidity in the marketplace that is key
+[9:03 PM] BOTpravvy: for EOS gGoods there is a p-to-p marketplace built in to help with the liquidity problem
+[9:03 PM] BOTKoolala: when melting there is no wrong $ to pick :thinking:
+[9:03 PM] BOTpravvy: https://dgoods.org/
+[9:04 PM] BOTjin: interesting
+[9:04 PM] BOTnickmarks: brb
+[9:04 PM] BOTchrisplatorres: :thumbsup:
+[9:04 PM] BOTNoah_A_S: waiting
+[9:05 PM] BOTpravvy: epic games helped us with blockchain game this year https://twitter.com/pravvy/status/1101363137817858050?s=20
+
+🌀Praveen Yalamanchi🚀 (@pravvy)
+.@Serellan of @EpicGames
+@UnrealEngine visit to #Miami @TelosMiami
+
+Talking #BlockchainGaming, @dGoods_EOS integration into #UE4
+marketplace & @DrakosKeep
+
+#Epic moment (pun intended) for @HelloTelos #eos chain
+
+@Douglas_Horn @BCGbiz @blockone #gamedev @BuildOnTelos @EO...
+
+
+Twitter
+[9:06 PM] BOTchrisplatorres: 15-
+[9:06 PM] BOTchrisplatorres: 150
+[9:07 PM] BOTchrisplatorres: The theory of Dunbar's Number posits that 150 is the number of individuals with whom any one person can maintain stable relationships.
+[9:08 PM] BOTKoolala: eve battles have 5000 people
+[9:08 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/c1fbc148-621b-4645-9fac-1f9fb02f1cf2.png?token=b61bbf94a51cae7cbfe18aa737628a90
+
+[9:08 PM] BOTKoolala: space federations
+[9:13 PM] BOTKoolala: ...
+[9:13 PM] BOTNoah_A_S: Relevant at all? https://www.youtube.com/watch?v=rxM8C71GB8w
+YouTube
+Anthodium Films
+What is... The Internet? (1994 Vintage Commercial)
+
+[9:16 PM] BOTjin: AArcade (MSF) + Bigscreen (screenshare) + VRchat (avatars) + CV (ownership) so that we envelop these other things? Social avatar embodied communication + Media
+[9:18 PM] BOTNoah_A_S: SHARING what you see in the 3-D spatial aspects
+[9:19 PM] BOTKoolala: its his program
+[9:19 PM] BOTchrisplatorres: https://www.epicgames.com/affiliate/en-US/overview
+Epic's Support A Creator
+Epic's Support A Creator
+Creators will receive rewards when players support them in-game. Sign up now!
+
+[9:19 PM] BOTchrisplatorres: In Fortnite accepted Creators will receive $5 USD (or the local currency equivalent) for every 10,000 V-Bucks spent by players who elect to support them in-game.
+[9:21 PM] kentbye: Fortnite has also done deals with Marvel with characters showing up in Fortnite
+[9:21 PM] BOTHubs Bot (beta): kwadroke left the Hubs room.
+[9:23 PM] BOTjin: https://uploads-prod.reticulum.io/files/835de354-b1fd-4e39-bff7-12abbf1da103.png?token=3351c8326daf21ad3335605fa334ee9f
+
+[9:23 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/97dd257a-96e9-40dc-b4f5-62b5acd152da.png?token=82c9ccfe9b3f7046e3d790876c260647
+
+[9:24 PM] BOTKoolala: vs. Minecraft
+[9:25 PM] BOTpravvy: Epic is very interested in funding these type of projects. They just gave a big grant to Blender as well.
+[9:25 PM] BOTKoolala: Social Networking... forever
+[9:26 PM] BOTpravvy: I think it's a community service / PR thing, not just profit motive for Epic
+[9:26 PM] kentbye: Fortnite enabled cross-play across 7 platforms, and so Sweeney's point is that Epic started to look at all sorts of open standards that are essentially leading us to the metaverse. He sees that the future of the immersive web browser is going to look a lot more like a game engine.
+[9:27 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/f2c55e32-4902-48e0-b10d-8410da6b3f91.png?token=3ccad9fd5e07322d54e1d3c67e8c973f
+
+[9:28 PM] BOTHubs Bot (beta): kwadroke left the Hubs room.
+[9:28 PM] BOTjin: :b:ortnite is fun
+[9:29 PM] HeadClot: Does anyone have a link to the Hub?
+[9:29 PM] BOTjin: https://hubs.mozilla.com/46E2DBj/m3-august11
+m3-august11 | Hubs by Mozilla
+Join others in VR at m3-august11, right in your browser.
+
+[9:29 PM] HeadClot: Thank you
+[9:29 PM] BOTHubs Bot (beta): HeadClot and kwadroke joined the Hubs room.
+[9:29 PM] BOTNoah_A_S: Hey Ben
+[9:29 PM] BOTKoolala: No Mans Sky!
+[9:29 PM] BOTHubs Bot (beta): HeadClot left the Hubs room.
+[9:29 PM] BOTHubs Bot (beta): HeadClot joined the Hubs room.
+[9:30 PM] BOTjin: MSF AR
+[9:30 PM] BOTNoah_A_S: ;)
+[9:30 PM] BOTKoolala: they can still talk
+[9:31 PM] BOTKoolala: through holograms
+[9:31 PM] BOTHubs Bot (beta): karanganesan joined the Hubs room.
+[9:31 PM] kentbye: I don't think Sweeney was necessarily arguing that Epic was going to be creating the Metaverse with Unreal or Fortnite. There's lots of nuance in the original talk that's definitely worth watching for his full context. It's just that working on Fortnite has been leading Sweeney to think about how the underlying standards needed to build something that we'd think of as the Metaverse. He said it's not going to be owned or ruled by one company.
+[9:32 PM] BOTHubs Bot (beta): kwadroke left the Hubs room.
+[9:32 PM] BOTHubs Bot (beta): kwadroke joined the Hubs room.
+[9:32 PM] BOTKoolala: API?
+[9:33 PM] BOTKoolala: Three.js is like that
+[9:33 PM] BOTKoolala: but there are too many pulls
+[9:34 PM] BOTKoolala: one without founding principles built on gun violence
+[9:34 PM] BOTKoolala: yeah
+[9:35 PM] BOTHubs Bot (beta): karanganesan left the Hubs room.
+[9:37 PM] BOTKoolala: No Mans Sky!
+[9:37 PM] BOTnickmarks: back
+[9:38 PM] BOTNoah_A_S: wb
+[9:38 PM] BOTNoah_A_S: yeah I talked about planets
+[9:38 PM] BOTKoolala: shared meme inventory
+[9:38 PM] BOTNoah_A_S: ;)
+[9:38 PM] BOTNoah_A_S: nono
+[9:39 PM] BOTNoah_A_S: neiborhoods?
+[9:39 PM] BOTNoah_A_S: oh yeah that's good! it could be a whole universe
+[9:39 PM] BOTNoah_A_S: star systems
+[9:39 PM] BOTNoah_A_S: etc
+[9:39 PM] BOTNoah_A_S: visual fast travel mini games
+[9:39 PM] BOTKoolala: "space" is minimal geometry lol
+[9:40 PM] BOTNoah_A_S: :P
+[9:40 PM] pravvy: Magic Leap tries to solve some issues by fracturing the MagicVerse until multiple verses and layers.
+[9:40 PM] BOTNoah_A_S: is that a good thing?
+[9:40 PM] BOTNoah_A_S: pravvy?
+[9:40 PM] BOTNoah_A_S: I thought it might be cool to have a minigame
+[9:41 PM] BOTKoolala: but then why don't we have more infinite programs?
+[9:41 PM] pravvy: basically you can create your own open-source verse and skin other people's verses
+[9:41 PM] BOTHeadClot: https://venturebeat.com/2017/05/01/epics-tim-sweeney-the-tech-for-the-metaverse-is-about-3-years-away/
+VentureBeat
+Jeffrey Grubb
+Epic’s Tim Sweeney: The tech for the metaverse is about 3 years away
+We’ve overcome some of the early roadblocks that are preventing us from living every moment in virtual reality, and Epic Games founder thinks we’ll figure out the rest of the issues within the next few years. During a presentation at the GamesBeat Summit today in Berkel...
+
+[9:41 PM] BOTNoah_A_S: link?
+[9:42 PM] BOTKoolala: OZ?
+[9:42 PM] BOTHeadClot: https://www.youtube.com/watch?v=ndenbAXOAEU&vl=ja
+YouTube
+pixiv
+"SUMMER WARS OZ on VRoid powerd by pixiv" on Jul 2019 Teaser
+
+[9:43 PM] BOTHubs Bot (beta): Noah_A_S left the Hubs room.
+[9:43 PM] BOTHubs Bot (beta): Noah_A_S joined the Hubs room.
+[9:43 PM] BOTKoolala: we need User R&D
+[9:44 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/698b34b1-ddce-4788-b1c7-de953a8e1fe3.webm?token=257f415046f8595c36ae836ed9819dd0
+[9:45 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/72cbf637-7adb-4b0a-866c-ab81afab5f23.png?token=a407edfadfcca0e3ab409fce93e6fc0a
+
+[9:46 PM] BOTKoolala: we don't have a open platform without a central developer agenda to colab in
+[9:47 PM] BOTKoolala: views = money nowadays
+[9:47 PM] BOTchrisplatorres: Spidymonkey echo
+[9:48 PM] BOTSpidymonkey: on headset not me
+[9:48 PM] BOTchrisplatorres: :thumbsup:
+[9:48 PM] BOTKoolala: websockets?
+[9:48 PM] BOTKoolala: I can give a talk on that next week
+[9:49 PM] BOTchrisplatorres: Ok @Koolala
+[9:49 PM] BOTSpidymonkey: Discord seems like a natural fit to add a 3D world to its apps
+[9:49 PM] BOTKoolala: I used Glitch tho
+[9:49 PM] BOTKoolala: so its free
+[9:49 PM] BOTchrisplatorres: We could do that @Spidymonkey with a Hubs bot bridging it, like Hubs
+[9:49 PM] BOTKoolala: its exportable if its ever not free
+[9:50 PM] pravvy: Be sure to join Noah and I on AtlSpaceVR this Wednesday with a bunch of Magic Leap engineers. Hosted by EOS Miami https://www.meetup.com/EOSMiami/events/263908835/
+Meetup
+Unofficial Magic Leap Birthday Bash!!
+Wed, Aug 14, 2019, 6:00 PM: EOS Miami's Game Developer Group (Florida Game Developers Association) is pleased to host the Unofficial Magic Leap Birthday Bash!!https://www.meetup.com/Game-Developers/ev
+
+[9:51 PM] BOTchrisplatorres: https://youtu.be/Q1SQKBH_1H0
+YouTube
+Avaer Kazmer
+Magic Leap WebXR "multiplayer reality projection" w/ Vive on Exoki...
+
+[9:51 PM] BOTKoolala: ideas on what Nick?
+[9:51 PM] BOTKoolala: gamejam!
+[9:52 PM] BOTKoolala: lets green screen everything together, so no one owns the base reality
+[9:54 PM] BOTKoolala: we need a camera to let our shared passions have a shared perspective
+[9:56 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/92b61391-eb2d-4592-a12e-e7f25205ee27.png?token=2f4fd3280a3794bd0360da68a2a79f86
+
+[9:57 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/e6857018-c87b-44e2-b569-39ecbf4eccc8.png?token=dc422c61632138225b10717ed14c0f73
+
+[9:57 PM] BOTKoolala: switch to chome
+[9:58 PM] BOTHubs Bot (beta): Noah_A_S left the Hubs room.
+[9:59 PM] BOTHubs Bot (beta): Noah_A_S joined the Hubs room.
+[10:00 PM] BOTKoolala: step 1 of monetization is letting people share Time, not money
+[10:00 PM] BOTchrisplatorres: It's been 2 hours of M3 now
+[10:01 PM] BOTKoolala: I want to meet with people in my reality
+[10:01 PM] BOTKoolala: Id meet others in theres
+[10:03 PM] BOTchrisplatorres: We can open a proposal on GitHub for a project to collaborate on, or discuss and decide on one from the #m3 channel
+[10:03 PM] pravvy: Yeah, @Koolala I only want to meet giraffes in our Verse for MagicVErse https://twitter.com/pravvy/status/1153921704995020800?s=20
+
+🌀Praveen Yalamanchi🚀 (@pravvy)
+@rabovitz @Noah_A_S Will the 1.0 release be #magicverse enabled? We have several #blockchain verses panned including one populated by 🦒 giraffes🦒
+
+#GirafficPark #GirafficVerse #ToysRUsKid4Life @chrismatthieu @PHSoFla @SoFlaTech #gamedev #MiamiTech
+
+If @Noah_A_S pick...
+
+
+Twitter
+[10:03 PM] BOTKoolala: where is the main webXR artist community?
+[10:03 PM] BOTjin: twitter apparently lol
+[10:04 PM] BOTKoolala: websockets
+[10:04 PM] BOTHubs Bot (beta): Noah_A_S joined the Hubs room.
+[10:05 PM] BOTKoolala: whats the good word?
+[10:05 PM] BOTHubs Bot (beta): Noah_A_S left the Hubs room.
+[10:06 PM] BOTHubs Bot (beta): billmar joined the Hubs room.
+[10:06 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/11dd42f1-120f-4e68-a996-b9762b73428f.png?token=9085e6d500d7c4698ef8ebd98ff27c69
+
+[10:09 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/7bd71c36-89fb-44f0-bd03-30d47e1198f6.png?token=e3ff1ac7689ffd358fac1a49c48c15a7
+
+[10:09 PM] BOTKoolala: base reality
+[10:10 PM] BOTnickmarks: gotta go tuck kids in. See yah guys:)
+[10:10 PM] BOTKoolala: night!
+[10:10 PM] BOTHubs Bot (beta): nickmarks left the Hubs room.
+[10:11 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/dfabb0d1-79cb-4e14-8e42-9477a8957bc3.png?token=4b2b0880b2faf63a7f0a89f20c7d4c56
+
+[10:11 PM] BOTKoolala: whats the most capable VR editor....
+[10:12 PM] BOTchrisplatorres: :wave:
+[10:12 PM] BOTjin: gg
+[10:12 PM] BOTHubs Bot (beta): jin, Avaer, HeadClot, SM Sith Lord, Spidymonkey, chrisplatorres, Noah_A_S, pravvy, Koolala, billmar and kwadroke left the Hubs room.
+[10:14 PM] SM Sith Lord: @jin join my server in AArcade man, it has the chill room in it.  top of the server list.
+[10:14 PM] jin: aite
+[10:15 PM] jin: lemme unpause AA ;P
+[10:15 PM] SM Sith Lord: i had AA unpaused the whole meetup :smile:  Hubs is pretty light weight ftw
+[10:15 PM] kentbye: I'm editing a batch of podcasts, but it sounded like a great meeting. I was able to pop in and out of it. Great job @Avaer, @jin, @ @chrisplatorres on moderating the discussion. Looking forward to when that Sweeney talk becomes available. I think I got a lot of the essence of what he was saying, but there's also so much more I missed. It's definitely a landmark talk in my mind, and one that'll continue to ripple for a while
+[10:16 PM] Avaer: thanks Kent, really looking forward to hearing it in full
+[10:17 PM] jin: @SM Sith Lord I don't see it
+[10:24 PM] BOTHubs Bot (beta): kwadroke joined the Hubs room.
+[10:30 PM] BOTHubs Bot (beta): nickmarks joined the Hubs room.
+[10:30 PM] BOTHubs Bot (beta): kwadroke and nickmarks left the Hubs room.
+[10:47 PM] alfredo: I couldn't make it
+[11:18 PM] kentbye: FYI: Tim Sweeney retweeted one of my tweets tonight that was in the M3 thread, and he also liked a screenshot that I posted. I linked to the video of the meetup tonight, and so there's a greater than 0 chance that he'll take the time to watch the video of the meetup. That'd be super meta
+[11:19 PM] kentbye: https://twitter.com/kentbye/status/1160723034807754752?s=19
+
+Kent Bye VoicesOfVR (@kentbye)
+Here's my tweet storm on @TimSweeneyEpic's talk.
+Looking forward to when that video is posted online as it was an amazing talk with lots of details that I missed. It was super dense, and very forward-looking.
+https://t.co/2zHcNPRwsw
+
+Twitter
+[11:20 PM] karanganesan: Is the full video available yet
+[11:20 PM] karanganesan: @kentbye ?
+[11:21 PM] kentbye: @karanganesan Not of his SIGGRAPH talk. No, not yet. But definitely keep an eye out for it.
+[11:21 PM] karanganesan: Ok thanks
+[11:40 PM] BOTHubs Bot (beta): gfodor joined the Hubs room. Join them: https://hubs.mozilla.com/46E2DBj
+m3-august11 | Hubs by Mozilla
+Join others in VR at m3-august11, right in your browser.
+
+[11:41 PM] BOTHubs Bot (beta): gfodor left the Hubs room.
