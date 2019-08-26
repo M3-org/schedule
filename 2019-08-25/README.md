@@ -3,6 +3,8 @@
 #### Sunday August 25, 2019
 #### **Time:** 6pm PST
 
+[Full Livestream VOD here](https://youtu.be/qyavh2t9iYU)
+
 -------------------------------------------
 
 
