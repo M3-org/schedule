@@ -1,0 +1,249 @@
+7:40 PM] chrisplatorres: !hubs remove
+[7:40 PM] BOTHubs Bot (beta): #hub no longer bridged to https://hubs.mozilla.com/nupy9Y7/hub/.
+[7:46 PM] jin: @chrisplatorres https://hubs.mozilla.com/scenes/UfBrQW3
+m3-sep8 | Hubs by Mozilla
+Join others in m3-sep8, right in your browser.
+
+[7:46 PM] chrisplatorres: !hubs create https://hubs.mozilla.com/scenes/UfBrQW3 m3-sep8
+m3-sep8 | Hubs by Mozilla
+Join others in m3-sep8, right in your browser.
+
+[7:46 PM] BOTHubs Bot (beta): #hub bridged to https://hubs.mozilla.com/uGuUSUZ/m3-sep8.
+m3-sep8 | Hubs by Mozilla
+Join others in VR at m3-sep8, right in your browser.
+
+[7:46 PM] Noah_A_S: yes here we go
+[7:46 PM] chrisplatorres: Thanks @jin
+[7:47 PM] BOTHubs Bot (beta): Noah_A_S joined the Hubs room.
+[7:50 PM] BOTHubs Bot (beta): jin joined the Hubs room.
+[7:51 PM] BOTjin: http://www.freepngimg.com/download/burger/8-2-burger-picture.png
+
+[7:52 PM] BOTjin: http://www.pcpizza.com/wp-content/uploads/2015/04/PcPizzaChickenTenders.png
+
+[7:53 PM] BOTjin: http://derwentparkpizza.com.au/wp-content/uploads/2016/07/Pizza-PNG-1.png
+
+[7:53 PM] BOTjin: https://www.pharmanewsonline.com/wp-content/uploads/2018/03/drinks.png
+
+[7:54 PM] BOTHubs Bot (beta): Revofire joined the Hubs room.
+[7:57 PM] BOTHubs Bot (beta): Spidymonkey - CryptoMorph joined the Hubs room.
+[7:59 PM] BOTHubs Bot (beta): Koolala joined the Hubs room.
+[8:01 PM] chrisplatorres: Loading in, need a few minutes
+[8:01 PM] BOTRevofire: :D
+[8:02 PM] BOTRevofire: Meh, now I'm hungry.
+[8:03 PM] BOTHubs Bot (beta): Avaer joined the Hubs room.
+[8:04 PM] BOTHubs Bot (beta): humbletim joined the Hubs room.
+[8:04 PM] BOTHubs Bot (beta): Avaer left the Hubs room.
+[8:04 PM] Avaer:
+Uncaught (in promise) TypeError: Cannot read property 'batchManagerSystem' of undefined
+    at media-views.js:862
+    at Generator.next (<anonymous>)
+    at Ne (stats-plus.js:211)
+    at o (stats-plus.js:211)
+[8:05 PM] BOTHubs Bot (beta): gfodor, Avaer and gfodor joined the Hubs room.
+[8:05 PM] BOTjin: tech support is here
+[8:05 PM] Avaer: :stuck_out_tongue:
+[8:05 PM] Avaer: also doesn't detect my index
+[8:06 PM] Avaer: again
+[8:06 PM] BOTHubs Bot (beta): gfodor left the Hubs room.
+[8:06 PM] BOTHubs Bot (beta): Mauve joined the Hubs room.
+[8:06 PM] BOTgfodor: We had reports of steamvr beta not working
+[8:06 PM] BOTgfodor: But not for everyone
+[8:06 PM] BOTgfodor: (With index)
+[8:07 PM] BOTHubs Bot (beta): chrisplatorres joined the Hubs room.
+[8:08 PM] BOTchrisplatorres: Hey :)
+[8:08 PM] BOTRevofire: hi :3
+[8:11 PM] BOTHubs Bot (beta): Mauve and gfodor left the Hubs room.
+[8:12 PM] BOTHubs Bot (beta): Mauve and gfodor joined the Hubs room.
+[8:13 PM] BOTHubs Bot (beta): gfodor left the Hubs room.
+[8:19 PM] BOTHubs Bot (beta): HeadClot joined the Hubs room.
+[8:19 PM] BOTHubs Bot (beta): HeadClot left the Hubs room.
+[8:20 PM] BOTHubs Bot (beta): HeadClot and gfodor joined the Hubs room.
+[8:20 PM] BOTjin: https://github.com/Plattar/gltf-exporter
+GitHub
+Plattar/gltf-exporter
+Unity3D GLTF2 importer and exporter toolchain. Contribute to Plattar/gltf-exporter development by creating an account on GitHub.
+
+[8:20 PM] BOTKoolala: it converts video into a mesh?
+[8:21 PM] BOTchrisplatorres: Do you see doing more of these in the future?
+[8:22 PM] BOTHubs Bot (beta): gfodor left the Hubs room.
+[8:23 PM] BOTKoolala: which part took the most time of all of it?
+[8:23 PM] BOTjin: planning / scheduling
+[8:25 PM] BOTchrisplatorres: Are there other forms of content / video that you think would be interesting to explore?
+[8:28 PM] BOTHeadClot: How are you doing the motion capture with these shows?
+[8:28 PM] BOTHeadClot: Oh nice
+[8:28 PM] BOTHeadClot: Will look forward to that
+[8:29 PM] BOTchrisplatorres: :clap:
+[8:30 PM] BOTHeadClot: Are you pressing W A S D?
+[8:30 PM] BOTHubs Bot (beta): billmar and SM Sith Lord joined the Hubs room.
+[8:30 PM] BOTKoolala: rainbow tokens? colored?
+[8:30 PM] BOTRevofire: Hallo.
+[8:31 PM] BOTHeadClot: Yep make sense
+[8:31 PM] BOTHeadClot: Crypto Kitties are not worthless they are cute tho. :P
+[8:32 PM] BOTNoah_A_S: :P
+[8:32 PM] BOTHeadClot: What is Open Sea?
+[8:32 PM] BOTchrisplatorres: :O
+[8:32 PM] BOTNoah_A_S: oh sweet.
+[8:32 PM] BOTHeadClot: Oh nice
+[8:33 PM] BOTNoah_A_S: dude nice :)
+[8:33 PM] BOTHeadClot: Off topic but - I saw that Ben Nolan was talking about adding Visual Scripting to Crypto Voxels. Any news on that?
+[8:33 PM] BOTKoolala: rainbow!
+[8:34 PM] BOTHeadClot: I can see them but they are not animating for me
+[8:34 PM] BOTHubs Bot (beta): trope joined the Hubs room.
+[8:34 PM] BOTNoah_A_S: animating slowly
+[8:34 PM] BOTHeadClot: Ah ok
+[8:34 PM] BOTchrisplatorres: https://opensea.io/category/cryptomorph
+OpenSea
+CryptoMorph | OpenSea
+The worlds first psychedelic non-fungible token!
+CryptoMorph's are digitally drawn by hand with custom designed special effects applied to create symmetry and movement.
+Only one of each will ever be sold so you know you are getting a one of a kind NFT.
+
+[8:35 PM] BOTHeadClot: Pokemon cards basically
+[8:35 PM] BOTKoolala: snowcrash tokens
+[8:37 PM] BOTHubs Bot (beta): gfodor joined the Hubs room.
+[8:38 PM] BOTHeadClot: Cool
+[8:39 PM] BOTHubs Bot (beta): gfodor left the Hubs room.
+[8:40 PM] BOTjin: ton of people in CV now cuz of AMA
+[8:40 PM] chrisplatorres: AMA?
+[8:40 PM] BOTHeadClot: There was an AMA?
+[8:41 PM] BOTjin: https://old.reddit.com/r/cryptovoxels/comments/d1hw9k/im_the_author_of_cryptovoxels_ama/?
+reddit
+I'm the author of Cryptovoxels - AMA!
+Hi all, I'm Ben Nolan, the author of Cryptovoxels. I've never done an AMA for CV so for the next 48 hours, ask me anything about CV and I'll...
+
+[8:41 PM] BOTNoah_A_S: oh
+[8:41 PM] BOTHeadClot: Cool
+[8:42 PM] BOTKoolala: are you releasing in editions? so old editions keep their value? like cards?
+[8:42 PM] BOTchrisplatorres: :clap: :clap: :clap:
+[8:42 PM] BOTjin: :clap:
+[8:46 PM] BOTMauve: https://uploads-prod.reticulum.io/files/6c7e4f1d-6f3b-44d3-ad43-06047f6d5431.mp4?token=8acb406b2e90b4e9b634876b89b7a959
+[8:46 PM] BOTHeadClot: So like myst and riven?
+[8:46 PM] BOTMauve: https://uploads-prod.reticulum.io/files/3155678d-745d-45eb-b373-6b2be09c4cf3.mp4?token=3e47b66c8704f08535c365d2b2905573
+[8:47 PM] BOTSpidymonkey - CryptoMorph: https://openseanftapi--damo1884.repl.co/api/token/1
+[8:47 PM] BOTMauve: https://uploads-prod.reticulum.io/files/5d7821b2-3fbd-4c62-9964-5130ba444e4a.mp4?token=1d8f22694c4841a42f68d02f092943c9
+[8:48 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/377c90a4-9b0e-41d7-b662-c1efb06a6b28.png?token=39dea2cefa29c286d31475c066a9705d
+
+[8:48 PM] BOTHeadClot: haha
+[8:48 PM] BOTHeadClot: That is amazing
+[8:48 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/498f5169-635c-44e2-a904-ecb264b32713.png?token=4ded00dd15cf6735827d08c90c12fe56
+
+[8:49 PM] BOTjin: :clap:
+[8:49 PM] BOTMauve: https://uploads-prod.reticulum.io/files/d304f48e-4dda-4119-8df4-4dde710c7947.mp4?token=6a476cb390ed0a65850ae07c690ac2c5
+[8:49 PM] BOTKoolala: thank you!
+[8:49 PM] chrisplatorres: https://youtu.be/QG57XOXDDoM
+YouTube
+Christopher La Torres
+weba paint
+
+[8:50 PM] BOTMauve: https://uploads-prod.reticulum.io/files/8f74effb-3afc-49fb-a933-94d3af7ca733.png?token=4b96aaa174257a0122cc38e93319bb8c
+
+[8:50 PM] chrisplatorres: https://youtu.be/txH3SuQgWOI
+YouTube
+Christopher La Torres
+m3management
+
+[8:50 PM] BOTHubs Bot (beta): Spidymonkey - CryptoMorph left the Hubs room.
+[8:50 PM] BOTHubs Bot (beta): Spidymonkey - CryptoMorph joined the Hubs room.
+[8:51 PM] BOTHeadClot: Exokit time POG
+[8:51 PM] BOTchrisplatorres: https://youtu.be/QG57XOXDDoM
+YouTube
+Christopher La Torres
+weba paint
+
+[8:51 PM] BOTchrisplatorres: https://youtu.be/txH3SuQgWOI
+YouTube
+Christopher La Torres
+m3management
+
+[8:51 PM] chrisplatorres: https://youtu.be/ZF5fg29mn0E
+YouTube
+Christopher La Torres
+m3mlo2
+
+[8:51 PM] BOTchrisplatorres: https://youtu.be/ZF5fg29mn0E
+YouTube
+Christopher La Torres
+m3mlo2
+
+[8:51 PM] BOTRevofire: Florida
+[8:52 PM] BOTHeadClot: I am from the US
+[8:52 PM] chrisplatorres: https://youtu.be/dvfNDBnfacs
+[8:52 PM] BOTKoolala: im from anyland
+[8:52 PM] chrisplatorres: https://cdn.discordapp.com/attachments/467732758509387788/620434665202778113/Capture_83.PNG
+
+[8:52 PM] BOTRevofire: anyland don't count :')
+[8:53 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/5ebd5b25-a395-431c-b18c-905c4c47a20a.gif?token=26d0d8f5b0a6a0f88c1f4f2c2a92f00b
+
+[8:53 PM] BOTHeadClot: Who here is on the quest?
+[8:53 PM] BOTHeadClot: How is performace on the quest?
+[8:54 PM] BOTKoolala: website hosts maybe
+[8:54 PM] BOTjin:
+AND
+[8:54 PM] BOTHeadClot: Got it :)
+[8:54 PM] BOTHubs Bot (beta): Spidymonkey - CryptoMorph left the Hubs room.
+[8:54 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/c9c8bbee-44b6-445c-9a48-e40dccb1b463.gif?token=0d6178886e6c4302d2cb282581f160cb
+
+[8:54 PM] BOTHeadClot: Been thinking about getting a quest. :)
+[8:55 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/02cdde74-9b06-4fdd-8c77-9ba84a1f3383.png?token=b1a5bedf79416dc6f503cfe8b57a1c6c
+
+[8:55 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/b8eb3dca-242a-418b-a2b1-93c529b60489.png?token=9a141c94ea2cee3eef349ab976e74cf7
+
+[8:55 PM] BOTjin: git gud
+[8:55 PM] BOTHeadClot: I have a bunch of questions too
+[8:55 PM] BOTjin: i switched to brave and no lag
+[8:55 PM] BOTMauve: Yeah, the quest is pretty nice I think
+[8:55 PM] BOTHeadClot: I can still move
+[8:56 PM] BOTbillmar: https://bit.ly/QuestNotes
+Google Docs
+Quest Notes
+Oculus Quest Notes Bill Mar Dynamic Document https://docs.google.com/presentation/d/1sCprD232g4svoG1oVhulN-Ml3khhVFBUIYDTArGiwbI/ 2019-09-07 thebillmar@gmail.com 1
+
+[8:57 PM] BOTchrisplatorres: https://uploads-prod.reticulum.io/files/a9110186-d6b6-4651-a646-9b3d50751c09.png?token=e1b68d992281d87423784fd872a9a377
+
+[8:57 PM] BOTHeadClot: Are you using openXR?
+[8:57 PM] BOTHubs Bot (beta): Spidymonkey - CryptoMorph joined the Hubs room.
+[8:57 PM] BOTHeadClot: Got it
+[8:58 PM] BOTHeadClot: The Vive Cosmos is coming out on the 12
+[8:58 PM] BOTRevofire: Since when?
+[8:58 PM] BOTHeadClot: One sec
+[8:59 PM] BOTRevofire: What about Windows Mixed Reality?
+[8:59 PM] BOTHeadClot: Yep Getting an article
+[8:59 PM] BOTjin: i got one
+[8:59 PM] BOTHeadClot: Here you go
+[8:59 PM] BOTHeadClot: https://finance.yahoo.com/news/htc-vive-cosmos-may-realeased-072500366.html
+HTC VIVE COSMOS may Be Realeased on Taobao Maker Festival 2019 on ...
+In the 2019 Taobao Manufacturers' Festival, consumers saw the HTC VIVE COSMOS. At the same time, HTC also displayed the announcement of HTC VIVE COSMOS on its official website. HTC VIVE COSMOS locates high-end virtual reality devices, and it can be speculated that this prod...
+[9:00 PM] BOTHeadClot: For the vive comsos
+[9:00 PM] chrisplatorres: https://youtu.be/xg4_0BCTh2Y
+YouTube
+Exokit
+m3vid
+
+[9:00 PM] BOTchrisplatorres: https://youtu.be/xg4_0BCTh2Y
+YouTube
+Exokit
+m3vid
+
+[9:00 PM] BOTRevofire: it says in the article that it's Q3 of this year, not that the launch is on the 12th?
+[9:03 PM] BOTHeadClot: Technical debt oof
+[9:03 PM] BOTHeadClot: How is performance with multiple websites going at once?
+[9:04 PM] BOTHeadClot: Also this is really cool
+[9:04 PM] BOTjin: o sh its chrome
+[9:04 PM] BOTHeadClot: Oh wow
+[9:04 PM] BOTSM Sith Lord: noice
+[9:05 PM] BOTNoah_A_S: :O
+[9:05 PM] BOTHeadClot: :O
+[9:05 PM] BOTKoolala: its true XR, AR + MR + VR at once
+[9:06 PM] BOTHeadClot: Oh wow
+[9:06 PM] BOTNoah_A_S: VirtualGL? :O
+[9:06 PM] BOTNoah_A_S: NO WAY!
+[9:08 PM] BOTHeadClot: Oh wow
+[9:08 PM] BOTNoah_A_S: Oh!
+[9:09 PM] BOTHeadClot: O.o
+[9:09 PM] BOTHeadClot: HYPE
+[9:09 PM] BOTNoah_A_S: Dang!
+[9:09 PM] BOTNoah_A_S: HYPE!
+[9:09 PM] BOTSM Sith Lord: aye, yeah
+[9:09 PM] BOTNoah_A_S: how much fps now?
+[9:09 PM] BOTRevofire: Now that's what I call useful. :D
+[9:09 PM] BOTHeadClot: 144 fps
