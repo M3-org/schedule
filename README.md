@@ -1,5 +1,12 @@
 # Schedule
 
+<div style="width: 40%; height: 40%; overflow: hidden">
+  <img alt="M3" target="_blank" src="https://user-images.githubusercontent.com/29695350/64819288-8290e500-d573-11e9-83fe-8fbe1fe9ae70.gif"/>
+</div>
+<sub><sup><i>Avaer presenting in Hubs at M3 on "The Metaverse Technology in your Web Browser".</i></sup></sub>
+  
+-------------------------------------------
+  
 M3 meets bi-weekly/*every other week* on Sundays at 6pm PST in Mozilla Hubs. We use Discord to authenticate in Hubs, so you will need to be [signed into Discord](https://discord.gg/UgZDFZW) to join.
 
 The next M3 meet will be at: **Sunday, September 22nd 2019 at 6pm PST**.
