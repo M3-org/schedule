@@ -11,6 +11,13 @@ M3 meets bi-weekly/*every other week* on Sundays at 6pm PST in Mozilla Hubs. We 
 
 The next M3 meet will be at: **Sunday, September 22nd 2019 at 6pm PST**.
 
+The talks for September 22nd:
+1 - Jonathan Hale from Construct Arcade on WebVR Gamedev Problems And How to Fix Them
+2 - Sage on Considering UX Principles
+3 - Jin on Virtual Market Recap
+4 - Avaer on I'm building a metaverse, lol
+
+
 -------------------------------------------
 
 ### Previous Meets
