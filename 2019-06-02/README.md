@@ -29,7 +29,9 @@
 
 ------------------------------------------
 
-Mauve presented about achieving a Local-First Cyberpsace using @dat_project and WebXR (via @exokitXR )
+### Mauve on Achieving a Local-First Cyberpsace 
+
+Featuring @dat_project and WebXR (via @exokitXR )
 
 Link to slides / speaker notes: <https://gateway.mauve.moe/f453948f122e3b46b8aa2f36309c2114f2f6d5a4bcc6aa6323bbc876ffe56585/#p1>
 
