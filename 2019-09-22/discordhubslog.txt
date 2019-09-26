@@ -1,0 +1,179 @@
+[9:30 PM] Jonathan (Construct Arcade): AWE is 17 - 18 October
+[9:32 PM] nrgapple: "be right back" on the live steam
+[9:32 PM] BOTjin: refresh, works for me
+[9:32 PM] BOTjin: oh
+[9:32 PM] BOTjin: youtub
+[9:32 PM] Christopher P. La Torres: fixed
+[9:32 PM] Vaeldarg: they just had to set up the presentation
+[9:34 PM] Vaeldarg: My biggest hope for WebVR/XR and Exokit is to satisfy my multitasking addiction.
+[9:36 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/84249724-a285-4e01-b255-85251db659d2.png?token=14ecc4352ca85d756758fff8a772e021
+
+[9:37 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/f4b743e8-c3ec-43ae-b960-628298695e86.png?token=407dc3c7979e0b267e8c52010d9f46da
+
+[9:37 PM] BOTjin: https://uploads-prod.reticulum.io/files/9a41ce97-a19c-493b-a62e-4566a2e867ea.png?token=80de4143d06c65495090e53c075a849a
+
+[9:37 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/88ec5cac-e888-4aa8-90ef-01066b2d7d17.png?token=d7ad9c504526c7ed2a34dc19753e05a6
+
+[9:39 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/66cd5ed7-fae5-429b-b5ac-30b0fbf6379a.png?token=eb6093f1c12657b956f376d1706e28c3
+
+[9:40 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/5ca7e43a-ca3c-4a7e-aa05-19a51199606e.png?token=6a7f8c06efc2211c56c30604203b14e9
+
+[9:40 PM] Vaeldarg: Does Exokit Web not have a way to mute individual Reality Tabs? Noticed that seemed to be an issue when it was last being shown on stream.
+[9:40 PM] BOTHeadClot: This is really cool so far :)
+[9:41 PM] BOTKoolala: it had private permissions though? like CORS?
+[9:42 PM] BOTHeadClot: Oh so like Mastadon and its fediverse :)
+[9:42 PM] BOTHubs Bot (beta): FireFoxG left the Hubs room.
+[9:42 PM] BOTjin: chain of trust
+[9:43 PM] BOTKoolala: a static vs. a dynamic site that you log into?
+[9:43 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/ee84b4eb-9eb7-400a-8a3b-bcff7e97edd9.png?token=3b4b62edb934de16dd8bb740d48038a6
+
+[9:44 PM] Vaeldarg: wait until someone puts a paywall on their door instead of a handle
+[9:44 PM] BOTjin: like a nightclub does? :P
+[9:44 PM] Vaeldarg: would be one way to fund a house party that's for sure
+[9:44 PM] BOTKoolala: a daemon
+[9:44 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/efc88aab-b05c-4449-b98e-bdef217ca5f1.png?token=7f4d2c9172ed4cd5a49f7219f63033c0
+
+[9:45 PM] BOTNoah_A_S: even though it's probably not really a rel house, can it be??
+[9:45 PM] BOTNoah_A_S: real*
+[9:45 PM] BOTKoolala: wow
+[9:45 PM] Jonathan (Construct Arcade): :tada:
+[9:46 PM] BOTNoah_A_S: :clap:
+[9:46 PM] BOTChris E.: Now in a house you have each unique model using 1 iframe? so iframe for bed, microwave, house model, lightsaber? ... if thats the case... is it possible to merge objects into each other and optimize the iframe usage? I could see a street of homes and objects inside being like 2000 iframes.
+[9:47 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/46e35b01-f2cf-4677-84db-a5c357cd6691.png?token=8fa9c54fb129b085f48b53752719ab87
+
+[9:47 PM] BOTNoah_A_S: Okay so I was afk for like  15 minutes - is it a real house?
+[9:48 PM] Vaeldarg: Would there be a way for you to have the property given back to you, or would there be some kind of insurance that can be claimed?
+[9:48 PM] BOTKoolala: meat saber
+[9:49 PM] BOTNoah_A_S: :P
+[9:49 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/c40f32f1-7f97-4203-bdef-c95ca99724ca.png?token=88550a8fb10df79b249be1688bb8b78f
+
+[9:50 PM] BOTSM Sith Lord: could a derived work be sponsored?
+[9:51 PM] Christopher P. La Torres: https://github.com/users/modulesio/sponsorship
+GitHub
+Sponsor @modulesio on GitHub Sponsors
+Support @modulesio's open source work on GitHub
+
+[9:52 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/38f7d918-8794-417f-8c30-89dddd3f3bc4.png?token=36d184cf2383124b5f92e9e0dafd928b
+
+[9:55 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/b804c915-0c12-432f-8d5c-fe040df41538.png?token=5c040ba168412d9d54e96a7b200b0839
+
+[9:55 PM] BOTNoah_A_S: :P
+[9:55 PM] BOTChris E.: worth
+[9:55 PM] BOTNoah_A_S: nice
+[9:55 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/b76238ed-3074-4e2f-be16-3c4d9540b3ca.png?token=0267a504bdaa88789ae92ced3244bf23
+
+[9:55 PM] BOTKoolala: final destination
+[9:55 PM] BOTjin: flat earth confirmed
+[9:55 PM] BOTNoah_A_S: awesome
+[9:55 PM] Jonathan (Construct Arcade): Uhhh
+[9:56 PM] BOTNoah_A_S: final destination yess
+[9:56 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/f3763896-90b1-4f15-9485-a4c0acfba027.png?token=7e63af8809bcb141d99d3edaaeb4cfd9
+
+[9:56 PM] Christopher P. La Torres: https://github.com/users/modulesio/sponsorship
+GitHub
+Sponsor @modulesio on GitHub Sponsors
+Support @modulesio's open source work on GitHub
+
+[9:56 PM] Christopher P. La Torres: :clap: :clap: :clap:
+[9:56 PM] BOTjin: :clap:
+[9:56 PM] BOTsage: :clap:
+[9:56 PM] BOTNoah_A_S: the clapping emoji
+[9:56 PM] BOTsage: :clap:
+[9:56 PM] Jonathan (Construct Arcade): :clap:
+[9:56 PM] BOTSM Sith Lord: clap
+[9:56 PM] BOTChris E.: claperz
+[9:56 PM] BOTHeadClot: I have a question
+[9:57 PM] BOTNoah_A_S: :clap:
+[9:57 PM] BOTChris E.: wait..
+[9:57 PM] BOTHeadClot: So what do you need at the moment? Art? Code?
+[9:57 PM] BOTChris E.: make account, sponsor myself 5k... free 5k back from github?
+[9:58 PM] BOTChris E.: profit?
+[9:58 PM] BOTNoah_A_S: :clap: hmm
+[9:58 PM] BOTChristopher P. La Torres: https://uploads-prod.reticulum.io/files/b79f4135-d289-425d-8160-b2612cab829d.png?token=7ce3528f615c05245518bf1b2bac2877
+
+[9:59 PM] Jonathan (Construct Arcade): :hand_splayed:
+[9:59 PM] BOTHubs Bot (beta): Spidymonkey - CryptoMorph joined the Hubs room.
+[10:00 PM] BOTKoolala: and the cup can load from a favicon into a full cup
+[10:00 PM] BOTChris E.: i have Q
+[10:01 PM] BOTNoah_A_S: okay so real quick because I was afk are they real houses and neighborhoods?
+[10:01 PM] BOTKoolala: everyone is a developer
+[10:03 PM] Jonathan (Construct Arcade): :clap:
+[10:03 PM] Vaeldarg: Considering the nature of Object-Oriented Programming, VR is the mother of all rabbit holes when it comes to object behaviors.
+[10:03 PM] BOTChris E.: claperz
+[10:03 PM] BOTChristopher P. La Torres: It's loadable as a chanel too
+[10:03 PM] BOTNoah_A_S: :clap:
+[10:03 PM] BOTChris E.: i have Q
+[10:04 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/5b952b7e-44ca-417b-a2e4-c9aa7fc0f113.webm?token=9d90f96e6ab3004cf38a4015ae151962
+[10:04 PM] BOTChris E.: this is a sim
+[10:06 PM] BOTChris E.: o/
+[10:07 PM] BOTbillmar: https://uploads-prod.reticulum.io/files/d6f148f9-1c26-48f3-a904-4d35f560c5f9.png?token=8ac36569260acd9f459ac3518ba2cbdc
+
+[10:09 PM] BOTChristopher P. La Torres: What is an extent?
+[10:10 PM] BOTKoolala: no gods
+[10:11 PM] Christopher P. La Torres: If someone wants to build for sponsorship, how could they get started?
+[10:11 PM] BOTSpidymonkey - CryptoMorph: This is a really good article about 3rd party plugins and code sandboxing
+https://www.figma.com/blog/how-we-built-the-figma-plugin-system/
+Figma
+How to build a plugin system on the web and also sleep well at night
+The solution we found helps us run Figma plugins in a safe way — i.e. not eval(UNTRUSTED_CODE).
+
+[10:12 PM] Christopher P. La Torres: If you have existing 3d worlds, even models, it is easy to get a site up
+[10:12 PM] BOTHeadClot: Will there be a UE4 or Unity extention for exokit web?
+[10:13 PM] BOTChris E.: you almost need a domain creation tool inside of exokit, so people can create assets and then save them quick to a unique domain for later use as a iframe
+[10:13 PM] Jonathan (Construct Arcade): I will eventually write Emscripten support for WebXR... maybe then.
+[10:13 PM] BOTHeadClot: @SquareSys for UE4 or Unity?
+[10:13 PM] Jonathan (Construct Arcade): They both use Emscripten
+[10:13 PM] BOTHeadClot: Ah ok
+[10:13 PM] Christopher P. La Torres: Chris E.: you almost need a domain creation tool inside of exokit, so people can create assets and then save them quick to a unique domain for later use as a iframe
+[10:14 PM] BOTChris E.: that seems nice
+[10:15 PM] BOTHeadClot: I know that babylon js has a exporter from Unity to Bablyon js may be useful for this :)
+[10:15 PM] BOTChris E.: exokit.com/{userID}/{assetID}
+[10:15 PM] BOTChris E.: nice
+[10:16 PM] BOTChris E.: anybody use quest inside exokit web?
+[10:17 PM] BOTChris E.: nice
+[10:17 PM] BOTSpidymonkey - CryptoMorph: Also worth checking out https://github.com/tc39/proposal-realms
+GitHub
+tc39/proposal-realms
+ECMAScript Proposal, specs, and reference implementation for Realms - tc39/proposal-realms
+
+[10:17 PM] Jonathan (Construct Arcade): :clap:
+[10:17 PM] BOTsage: :clap:
+[10:17 PM] BOTKoolala: thank you avaer
+[10:17 PM] BOTsage: thank you!
+[10:17 PM] BOTHeadClot: :clap:
+[10:17 PM] BOTNoah_A_S: :clap::clap:
+[10:17 PM] BOTSM Sith Lord: clap
+[10:17 PM] BOThumbletim: :clap:
+[10:17 PM] Jonathan (Construct Arcade): :bow:
+[10:17 PM] BOTSpidymonkey - CryptoMorph: awesome talk
+[10:18 PM] BOTKoolala: mmm
+[10:18 PM] Jonathan (Construct Arcade): Thanks for organizing these meetups, guys!
+[10:18 PM] BOTjin: hMMM
+[10:18 PM] BOTChris E.: we need webvr water
+[10:18 PM] BOTHeadClot: Chat
+[10:18 PM] BOTKoolala: thank you again chris
+[10:19 PM] BOTChristopher P. La Torres: :)
+[10:19 PM] BOTsage: great stuff everyone! thanks for the talks, hope yall have a great night :)
+[10:19 PM] BOTChristopher P. La Torres: ./stream off
+[10:19 PM] BOTHubs Bot (beta): billmar, SM Sith Lord, Spidymonkey - CryptoMorph, Koolala and sage left the Hubs room.
+[10:22 PM] BOTChris E.: exokit needs a social buildout of its own email user system
+[10:22 PM] BOTChris E.: lots of backend work to do there
+[10:22 PM] BOTChris E.: and frontend
+[10:22 PM] BOTHubs Bot (beta): trope joined the Hubs room.
+[10:22 PM] BOTHubs Bot (beta): Jonathan (Construct Arcade) and jin left the Hubs room.
+[10:33 PM] BOTNoah_A_S: sorry
+[10:34 PM] BOTChris E.: 600 cdn
+[10:42 PM] BOTHeadClot: https://docs.unrealengine.com/en-US/Platforms/PixelStreaming/index.html
+Pixel Streaming
+Run your Unreal Engine application on a server in the cloud, and stream its rendered frames and audio to browsers and mobile devices over WebRTC.
+[10:44 PM] BOTChris E.: IK itself is hell tbh lol
+[10:47 PM] BOTChris E.: i think avatars going to have to be a set skeleton
+[10:47 PM] BOTChris E.: so just make 1 IK model instead of a bunch
+[10:54 PM] BOTNoah_A_S: this relies on a bug?
+[10:56 PM] BOTChris E.: base model computers only upgrade specs to make the new OS run smooth lol
+[10:57 PM] BOTChris E.: adhd
+[10:57 PM] BOTNoah_A_S: :P
+[10:58 PM] BOTChris E.: o/
+[10:58 PM] BOTHubs Bot (beta): Chris E. left the Hubs room.
+[11:01 PM] BOTHubs Bot (beta): Noah_A_S, Revofire, HeadClot, humbletim, trope and Avaer left the Hubs room.
+[11:21 PM] BOTHubs Bot (beta): Christopher P. La Torres left the Hubs room.
