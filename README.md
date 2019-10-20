@@ -11,6 +11,13 @@ M3 meets bi-weekly/*every other week* on Sundays at 12pm PST in Mozilla Hubs. We
 
 The next M3 meet will be at: **Sunday, October 20th 2019 at 12pm PST**.
 
+### **Lightning Talks:**
+
+   - [Reviewing the Charter](https://github.com/M3-org/charter)
+   - [Sage on UX + ML + VR]()
+   - [SM Sith Lord: Designing VR apps to target a wide range of input devices]()
+   - [Avaer on Avatars/Janusweb]()
+
 -------------------------------------------
 
 ### Previous Meets
