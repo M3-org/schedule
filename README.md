@@ -13,6 +13,12 @@ The next M3 meet will be at: **Sunday, November 3rd, 2019 at 3pm PST**.
 
 ### **Lightning Talks:**
 
+**Discussion around Tim Sweeney's SIGGRAPH 2019 talk: Foundational Principles & Technologies for the Metaverse**
+
+https://soundcloud.com/siggraph-spotlight/30-tim-sweeney-and-the-metaverse
+
+**We're going to listen, pause to discuss, and write our ideas using a collaborative document editor.**
+
 
 
 -------------------------------------------
