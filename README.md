@@ -7,7 +7,7 @@
 
 -------------------------------------------
 
-M3 meets bi-weekly/*every other week* on Sundays at 3pm PST in Mozilla Hubs. We use Discord to authenticate in Hubs, so you will need to be [signed into Discord](https://discord.gg/UgZDFZW) to join.
+M3 meets bi-weekly/*every other week* on Sundays at 3pm PST in Mozilla Hubs. We use Discord to authenticate in Hubs, so you will need to be [signed into Discord](https://discord.gg/UgZDFZW) to join: **https://discord.gg/UgZDFZW**
 
 The next M3 meet will be at: **Sunday, November 3rd, 2019 at 3pm PST**.
 
