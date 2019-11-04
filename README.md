@@ -9,16 +9,9 @@
 
 M3 meets bi-weekly/*every other week* on Sundays at 3pm PST in Mozilla Hubs. We use Discord to authenticate in Hubs, so you will need to be [signed into Discord](https://discord.gg/UgZDFZW) to join: **https://discord.gg/UgZDFZW**
 
-The next M3 meet will be at: **Sunday, November 3rd, 2019 at 3pm PST**.
+The next M3 meet will be at: **Sunday, November 17, 2019 at 12pm PST**.
 
 ### **Lightning Talks:**
-
-**Discussion around Tim Sweeney's SIGGRAPH 2019 talk: Foundational Principles & Technologies for the Metaverse**
-
-https://soundcloud.com/siggraph-spotlight/30-tim-sweeney-and-the-metaverse
-
-**We're going to listen, pause to discuss, and write our ideas using a collaborative document editor.**
-
 
 
 -------------------------------------------
