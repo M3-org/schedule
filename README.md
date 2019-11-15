@@ -7,18 +7,23 @@
 
 -------------------------------------------
 
+We are builders and makers of an open Metaverse. If interested in giving a lightning talk, drop a line on the [discord](https://discord.gg/UgZDFZW) or suggest a [proposal](https://github.com/M3-org/proposals/issues/) for an event.
+
 M3 meets bi-weekly/*every other week* on Sundays at 3pm PST in Mozilla Hubs. We use Discord to authenticate in Hubs, so you will need to be [signed into Discord](https://discord.gg/UgZDFZW) to join: **https://discord.gg/UgZDFZW**
 
 The next M3 meet will be at: **Sunday, November 17, 2019 at 12pm PST**.
+Link to the world: **https://hubs.mozilla.com/dLwxC3S/m3-nov17**
 
 ### **Lightning Talks:**
 
+- @aeliasnet on Identity in the Metaverse
+- @alfredo_xr on 3D Modeling from Pictures
 
 -------------------------------------------
 
 ### Previous Meets
 
-Each M3 meet has a full write-up along with the archived agenda, full livestream VOD, videos of individual lightning talks and discussions, images taken in-Hubs, and Hubs text log from Discord.
+Each M3 meet has a full write-up along with the archived agenda, full livestream VOD, videos of individual lightning talks and discussions, images taken in-Hubs, and Hubs text log from Discord. For the complete list, visit https://github.com/m3-org/research.
 
 - [2019-05-02](https://github.com/M3-org/schedule/tree/master/2019-05-02)
 - [2019-05-16](https://github.com/M3-org/schedule/tree/master/2019-05-16)
