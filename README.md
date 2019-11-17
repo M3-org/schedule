@@ -11,14 +11,11 @@ We are builders and makers of an open Metaverse. If interested in giving a light
 
 M3 meets bi-weekly/*every other week* on Sundays at 3pm PST in Mozilla Hubs. We use Discord to authenticate in Hubs, so you will need to be [signed into Discord](https://discord.gg/UgZDFZW) to join: **https://discord.gg/UgZDFZW**
 
-The next M3 meet will be at: **Sunday, November 17, 2019 at 12pm PST**.
+The next M3 meet will be at: **TBA**
 
-Link to the world: **https://hubs.mozilla.com/dLwxC3S/m3-nov17**
+Link to the world: **TBA**
 
 ### **Lightning Talks:**
-
-- @aeliasnet on Identity in the Metaverse
-- @alfredo_xr on 3D Modeling from Pictures
 
 -------------------------------------------
 
