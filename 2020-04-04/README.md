@@ -3,6 +3,8 @@
 #### Saturday April 4, 2020
 #### **Time:** 3pm PST
 
+Images: <https://imgur.com/a/6O4B3MD>
+
 -------------------------------------------
 
 ### **Lightning Talks:**
