@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="mobile-web-app-capable" content="yes">
+    <title>
+        M3 2019-05-02 - HackMD
+    </title>
+    <link rel="icon" type="image/png" href="https://hackmd.io/favicon.png">
+    <link rel="apple-touch-icon" href="https://hackmd.io/apple-touch-icon.png">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css" integrity="sha256-3iu9jgsy9TpTwXKb7bNQzqWekRX7pPK+2OLj3R922fo=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/3.5.0/octicons.min.css" integrity="sha256-QiWfLIsCT02Sdwkogf6YMiQlj4NE84MKkzEMkZnMGdg=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.1/themes/prism.min.css" integrity="sha256-vtR0hSWRc3Tb26iuN2oZHt3KRUomwTufNIf5/4oeCyg=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/emojify.js/1.1.0/css/basic/emojify.min.css" integrity="sha256-UOrvMOsSDSrW6szVLe8ZDZezBxh5IoIfgTwdNDgTjiU=" crossorigin="anonymous" />
+    <style>
+        @import url(https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i|Source+Code+Pro:300,400,500|Source+Sans+Pro:300,300i,400,400i,600,600i|Source+Serif+Pro&subset=latin-ext);.hljs{display:block;background:#fff;padding:.5em;color:#333;overflow-x:auto}.hljs-comment,.hljs-meta{color:#969896}.hljs-emphasis,.hljs-quote,.hljs-string,.hljs-strong,.hljs-template-variable,.hljs-variable{color:#df5000}.hljs-keyword,.hljs-selector-tag,.hljs-type{color:#a71d5d}.hljs-attribute,.hljs-bullet,.hljs-literal,.hljs-number,.hljs-symbol{color:#0086b3}.hljs-built_in,.hljs-builtin-name{color:#005cc5}.hljs-name,.hljs-section{color:#63a35c}.hljs-tag{color:#333}.hljs-attr,.hljs-selector-attr,.hljs-selector-class,.hljs-selector-id,.hljs-selector-pseudo,.hljs-title{color:#795da3}.hljs-addition{color:#55a532;background-color:#eaffea}.hljs-deletion{color:#bd2c00;background-color:#ffecec}.hljs-link{text-decoration:underline}.markdown-body{font-size:16px;line-height:1.5;word-wrap:break-word}.markdown-body:after,.markdown-body:before{display:table;content:""}.markdown-body:after{clear:both}.markdown-body>:first-child{margin-top:0!important}.markdown-body>:last-child{margin-bottom:0!important}.markdown-body a:not([href]){color:inherit;text-decoration:none}.markdown-body .absent{color:#c00}.markdown-body .anchor{float:left;padding-right:4px;margin-left:-20px;line-height:1}.markdown-body .anchor:focus{outline:none}.markdown-body blockquote,.markdown-body dl,.markdown-body ol,.markdown-body p,.markdown-body pre,.markdown-body table,.markdown-body ul{margin-top:0;margin-bottom:16px}.markdown-body hr{height:.25em;padding:0;margin:24px 0;background-color:#e7e7e7;border:0}.markdown-body blockquote{font-size:16px;padding:0 1em;color:#777;border-left:.25em solid #ddd}.markdown-body blockquote>:first-child{margin-top:0}.markdown-body blockquote>:last-child{margin-bottom:0}.markdown-body .loweralpha{list-style-type:lower-alpha}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{margin-top:24px;margin-bottom:16px;font-weight:600;line-height:1.25}.markdown-body h1 .octicon-link,.markdown-body h2 .octicon-link,.markdown-body h3 .octicon-link,.markdown-body h4 .octicon-link,.markdown-body h5 .octicon-link,.markdown-body h6 .octicon-link{color:#000;vertical-align:middle;visibility:hidden}.markdown-body h1:hover .anchor,.markdown-body h2:hover .anchor,.markdown-body h3:hover .anchor,.markdown-body h4:hover .anchor,.markdown-body h5:hover .anchor,.markdown-body h6:hover .anchor{text-decoration:none}.markdown-body h1:hover .anchor .octicon-link,.markdown-body h2:hover .anchor .octicon-link,.markdown-body h3:hover .anchor .octicon-link,.markdown-body h4:hover .anchor .octicon-link,.markdown-body h5:hover .anchor .octicon-link,.markdown-body h6:hover .anchor .octicon-link{visibility:visible}.markdown-body h1 code,.markdown-body h1 tt,.markdown-body h2 code,.markdown-body h2 tt,.markdown-body h3 code,.markdown-body h3 tt,.markdown-body h4 code,.markdown-body h4 tt,.markdown-body h5 code,.markdown-body h5 tt,.markdown-body h6 code,.markdown-body h6 tt{font-size:inherit}.markdown-body h1{font-size:2em}.markdown-body h1,.markdown-body h2{padding-bottom:.3em;border-bottom:1px solid #eee}.markdown-body h2{font-size:1.5em}.markdown-body h3{font-size:1.25em}.markdown-body h4{font-size:1em}.markdown-body h5{font-size:.875em}.markdown-body h6{font-size:.85em;color:#777}.markdown-body ol,.markdown-body ul{padding-left:2em}.markdown-body ol.no-list,.markdown-body ul.no-list{padding:0;list-style-type:none}.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul{margin-top:0;margin-bottom:0}.markdown-body li>p{margin-top:16px}.markdown-body li+li{margin-top:.25em}.markdown-body dl{padding:0}.markdown-body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}.markdown-body dl dd{padding:0 16px;margin-bottom:16px}.markdown-body table{display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}.markdown-body table th{font-weight:700}.markdown-body table td,.markdown-body table th{padding:6px 13px;border:1px solid #ddd}.markdown-body table tr{background-color:#fff;border-top:1px solid #ccc}.markdown-body table tr:nth-child(2n){background-color:#f8f8f8}.markdown-body img{max-width:100%;box-sizing:content-box;background-color:#fff}.markdown-body img[align=right]{padding-left:20px}.markdown-body img[align=left]{padding-right:20px}.markdown-body .emoji{max-width:none;vertical-align:text-top;background-color:transparent}.markdown-body span.frame{display:block;overflow:hidden}.markdown-body span.frame>span{display:block;float:left;width:auto;padding:7px;margin:13px 0 0;overflow:hidden;border:1px solid #ddd}.markdown-body span.frame span img{display:block;float:left}.markdown-body span.frame span span{display:block;padding:5px 0 0;clear:both;color:#333}.markdown-body span.align-center{display:block;overflow:hidden;clear:both}.markdown-body span.align-center>span{display:block;margin:13px auto 0;overflow:hidden;text-align:center}.markdown-body span.align-center span img{margin:0 auto;text-align:center}.markdown-body span.align-right{display:block;overflow:hidden;clear:both}.markdown-body span.align-right>span{display:block;margin:13px 0 0;overflow:hidden;text-align:right}.markdown-body span.align-right span img{margin:0;text-align:right}.markdown-body span.float-left{display:block;float:left;margin-right:13px;overflow:hidden}.markdown-body span.float-left span{margin:13px 0 0}.markdown-body span.float-right{display:block;float:right;margin-left:13px;overflow:hidden}.markdown-body span.float-right>span{display:block;margin:13px auto 0;overflow:hidden;text-align:right}.markdown-body code,.markdown-body tt{padding:0;padding-top:.2em;padding-bottom:.2em;margin:0;font-size:85%;background-color:rgba(0,0,0,.04);border-radius:3px}.markdown-body code:after,.markdown-body code:before,.markdown-body tt:after,.markdown-body tt:before{letter-spacing:-.2em;content:"\00a0"}.markdown-body code br,.markdown-body tt br{display:none}.markdown-body del code{text-decoration:inherit}.markdown-body pre{word-wrap:normal}.markdown-body pre>code{padding:0;margin:0;font-size:100%;word-break:normal;white-space:pre;background:transparent;border:0}.markdown-body .highlight{margin-bottom:16px}.markdown-body .highlight pre{margin-bottom:0;word-break:normal}.markdown-body .highlight pre,.markdown-body pre{padding:16px;overflow:auto;font-size:85%;line-height:1.45;background-color:#f7f7f7;border-radius:3px}.markdown-body pre code,.markdown-body pre tt{display:inline;max-width:auto;padding:0;margin:0;overflow:visible;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}.markdown-body pre code:after,.markdown-body pre code:before,.markdown-body pre tt:after,.markdown-body pre tt:before{content:normal}.markdown-body .csv-data td,.markdown-body .csv-data th{padding:5px;overflow:hidden;font-size:12px;line-height:1;text-align:left;white-space:nowrap}.markdown-body .csv-data .blob-line-num{padding:10px 8px 9px;text-align:right;background:#fff;border:0}.markdown-body .csv-data tr{border-top:0}.markdown-body .csv-data th{font-weight:700;background:#f8f8f8;border-top:0}.markdown-body kbd{display:inline-block;padding:3px 5px;font-size:11px;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb}.news .alert .markdown-body blockquote{padding:0 0 0 40px;border:0 none}.activity-tab .news .alert .commits,.activity-tab .news .markdown-body blockquote{padding-left:0}.task-list-item{list-style-type:none}.task-list-item label{font-weight:400}.task-list-item.enabled label{cursor:pointer}.task-list-item+.task-list-item{margin-top:3px}.task-list-item-checkbox{float:left;margin:.31em 0 .2em -1.3em!important;vertical-align:middle;cursor:default!important}.markdown-body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;padding-top:40px;padding-bottom:40px;max-width:758px;overflow:visible!important}.markdown-body .emoji{vertical-align:top}.markdown-body pre{border:inherit!important}.markdown-body code{color:inherit!important}.markdown-body pre code .wrapper{display:-moz-inline-flex;display:-ms-inline-flex;display:-o-inline-flex;display:inline-flex}.markdown-body pre code .gutter{float:left;overflow:hidden;-webkit-user-select:none;user-select:none}.markdown-body pre code .gutter.linenumber{text-align:right;position:relative;display:inline-block;cursor:default;z-index:4;padding:0 8px 0 0;min-width:20px;box-sizing:content-box;color:#afafaf!important;border-right:3px solid #6ce26c!important}.markdown-body pre code .gutter.linenumber>span:before{content:attr(data-linenumber)}.markdown-body pre code .code{float:left;margin:0 0 0 16px}.markdown-body .gist .line-numbers{border-left:none;border-top:none;border-bottom:none}.markdown-body .gist .line-data{border:none}.markdown-body .gist table{border-spacing:0;border-collapse:inherit!important}.markdown-body code[data-gist-id]{background:none;padding:0}.markdown-body code[data-gist-id]:after,.markdown-body code[data-gist-id]:before{content:""}.markdown-body code[data-gist-id] .blob-num{border:unset}.markdown-body code[data-gist-id] table{overflow:unset;margin-bottom:unset}.markdown-body code[data-gist-id] table tr{background:unset}.markdown-body[dir=rtl] pre{direction:ltr}.markdown-body[dir=rtl] code{direction:ltr;unicode-bidi:embed}.markdown-body .alert>p{margin-bottom:0}.markdown-body pre.abc,.markdown-body pre.flow-chart,.markdown-body pre.graphviz,.markdown-body pre.mermaid,.markdown-body pre.sequence-diagram{text-align:center;background-color:inherit;border-radius:0;white-space:inherit}.markdown-body pre.abc>code,.markdown-body pre.flow-chart>code,.markdown-body pre.graphviz>code,.markdown-body pre.mermaid>code,.markdown-body pre.sequence-diagram>code{text-align:left}.markdown-body pre.abc>svg,.markdown-body pre.flow-chart>svg,.markdown-body pre.graphviz>svg,.markdown-body pre.mermaid>svg,.markdown-body pre.sequence-diagram>svg{max-width:100%;height:100%}.markdown-body pre>code.wrap{white-space:pre-wrap;white-space:-moz-pre-wrap;white-space:-pre-wrap;white-space:-o-pre-wrap;word-wrap:break-word}.markdown-body .alert>p,.markdown-body .alert>ul{margin-bottom:0}.markdown-body summary{display:list-item}.markdown-body summary:focus{outline:none}.markdown-body details summary{cursor:pointer}.markdown-body details:not([open])>:not(summary){display:none}.markdown-body figure{margin:1em 40px}.markdown-body .mark,.markdown-body mark{background-color:#fff1a7}.vimeo,.youtube{cursor:pointer;display:table;text-align:center;background-position:50%;background-repeat:no-repeat;background-size:contain;background-color:#000;overflow:hidden}.vimeo,.youtube{position:relative;width:100%}.youtube{padding-bottom:56.25%}.vimeo img{width:100%;object-fit:contain;z-index:0}.youtube img{object-fit:cover;z-index:0}.vimeo iframe,.youtube iframe,.youtube img{width:100%;height:100%;position:absolute;top:0;left:0}.vimeo iframe,.youtube iframe{vertical-align:middle;z-index:1}.vimeo .icon,.youtube .icon{position:absolute;height:auto;width:auto;top:50%;left:50%;transform:translate(-50%,-50%);color:#fff;opacity:.3;transition:opacity .2s;z-index:0}.vimeo:hover .icon,.youtube:hover .icon{opacity:.6;transition:opacity .2s}.slideshare .inner,.speakerdeck .inner{position:relative;width:100%}.slideshare .inner iframe,.speakerdeck .inner iframe{position:absolute;top:0;bottom:0;left:0;right:0;width:100%;height:100%}.MJX_Assistive_MathML{display:none}.ui-infobar{position:relative;z-index:2;max-width:760px;margin:25px auto -25px;padding:0 15px;color:#777}.toc .invisable-node{list-style-type:none}.ui-toc{position:fixed;bottom:20px;z-index:998}.ui-toc-label{opacity:.3;background-color:#ccc;border:none;transition:opacity .2s}.ui-toc .open .ui-toc-label{opacity:1;color:#fff;transition:opacity .2s}.ui-toc-label:focus{opacity:.3;background-color:#ccc;color:#000}.ui-toc-label:hover{opacity:1;background-color:#ccc;transition:opacity .2s}.ui-toc-dropdown{margin-top:23px;margin-bottom:20px;padding-left:10px;padding-right:10px;max-width:45vw;width:25vw;max-height:70vh;overflow:auto;text-align:inherit}.ui-toc-dropdown>.toc{max-height:calc(70vh - 100px);overflow:auto}.ui-toc-dropdown[dir=rtl] .nav{padding-right:0;letter-spacing:.0029em}.ui-toc-dropdown a{overflow:hidden;text-overflow:ellipsis;white-space:pre}.ui-toc-dropdown .nav>li>a{display:block;padding:4px 20px;font-size:13px;font-weight:500;color:#767676}.ui-toc-dropdown .nav>li:first-child:last-child > ul,.ui-toc-dropdown .toc.expand ul{display:block}.ui-toc-dropdown .nav>li>a:focus,.ui-toc-dropdown .nav>li>a:hover{padding-left:19px;color:#000;text-decoration:none;background-color:transparent;border-left:1px solid #000}.ui-toc-dropdown[dir=rtl] .nav>li>a:focus,.ui-toc-dropdown[dir=rtl] .nav>li>a:hover{padding-right:19px;border-left:none;border-right:1px solid #000}.ui-toc-dropdown .nav>.active:focus>a,.ui-toc-dropdown .nav>.active:hover>a,.ui-toc-dropdown .nav>.active>a{padding-left:18px;font-weight:700;color:#000;background-color:transparent;border-left:2px solid #000}.ui-toc-dropdown[dir=rtl] .nav>.active:focus>a,.ui-toc-dropdown[dir=rtl] .nav>.active:hover>a,.ui-toc-dropdown[dir=rtl] .nav>.active>a{padding-right:18px;border-left:none;border-right:2px solid #000}.ui-toc-dropdown .nav .nav{display:none;padding-bottom:10px}.ui-toc-dropdown .nav>.active>ul{display:block}.ui-toc-dropdown .nav .nav>li>a{padding-top:1px;padding-bottom:1px;padding-left:30px;font-size:12px;font-weight:400}.ui-toc-dropdown[dir=rtl] .nav .nav>li>a{padding-right:30px}.ui-toc-dropdown .nav .nav>li>ul>li>a{padding-top:1px;padding-bottom:1px;padding-left:40px;font-size:12px;font-weight:400}.ui-toc-dropdown[dir=rtl] .nav .nav>li>ul>li>a{padding-right:40px}.ui-toc-dropdown .nav .nav>li>a:focus,.ui-toc-dropdown .nav .nav>li>a:hover{padding-left:29px}.ui-toc-dropdown[dir=rtl] .nav .nav>li>a:focus,.ui-toc-dropdown[dir=rtl] .nav .nav>li>a:hover{padding-right:29px}.ui-toc-dropdown .nav .nav>li>ul>li>a:focus,.ui-toc-dropdown .nav .nav>li>ul>li>a:hover{padding-left:39px}.ui-toc-dropdown[dir=rtl] .nav .nav>li>ul>li>a:focus,.ui-toc-dropdown[dir=rtl] .nav .nav>li>ul>li>a:hover{padding-right:39px}.ui-toc-dropdown .nav .nav>.active:focus>a,.ui-toc-dropdown .nav .nav>.active:hover>a,.ui-toc-dropdown .nav .nav>.active>a{padding-left:28px;font-weight:500}.ui-toc-dropdown[dir=rtl] .nav .nav>.active:focus>a,.ui-toc-dropdown[dir=rtl] .nav .nav>.active:hover>a,.ui-toc-dropdown[dir=rtl] .nav .nav>.active>a{padding-right:28px}.ui-toc-dropdown .nav .nav>.active>.nav>.active:focus>a,.ui-toc-dropdown .nav .nav>.active>.nav>.active:hover>a,.ui-toc-dropdown .nav .nav>.active>.nav>.active>a{padding-left:38px;font-weight:500}.ui-toc-dropdown[dir=rtl] .nav .nav>.active>.nav>.active:focus>a,.ui-toc-dropdown[dir=rtl] .nav .nav>.active>.nav>.active:hover>a,.ui-toc-dropdown[dir=rtl] .nav .nav>.active>.nav>.active>a{padding-right:38px}.markdown-body[lang^=ja]{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Roboto,Arial,Hiragino Kaku Gothic Pro,ヒラギノ角ゴ Pro W3,Osaka,Meiryo,メイリオ,MS Gothic,ＭＳ\ ゴシック,sans-serif}.ui-toc-dropdown[lang^=ja]{font-family:Source Sans Pro,Helvetica,Arial,Meiryo UI,MS PGothic,ＭＳ\ Ｐゴシック,sans-serif}.markdown-body[lang=zh-tw]{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Roboto,Arial,PingFang TC,Microsoft JhengHei,微軟正黑,sans-serif}.ui-toc-dropdown[lang=zh-tw]{font-family:Source Sans Pro,Helvetica,Arial,Microsoft JhengHei UI,微軟正黑UI,sans-serif}.markdown-body[lang=zh-cn]{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Roboto,Arial,PingFang SC,Microsoft YaHei,微软雅黑,sans-serif}.ui-toc-dropdown[lang=zh-cn]{font-family:Source Sans Pro,Helvetica,Arial,Microsoft YaHei UI,微软雅黑UI,sans-serif}.ui-affix-toc{position:fixed;top:0;max-width:15vw;max-height:70vh;overflow:auto}.back-to-top,.expand-toggle,.go-to-bottom{display:block;padding:4px 10px;margin-top:10px;margin-left:10px;font-size:12px;font-weight:500;color:#999}.back-to-top:focus,.back-to-top:hover,.expand-toggle:focus,.expand-toggle:hover,.go-to-bottom:focus,.go-to-bottom:hover{color:#563d7c;text-decoration:none}.back-to-top,.go-to-bottom{margin-top:0}.ui-user-icon{width:20px;height:20px;display:block;border-radius:3px;margin-top:2px;margin-bottom:2px;margin-right:5px;background-position:50%;background-repeat:no-repeat;background-size:cover}.ui-user-icon.small{width:18px;height:18px;display:inline-block;vertical-align:middle;margin:0 0 .2em}.ui-infobar>small>span{line-height:22px}.ui-infobar>small .dropdown{display:inline-block}.ui-infobar>small .dropdown a:focus,.ui-infobar>small .dropdown a:hover{text-decoration:none}.ui-published-note{color:#337ab7}.ui-published-note .fa{font-size:20px;vertical-align:top}.unselectable{-webkit-user-select:none;-o-user-select:none;user-select:none}@media print{blockquote,div,img,pre,table{page-break-inside:avoid!important}a[href]:after{font-size:12px!important}}.markdown-body.slides{position:relative;z-index:1;color:#222}.markdown-body.slides:before{content:"";display:block;position:absolute;top:0;left:0;right:0;bottom:0;z-index:-1;background-color:currentColor;box-shadow:0 0 0 50vw}.markdown-body.slides section[data-markdown]{position:relative;margin-bottom:1.5em;background-color:#fff;text-align:center}.markdown-body.slides section[data-markdown] code{text-align:left}.markdown-body.slides section[data-markdown]:before{content:"";display:block;padding-bottom:56.23%}.markdown-body.slides section[data-markdown]>div:first-child{position:absolute;top:50%;left:1em;right:1em;transform:translateY(-50%);max-height:100%;overflow:hidden}.markdown-body.slides section[data-markdown]>ul{display:inline-block}.markdown-body.slides>section>section+section:after{content:"";position:absolute;top:-1.5em;right:1em;height:1.5em;border:3px solid #777}body{font-smoothing:subpixel-antialiased!important;-webkit-font-smoothing:subpixel-antialiased!important;-moz-osx-font-smoothing:auto!important;text-shadow:0 0 1em transparent,1px 1px 1.2px rgba(0,0,0,.004);-webkit-overflow-scrolling:touch;font-family:Source Sans Pro,Helvetica,Arial,sans-serif;letter-spacing:.025em}.focus,:focus{outline:none!important}::-moz-focus-inner{border:0!important}body.modal-open{overflow-y:auto;padding-right:0!important}
+    </style>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js" integrity="sha256-g6iAfvZp+nDQ2TdTR/VVKJf3bGro4ub5fvWSWVRi2NE=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.9/es5-shim.min.js" integrity="sha256-8E4Is26QH0bD52WoQpcB+R/tcWQtpzlCojrybUd7Mxo=" crossorigin="anonymous"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <div id="doc" class="markdown-body container-fluid comment-enabled" style="position: relative;"><h1 id="M3-2019-05-02"><a class="anchor hidden-xs" href="#M3-2019-05-02" title="M3-2019-05-02"><span class="octicon octicon-link"></span></a>M3 2019-05-02</h1><h2 id="Schedule"><a class="anchor hidden-xs" href="#Schedule" title="Schedule"><span class="octicon octicon-link"></span></a>Schedule</h2><h3 id="Thursday-May-2-2019"><a class="anchor hidden-xs" href="#Thursday-May-2-2019" title="Thursday-May-2-2019"><span class="octicon octicon-link"></span></a>Thursday May 2, 2019</h3><p><strong>Time:</strong> 6pm PST</p><p><strong>Agenda:</strong> <em>(<a href="https://github.com/open-metaverse-gathering/schedule/issues/1" target="_blank" rel="noopener">post agenda proposals here</a> )</em></p><ul>
+<li>
+<p><strong>Logistics:</strong></p>
+<ul>
+<li>Organization name</li>
+<li>Meeting times</li>
+<li>Meeting frequency</li>
+</ul>
+</li>
+<li>
+<p><strong>Lightning Talks:</strong></p>
+<ul>
+<li>Avaer <a href="https://youtu.be/vxcaBHuAEBk?t=1637" target="_blank" rel="noopener">https://youtu.be/vxcaBHuAEBk?t=1637</a></li>
+<li>Jin <a href="https://youtu.be/vxcaBHuAEBk?t=2478" target="_blank" rel="noopener">https://youtu.be/vxcaBHuAEBk?t=2478</a></li>
+<li>SM Sith Lord <a href="https://youtu.be/vxcaBHuAEBk?t=3956" target="_blank" rel="noopener">https://youtu.be/vxcaBHuAEBk?t=3956</a></li>
+</ul>
+<hr>
+</li>
+<li>
+<p><strong>Topic of discussion:</strong><br>
+<a href="https://youtu.be/vxcaBHuAEBk?t=5922" target="_blank" rel="noopener">https://youtu.be/vxcaBHuAEBk?t=5922</a></p>
+</li>
+</ul><p>In the context of past metaverse attempts:</p><ul>
+<li>Why would this group be a significant?</li>
+<li>Why is now a good time?</li>
+<li>What if in the discussions the metaverse concept becomes too ephemeral and this turns into a philosophical time-waster?</li>
+</ul><p>Skin in the game</p><ul>
+<li>How can we ensure group members have skin in the game and are incentivized to build rather than waste time?</li>
+</ul><p>Group Hackathon</p><ul>
+<li>Focusing on building projects that promote compatibility</li>
+</ul><p>GitHub</p><ul>
+<li>Repository to write down key organization values</li>
+<li>Starting compatibility projects</li>
+</ul><hr><h2 id="Timestamp-Table"><a class="anchor hidden-xs" href="#Timestamp-Table" title="Timestamp-Table"><span class="octicon octicon-link"></span></a>Timestamp Table</h2><ul>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=670" target="_blank" rel="noopener">11:10</a> - Intro to organization</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=840" target="_blank" rel="noopener">14:00</a> - Why is our attempt so different?</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=1160" target="_blank" rel="noopener">19:20</a> - How can we find ways to foster this community?</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=1281" target="_blank" rel="noopener">21:21</a> - What encourages people to build?</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=1568" target="_blank" rel="noopener">26:05</a> - Cross-platform game idea</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=1646" target="_blank" rel="noopener">27:25</a> - Avaer: How to not build a metaverse</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=2104" target="_blank" rel="noopener">35:04</a> - QA: Unity the biggest force?</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=2275" target="_blank" rel="noopener">37:54</a> - QA: How do we solve the web performance problem?</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=2480" target="_blank" rel="noopener">41:20</a> - Jin: Cross-linking virtual worlds</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=2820" target="_blank" rel="noopener">47:00</a> - Opening a portal to google</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=2945" target="_blank" rel="noopener">49:05</a> - QA: Protocol handlers</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=3132" target="_blank" rel="noopener">52:12</a> - QA: Another layer beyond portals?</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=3330" target="_blank" rel="noopener">55:30</a> - QA: Components with glTF and address bar</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=3555" target="_blank" rel="noopener">59:15</a> - QA: Security regarding scripting</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=3996" target="_blank" rel="noopener">1:06:36</a> - SithLord: What is a shortcut?</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=4562" target="_blank" rel="noopener">1:16:02</a> - QA: Are you familiar with opengraph?</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=4785" target="_blank" rel="noopener">1:19:45</a> - QA: How does Anarchy Arcade work? (Meta-tags)</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=4890" target="_blank" rel="noopener">1:21:30</a> - QA: What’s the best way to incentivize companies?</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=5280" target="_blank" rel="noopener">1:28:00</a> - Security regarding websurfaces</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=5582" target="_blank" rel="noopener">1:33:02</a> - Major obstacle with obtaining meta-tags</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=5926" target="_blank" rel="noopener">1:38:46</a> - Recap last weeks topic regarding naming</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=6390" target="_blank" rel="noopener">1:46:30</a> - What should we plan for next week?</li>
+</ul><hr><h4 id="Intro-to-Organization"><a class="anchor hidden-xs" href="#Intro-to-Organization" title="Intro-to-Organization"><span class="octicon octicon-link"></span></a>Intro to Organization</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=670" target="_blank" rel="noopener">11:10</a></p><p>Make sure we have compatibility across these different projects, there’s a lot of great work being done but it can be most beneficial to be compatible and share things between projects. Separate silos are doing great things but if we can build things  between projects</p><p>This group is about interoperability between the platforms and frameworks.</p><p>Goes beyond just the software but the hardware as well. XR is a cross-organization, hardware, headset, platforms. There’s a lot of raw talent that is working in silos doing awesome stuff but we’re not talking to eachother quite enough to get that benefit for the thing we all really want to do is build a metaverse. We’re looking at this from a full stack perspective to make all the pieces work together.</p><hr><h4 id="Why-is-our-attempt-different"><a class="anchor hidden-xs" href="#Why-is-our-attempt-different" title="Why-is-our-attempt-different"><span class="octicon octicon-link"></span></a>Why is our attempt different?</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=840" target="_blank" rel="noopener">14:00</a></p><p>Now is the time because we now have a full stack which can be built upon current web technology. Back then hands-on research was inaccessible to regular developers. Its only recently that the hardware and software has hit a quality threshhold at a decent price point with a willingness of people to collaborate on higher goals. The platforms are becoming open and distributed enough that we can actually glue things together.</p><p>Full stack meaning full breadth from low-level (operating systems and hardware) to the high-level (engines and content frameworks).</p><p>There’s other working groups like WebXR spec group which is very exclusive and partnerships with Qualcomm which are all under NDA which makes it hard to communicate with one another.</p><p>Other groups are philosophical and not really grounded in implementations. We want to be grounded in practical applications of these concepts.</p><p>S.M.A.R.T., or Specific, Measurable, Action-oriented, Realistic, and Time-stamped   <a href="https://github.com/M3-org/proposals/issues/5#issuecomment-492815530" target="_blank" rel="noopener">https://github.com/M3-org/proposals/issues/5#issuecomment-492815530</a></p><hr><h4 id="How-can-we-find-ways-to-foster-this-community"><a class="anchor hidden-xs" href="#How-can-we-find-ways-to-foster-this-community" title="How-can-we-find-ways-to-foster-this-community"><span class="octicon octicon-link"></span></a>How can we find ways to foster this community?</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=1160" target="_blank" rel="noopener">19:20</a></p><ul>
+<li>Virtual hackathons</li>
+<li>Game jams</li>
+<li>Field tests</li>
+<li>Mini-games</li>
+</ul><hr><h4 id="What-encourages-people-to-build"><a class="anchor hidden-xs" href="#What-encourages-people-to-build" title="What-encourages-people-to-build"><span class="octicon octicon-link"></span></a>What encourages people to build?</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=1281" target="_blank" rel="noopener">21:21</a></p><p>What encourages people to build instead of philosophizing about the metaverse?</p><p>If its fun, and fun to build, it will keep people motivated!</p><p>It helps to put out examples for letting people use the software and having a front-end for people to play with. Allows the technology to connect with the brain and generate fun.</p><p>Cross-platform / Cross-game event like a goosehunt.</p><hr><h4 id="Lightning-Talk-How-to-Not-Build-a-Metaverse"><a class="anchor hidden-xs" href="#Lightning-Talk-How-to-Not-Build-a-Metaverse" title="Lightning-Talk-How-to-Not-Build-a-Metaverse"><span class="octicon octicon-link"></span></a>Lightning Talk: How to Not Build a Metaverse</h4><p><img src="https://i.imgur.com/wyXcrRW.jpg" alt=""></p><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=1646" target="_blank" rel="noopener">27:25</a></p><p>One of the reasons past attempts have failed is because they became silos that owned the data. However the metaverse already exists via the web, err but why does the metaverse not actually exist?</p><p><a href="https://github.com/M3-org/schedule/blob/master/2019-05-02/Avaer-how-not-to-build-a-metaverse.md" target="_blank" rel="noopener">https://github.com/M3-org/schedule/blob/master/2019-05-02/Avaer-how-not-to-build-a-metaverse.md</a></p><p>Solution: emphasis on the <strong>meta</strong></p><p>Ship the decoders for the data in our actual data</p><p>When you ship a website you also ship the frameworks you use with that website</p><p>Encapsulate all that in a website, ship that in webgl/webxr</p><p>Transport across platforms</p><p>Sounds like dat/ipfs protocol</p><p>Drop in a 3D url, becomes a 3D place</p><p>Make content we want to use but also want to make sure the content is built on some kinda standard we can agree on.</p><p>Permissionless innovation</p><p>Web is the metaverse, not quite there yet.</p><h4 id="QA-Unity-the-biggest-force-in-this-space"><a class="anchor hidden-xs" href="#QA-Unity-the-biggest-force-in-this-space" title="QA-Unity-the-biggest-force-in-this-space"><span class="octicon octicon-link"></span></a>QA: Unity the biggest force in this space</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=2104" target="_blank" rel="noopener">35:04</a></p><p>In some sense yes, Unity built business model around cross-linking different platforms but its controlled by a single for-profit entity that is highly incentivized by increasing shareholder value and not principles of an open decentralized metaverse.</p><h4 id="QA-How-do-we-solve-the-web-performance-problem"><a class="anchor hidden-xs" href="#QA-How-do-we-solve-the-web-performance-problem" title="QA-How-do-we-solve-the-web-performance-problem"><span class="octicon octicon-link"></span></a>QA: How do we solve the web performance problem?</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=2275" target="_blank" rel="noopener">37:54</a></p><p>Chrome is in many ways not incentivized to not take standards seriously or atleast take them in a different direction (make them secure by making your data hard to access besides Google)</p><p>Thick coats of paint between application you write and</p><p>Exokit tries to be as close to hardware as possible: Javascript calls opengl directly.<br>
+Plans for WebGL implementation ontop of Vulkan.</p><p>Limitation of existing implementations</p><hr><h4 id="Jin-Cross-linking-Virtual-Worlds"><a class="anchor hidden-xs" href="#Jin-Cross-linking-Virtual-Worlds" title="Jin-Cross-linking-Virtual-Worlds"><span class="octicon octicon-link"></span></a>Jin: Cross-linking Virtual Worlds</h4><p><img src="https://i.imgur.com/z3HWYku.jpg" alt=""></p><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=2480" target="_blank" rel="noopener">41:20</a></p><p><strong>Writeup</strong>: <a href="https://gist.github.com/madjin/ff580a7bbe6cc077cc87c3971801b99f" target="_blank" rel="noopener">https://gist.github.com/madjin/ff580a7bbe6cc077cc87c3971801b99f</a></p><p>Moving avatars and objects between virtual worlds.</p><p>In 2D web we can click a link, so how do hyperlinks translate into a 3D web?</p><p>Sliding scale of interoperability:</p><p>Level 1: Hyperlinks<br>
+Level 2: Pass-through portal<br>
+Level 3: Seamless portal transition</p><p><img src="https://i.imgur.com/B1iSjRX.gif" alt=""></p><hr><h4 id="Protocol-Handlers"><a class="anchor hidden-xs" href="#Protocol-Handlers" title="Protocol-Handlers"><span class="octicon octicon-link"></span></a>Protocol Handlers</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=2945" target="_blank" rel="noopener">49:05</a></p><p>Launching stuff from protocol handlers</p><p>Cryptovoxels supports <code>steam://</code>, <code>hifi://</code>, <code>vrchat://</code>, and <code>http://</code></p><p>Demo: <a href="https://www.cryptovoxels.com/play?coords=N@214E,3U,27S" target="_blank" rel="noopener">https://www.cryptovoxels.com/play?coords=N@214E,3U,27S</a></p><p>JanusWeb has support for ipfs and dat</p><p>Some might need extensions or gateways</p><p>Needs to get installed on the system before handling them (run atleast once)</p><p>Goals in long-term is overlay (like PlutoVR) bridge gap between 2D and 3D program</p><p>Can shoot portal onto a surface of an object and walk into another game</p><p>Like an iframe in 3D space?</p><hr><h4 id="Another-layer-beyond-portals"><a class="anchor hidden-xs" href="#Another-layer-beyond-portals" title="Another-layer-beyond-portals"><span class="octicon octicon-link"></span></a>Another layer beyond portals</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=3132" target="_blank" rel="noopener">52:12</a></p><p>Not necessarily portals but anything being a URL even objects, avatars, and places</p><p>URLs you can load and composite in your world (like Reality Layers or Tabs)</p><p>Portal is essentially a stencil shader that you can composite with a depth buffer</p><p>Oculus home makes use of interactive 3D objects that can launch shortcuts</p><p>Doing things across websites or native apps, as long as you can get access to frame and depth buffer at reasonable framerate you can composite things together that weren’t designed to be interconnected.</p><p>Vulkan can improve this</p><p>Links can be represented in many different ways on a sliding scale of interoperability</p><p>GET/POST from browser rendering perspective</p><hr><h4 id="Components-with-glTF-and-address-bar"><a class="anchor hidden-xs" href="#Components-with-glTF-and-address-bar" title="Components-with-glTF-and-address-bar"><span class="octicon octicon-link"></span></a>Components with glTF and address bar</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=3330" target="_blank" rel="noopener">55:30</a></p><p>Mozilla folks have used GLTF extensions to annotate objects with components</p><p>How something like scripting can work with this?</p><p>Is glTF HTML, extension to add behavior?</p><p>Curious if thought about web browser - top bar is sacred region that is untouched</p><p>How do you know where you’re going?</p><p>Navigation UI component in JanusWeb</p><hr><h4 id="Security-regarding-scripting"><a class="anchor hidden-xs" href="#Security-regarding-scripting" title="Security-regarding-scripting"><span class="octicon octicon-link"></span></a>Security regarding scripting</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=3555" target="_blank" rel="noopener">59:15</a></p><p>Way Google has interpreted it is that security is basically impossible with navigation so they’re basically banning it on that basis: anyone can spoof the URL bar.</p><p>Trust the UI: things only you could know?</p><p>Decent dedicated hardware on wrist / watch that you can’t spoof (I’m actually at this URL)</p><p>Trust has to start somewhere, what is the root of the trust tree?</p><p>In exokit, everything is completely isolated (separate rendering).</p><p>Only way things can leak is via user input, besides that they cannot interact with each other.</p><p>Virtual keyboard -&gt; by virtue of what user is doing with hands can infer what password is.</p><p>One of things Janus did is at client level, if you have a box over input box, stop rendering / sending data (like hand positions) through the multiplayer server.</p><p>Certain input boxes block what other scripts can see.</p><p>Certain multiplayer protocols as standard (unified API we can use and browsers can know this is how the data is coming in so rational security protocols can get implemented).</p><p>No one doing banking in VR yet, we’re still experimenting to see what’s possible before locking things down.</p><p>One thing JanusWeb looked at where running mode where things are a bit more locked down as client option.</p><p>Things get interesting where notion of identifying content in space or volume, can securely lock it within that volume for inputs only.</p><p>QubesOS: secure OS architecture - everything is sandboxed so if one gets pwned it doesn’t affect everything else.</p><p>Make sure boundaries aren’t leaked.</p><p>Cross-origin type things in XR</p><p>JanusWeb: room scripts run in same context right now, but if you run in a worker thread you can keep in sandbox but have to provide bridge API to sync the scripts with the world/render state.</p><p>Iframe API and Iframe loads in entirely separate context, composited by user-agent.</p><p>Stack iframes in layers array. These iframes do not know about each other unless you choose for them to know about each other.</p><hr><h4 id="SithLord-What-is-a-Shortcut"><a class="anchor hidden-xs" href="#SithLord-What-is-a-Shortcut" title="SithLord-What-is-a-Shortcut"><span class="octicon octicon-link"></span></a>SithLord: What is a Shortcut?</h4><p><img src="https://i.imgur.com/nX84fyu.jpg" alt=""></p><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=3996" target="_blank" rel="noopener">1:06:36</a></p><p>Shortcuts are something we use everyday!</p><p>The metaverse is kind of like the web, the web is like the metaverse just not visualized in a 3D way yet.</p><p>All the 2D stuff is going to come with us into the next dimension.</p><p>Shortcuts is how we get around, we use them all the time on our phones, browsers, desktops, steam, etc.</p><p>The most important part of the shorcut is the file target, address, where you’re going - the destination.</p><p>What makes it look nice?</p><p>If you think of a GPS coordinate you can get there but what is it?</p><p>Add meta-tags / metadata to the shortcut for it to make more sense</p><p>Tag Los Angeles California to GPS coordinate - bam</p><p>Icon / screenshots as more tags to give shortcut more representation.</p><p>When you look at desktop you are seeing shortcuts - extra metatags give them richer presence in the world.</p><p>Rich presence for the destination: Its not just a GPS coordinate, its Los Angeles California!</p><p>Representing shortcuts in the metaverse is going to be huge</p><p>Shorcuts have always been there since dawn of computing.</p><p>When you browse netflix, it has marquee image / title / and preview windows.</p><p>SteamVR home and Oculus home does this on same kind of level - spawn shortcuts as 3D objects.</p><p>If you look at someone elses desktop it looks like a bunch of crap, but if you saw your desktop you’d recognize it all - has a personal connection to you.</p><p>They’re shortcuts but to the people that created them - these shortcuts are their representations of what the metaverse is and what matters to them the most.</p><p>Visualize the same exact shortcuts in a new way, that personal value will transfer over to the next dimension.</p><p>When looking at shortcuts, visualize how they will look in different platforms.</p><p>If you took your shortcuts from desktop / bookmarks into a 3D world, what would it look like?</p><p>Lets make the shorcuts look good, then we’ll work our way up to better transitions.</p><p>AA is a frontend for customizing and launching shortcuts in a 3D world.</p><h4 id="QA-Are-you-familiar-with-Opengraph"><a class="anchor hidden-xs" href="#QA-Are-you-familiar-with-Opengraph" title="QA-Are-you-familiar-with-Opengraph"><span class="octicon octicon-link"></span></a>QA: Are you familiar with Opengraph?</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=4562" target="_blank" rel="noopener">1:16:02</a></p><p>Web effort to provide descriptions for content.</p><p>Database of icons</p><p>For example if you drop URL in discord sometimes it will have image/video preview. Invert content.</p><p>If publish website, put tags in page to cull out that this URL represents a video and heres a URL to thmbnail, description, title, etc. Tags.</p><p>Metatag standards and APIs are wonderful, sometimes you can’t put all information in tags so some corporations have APIs.</p><p>When you go to website, it’d be nice if they follow these standards - leverage them if they have them.</p><p>If they have information there in metatags that’s wonderful. They’re great but not up to par - if you look at Netflix / Hulu they have more than 1 image per entry in database and preview video associated with it. While standards are great it seems they’re falling behind what Hulu/Netflix are doing. If you give me 1 image what can I do? Put it on tablet mostly…</p><p>Extra fields will give extra rich presence of the shortcut.</p><p>It’d be great to see the stuff Netflix/Hulu use to be adopted more in websites.</p><p>There’s a mailing list for opengraph, launched sometime in 2009.</p><h4 id="QA-How-does-Anarchy-Arcade-work"><a class="anchor hidden-xs" href="#QA-How-does-Anarchy-Arcade-work" title="QA-How-does-Anarchy-Arcade-work"><span class="octicon octicon-link"></span></a>QA: How does Anarchy Arcade work?</h4><p><img src="https://i.imgur.com/KPnCvGA.jpg" alt=""></p><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=4785" target="_blank" rel="noopener">1:19:45</a></p><p>Wizard scrapes meta-tags from websites to fill the input fields for the shortcut. Can fill out shortcut properties manually as well like how one would with traditional desktop icons.</p><h4 id="QA-What’s-the-best-way-to-incenvitize-companies"><a class="anchor hidden-xs" href="#QA-What’s-the-best-way-to-incenvitize-companies" title="QA-What’s-the-best-way-to-incenvitize-companies"><span class="octicon octicon-link"></span></a>QA: What’s the best way to incenvitize companies?</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=4890" target="_blank" rel="noopener">1:21:30</a></p><p>What can we do to incentive companies to adopt meta-tag standards?</p><p>Users often manually fine-tune shortcuts.</p><p>Stuff you give default shortcuts and icons are starting points, can provide better customization with assets the user owns.</p><hr><h4 id="Security-regarding-websurfaces"><a class="anchor hidden-xs" href="#Security-regarding-websurfaces" title="Security-regarding-websurfaces"><span class="octicon octicon-link"></span></a>Security regarding websurfaces</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=5280" target="_blank" rel="noopener">1:28:00</a></p><p>2D web content in WebGL</p><p>Loading a whole browser inside a 3D engine</p><p>Display webpages in a 3D world</p><p>DOM to texture</p><p>No infrastructure to get 2D web content in 3D web pages</p><p>Opengraph 3D</p><p>You can’t render a web tab - giving pixel access is a potential vulnerability for hackers</p><p>This is partly being addressed in spec groups</p><p>Problem is that browser has cookies and cross-domain issues and capture issues</p><p>If user has cursor looking at 2D page, 2D page could be bank account, by clicking on page can deduce what sensitive information is</p><p>Prevents browsers from implementing DOM to texture stuff</p><p>They are solving some of this in spec as long as you follow cross-origin rules you can composite</p><p>Will not be able to access pixels directly - user agent specified by transform</p><p>Currently if you open full web tab its a security hole</p><p>AA is like desktop that launches shortcuts: when you launch something there’s no connection</p><p>AA is not scripting platform, people defining properties not logic</p><p>Exokit allows this stuff, users need to understand security impact of what they’re doing</p><p>Web has 25 years of training users what green / lock icon means</p><p>Teach people correct browsing habits in XR space</p><hr><h4 id="Obstacles-when-obtaining-the-meta-tags"><a class="anchor hidden-xs" href="#Obstacles-when-obtaining-the-meta-tags" title="Obstacles-when-obtaining-the-meta-tags"><span class="octicon octicon-link"></span></a>Obstacles when obtaining the meta-tags</h4><p>T. <a href="https://youtu.be/vxcaBHuAEBk?t=5582" target="_blank" rel="noopener">1:33:02</a></p><p>Each website has to be custom implemented for scrapers</p><p>Not enough data / standards</p><p>Writing JS scrapers for every website is a huge task</p><p>Really is no current solution yet, some sites will not open up their API (netflix for example)</p><p>The idea is that big companies want to show users their representation of the content (some ads, whats featured, similar interests) but sometimes users want to cut the fat.</p><p>Netflix will only serve up to 720p</p><p>Because of DRM they will not serve up the full 4k stream</p><p>It’s not leeching, its consuming in a 3D environment.</p><hr><h2 id="Wrapping-up"><a class="anchor hidden-xs" href="#Wrapping-up" title="Wrapping-up"><span class="octicon octicon-link"></span></a>Wrapping up</h2><ul>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=5926" target="_blank" rel="noopener">1:38:46</a> - Recap last weeks topic regarding naming</li>
+<li><a href="https://youtu.be/vxcaBHuAEBk?t=6390" target="_blank" rel="noopener">1:46:30</a> - What should we plan for next week?</li>
+</ul></div>
+    <div class="ui-toc dropup unselectable hidden-print" style="display:none;">
+        <div class="pull-right dropdown">
+            <a id="tocLabel" class="ui-toc-label btn btn-default" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" title="Table of content">
+                <i class="fa fa-bars"></i>
+            </a>
+            <ul id="ui-toc" class="ui-toc-dropdown dropdown-menu" aria-labelledby="tocLabel">
+                <div class="toc"><ul class="nav">
+<li class=""><a href="#M3-2019-05-02" title="M3 2019-05-02">M3 2019-05-02</a><ul class="nav">
+<li class=""><a href="#Schedule" title="Schedule">Schedule</a><ul class="nav">
+<li class=""><a href="#Thursday-May-2-2019" title="Thursday May 2, 2019">Thursday May 2, 2019</a></li>
+</ul>
+</li>
+<li class=""><a href="#Timestamp-Table" title="Timestamp Table">Timestamp Table</a></li>
+<li class=""><a href="#Wrapping-up" title="Wrapping up">Wrapping up</a></li>
+</ul>
+</li>
+</ul>
+</div><div class="toc-menu"><a class="expand-toggle" href="#">Expand all</a><a class="back-to-top" href="#">Back to top</a><a class="go-to-bottom" href="#">Go to bottom</a></div>
+            </ul>
+        </div>
+    </div>
+    <div id="ui-toc-affix" class="ui-affix-toc ui-toc-dropdown unselectable hidden-print" data-spy="affix" style="top:17px;display:none;"  >
+        <div class="toc"><ul class="nav">
+<li class=""><a href="#M3-2019-05-02" title="M3 2019-05-02">M3 2019-05-02</a><ul class="nav">
+<li class=""><a href="#Schedule" title="Schedule">Schedule</a><ul class="nav">
+<li class=""><a href="#Thursday-May-2-2019" title="Thursday May 2, 2019">Thursday May 2, 2019</a></li>
+</ul>
+</li>
+<li class=""><a href="#Timestamp-Table" title="Timestamp Table">Timestamp Table</a></li>
+<li class=""><a href="#Wrapping-up" title="Wrapping up">Wrapping up</a></li>
+</ul>
+</li>
+</ul>
+</div><div class="toc-menu"><a class="expand-toggle" href="#">Expand all</a><a class="back-to-top" href="#">Back to top</a><a class="go-to-bottom" href="#">Go to bottom</a></div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/2.6.0/gist-embed.min.js" integrity="sha256-KyF2D6xPIJUW5sUDSs93vWyZm+1RzIpKCexxElmxl8g=" crossorigin="anonymous" defer></script>
+    <script>
+        var markdown = $(".markdown-body");
+        //smooth all hash trigger scrolling
+        function smoothHashScroll() {
+            var hashElements = $("a[href^='#']").toArray();
+            for (var i = 0; i < hashElements.length; i++) {
+                var element = hashElements[i];
+                var $element = $(element);
+                var hash = element.hash;
+                if (hash) {
+                    $element.on('click', function (e) {
+                        // store hash
+                        var hash = this.hash;
+                        if ($(hash).length <= 0) return;
+                        // prevent default anchor click behavior
+                        e.preventDefault();
+                        // animate
+                        $('body, html').stop(true, true).animate({
+                            scrollTop: $(hash).offset().top
+                        }, 100, "linear", function () {
+                            // when done, add hash to url
+                            // (default click behaviour)
+                            window.location.hash = hash;
+                        });
+                    });
+                }
+            }
+        }
+
+        smoothHashScroll();
+        var toc = $('.ui-toc');
+        var tocAffix = $('.ui-affix-toc');
+        var tocDropdown = $('.ui-toc-dropdown');
+        //toc
+        tocDropdown.click(function (e) {
+            e.stopPropagation();
+        });
+
+        var enoughForAffixToc = true;
+
+        function generateScrollspy() {
+            $(document.body).scrollspy({
+                target: ''
+            });
+            $(document.body).scrollspy('refresh');
+            if (enoughForAffixToc) {
+                toc.hide();
+                tocAffix.show();
+            } else {
+                tocAffix.hide();
+                toc.show();
+            }
+            $(document.body).scroll();
+        }
+
+        function windowResize() {
+            //toc right
+            var paddingRight = parseFloat(markdown.css('padding-right'));
+            var right = ($(window).width() - (markdown.offset().left + markdown.outerWidth() - paddingRight));
+            toc.css('right', right + 'px');
+            //affix toc left
+            var newbool;
+            var rightMargin = (markdown.parent().outerWidth() - markdown.outerWidth()) / 2;
+            //for ipad or wider device
+            if (rightMargin >= 133) {
+                newbool = true;
+                var affixLeftMargin = (tocAffix.outerWidth() - tocAffix.width()) / 2;
+                var left = markdown.offset().left + markdown.outerWidth() - affixLeftMargin;
+                tocAffix.css('left', left + 'px');
+            } else {
+                newbool = false;
+            }
+            if (newbool != enoughForAffixToc) {
+                enoughForAffixToc = newbool;
+                generateScrollspy();
+            }
+        }
+        $(window).resize(function () {
+            windowResize();
+        });
+        $(document).ready(function () {
+            windowResize();
+            generateScrollspy();
+        });
+
+        //remove hash
+        function removeHash() {
+            window.location.hash = '';
+        }
+
+        var backtotop = $('.back-to-top');
+        var gotobottom = $('.go-to-bottom');
+
+        backtotop.click(function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            if (scrollToTop)
+                scrollToTop();
+            removeHash();
+        });
+        gotobottom.click(function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            if (scrollToBottom)
+                scrollToBottom();
+            removeHash();
+        });
+
+        var toggle = $('.expand-toggle');
+        var tocExpand = false;
+
+        checkExpandToggle();
+        toggle.click(function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            tocExpand = !tocExpand;
+            checkExpandToggle();
+        })
+
+        function checkExpandToggle () {
+            var toc = $('.ui-toc-dropdown .toc');
+            var toggle = $('.expand-toggle');
+            if (!tocExpand) {
+                toc.removeClass('expand');
+                toggle.text('Expand all');
+            } else {
+                toc.addClass('expand');
+                toggle.text('Collapse all');
+            }
+        }
+
+        function scrollToTop() {
+            $('body, html').stop(true, true).animate({
+                scrollTop: 0
+            }, 100, "linear");
+        }
+
+        function scrollToBottom() {
+            $('body, html').stop(true, true).animate({
+                scrollTop: $(document.body)[0].scrollHeight
+            }, 100, "linear");
+        }
+    </script>
+</body>
+
+</html>
