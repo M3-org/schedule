@@ -3,8 +3,8 @@
 #### Saturday April 25, 2020
 #### **Time:** 3pm PST
 
-Images: <https://imgur.com/a/jkBmyW8>
-Highlight video: <https://www.youtube.com/watch?v=k6K1PqZPEZM>
+- Images: <https://imgur.com/a/jkBmyW8>
+- Highlight video: <https://www.youtube.com/watch?v=k6K1PqZPEZM>
 
 -------------------------------------------
 
