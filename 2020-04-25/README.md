@@ -4,7 +4,7 @@
 #### **Time:** 3pm PST
 
 - Images: <https://imgur.com/a/jkBmyW8>
-- Highlight video: <https://www.youtube.com/watch?v=k6K1PqZPEZM>
+- Highlight video: <https://www.youtube.com/watch?v=bJ79nWr3Yzk>
 
 -------------------------------------------
 
