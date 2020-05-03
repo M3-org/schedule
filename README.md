@@ -39,3 +39,4 @@ Each M3 meet has a full write-up along with the archived agenda, full livestream
 - [2020-01-28](https://github.com/M3-org/schedule/tree/master/2020-01-28)
 - [2020-03-21](https://github.com/M3-org/schedule/tree/master/2020-03-21)
 - [2020-04-04](https://github.com/M3-org/schedule/tree/master/2020-04-04)
+- [2020-04-25](https://github.com/M3-org/schedule/tree/master/2020-04-25)
