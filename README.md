@@ -1,5 +1,8 @@
 # Schedule
 
+
+We are builders and makers of an open Metaverse. If interested in giving a lightning talk, drop a line on the [discord](https://discord.gg/m3org) or suggest a [proposal](https://github.com/M3-org/proposals/issues/) for an event.
+
 <div style="width: 40%; height: 40%; overflow: hidden">
   <img alt="M3" target="_blank" src="https://user-images.githubusercontent.com/29695350/64819288-8290e500-d573-11e9-83fe-8fbe1fe9ae70.gif"/>
 </div>
@@ -7,9 +10,9 @@
 
 -------------------------------------------
 
-We are builders and makers of an open Metaverse. If interested in giving a lightning talk, drop a line on the [discord](https://discord.gg/UgZDFZW) or suggest a [proposal](https://github.com/M3-org/proposals/issues/) for an event.
+## **NOTE: OLD REPO, SEE https://github.com/M3-org/avatar-interop**
 
-M3 meets bi-weekly/*every other week* on Sundays at 3pm PST in Mozilla Hubs. We use Discord to authenticate in Hubs, so you will need to be [signed into Discord](https://discord.gg/UgZDFZW) to join: **https://discord.gg/UgZDFZW**
+~~M3 meets bi-weekly/*every other week* on Sundays at 3pm PST in Mozilla Hubs~~. We use Discord to authenticate in Hubs, so you will need to be [signed into Discord](https://discord.gg/UgZDFZW) to join: **https://discord.gg/UgZDFZW**
 
 The next M3 meet will be at: **TBA**
 
