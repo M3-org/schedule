@@ -1,7 +1,7 @@
 # Schedule
 
 
-We are builders and makers of an open Metaverse. If interested in giving a lightning talk, drop a line on the [discord](https://discord.gg/m3-org) or suggest a [proposal](https://github.com/M3-org/proposals/issues/) for an event.
+We are builders and makers of an open Metaverse. If interested in giving a lightning talk, drop a line on the [discord](https://m3org.com/discord) or suggest a [proposal](https://github.com/M3-org/proposals/issues/) for an event.
 
 <div style="width: 40%; height: 40%; overflow: hidden">
   <img alt="M3" target="_blank" src="https://user-images.githubusercontent.com/29695350/64819288-8290e500-d573-11e9-83fe-8fbe1fe9ae70.gif"/>
